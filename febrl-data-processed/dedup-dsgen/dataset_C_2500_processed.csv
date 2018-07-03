@@ -1,0 +1,1001 @@
+rec_id,given_name,surname,street_number,address_1,address_2,suburb,postcode,state,date_of_birth,age,phone_number,soc_sec_id,given_name_duplicate,surname_duplicate,street_number_duplicate,address_1_duplicate,address_2_duplicate,suburb_duplicate,postcode_duplicate,state_duplicate,date_of_birth_duplicate,age_duplicate,phone_number_duplicate,soc_sec_id_duplicate
+6.0,phillip,hibble,24.0,russell street,brenleevale,the entrance,3044,qld,19480618.0,26.0,02 37801143,1805671,,hib ble,52.0,russell ftreet,brenleevale,the entrance,3044,qld,19480618.0,3.0,02 37811143,1805671
+6.0,phillip,hibble,24.0,russell street,brenleevale,the entrance,3044,qld,19480618.0,26.0,02 37801143,1805671,phillip,hibble,2.0,russell street,,the entrance,3043,qld,19840618.0,26.0,02 37801143,3345699
+6.0,phillip,hibble,24.0,russell street,brenleevale,the entrance,3044,qld,19480618.0,26.0,02 37801143,1805671,phillip,hibble,24.0,russel lstreet,spring xfield,the enttbance,3044,qld,,26.0,02 37810143,1805671
+6.0,phillip,hibble,24.0,russell street,brenleevale,the entrance,3044,qld,19480618.0,26.0,02 37801143,1805671,phillip,hibble,252.0,russell street,,the entrance,0354,qlde,19470618.0,26.0,,1805671
+6.0,phillip,hibble,24.0,russell street,brenleevale,the entrance,3044,qld,19480618.0,26.0,02 37801143,1805671,brianna,,24.0,russell street,brenleevale,the enftamce,3044,qld,19480688.0,21.0,02 37801143,1805671
+7.0,kaitlyn,blacklow,6.0,atherton street,,kalgoorlie,2085,tas,19321125.0,36.0,02 14992203,7565347,filip,hibbke,221.0,russellqsltreet,brenleevale,the entrance,3044,qld,19480618.0,26.0,02 37801143,1122004
+12.0,talia,nuske,30.0,lowanna street,,orange,3214,wa,19310227.0,38.0,07 45118710,2436284,,nuske,33.0,lowanna sxreet,,orange,3294,wa,19310227.0,38.0,07 45118710,9120523
+12.0,talia,nuske,30.0,lowanna street,,orange,3214,wa,19310227.0,38.0,07 45118710,2436284,talia,nuske,37.0,lowann astteet,,orange,3214,wa,19310227.0,38.0,07 45118710,2432585
+12.0,talia,nuske,30.0,lowanna street,,orange,3214,wa,19310227.0,38.0,07 45118710,2436284,talia,nuske,7.0,santalu street,,orange,3214,cps,,38.0,,2436284
+20.0,grace,douglas,11.0,marchant circuit,the old parsonage,boronia,2262,nt,19160930.0,26.0,04 67211623,4027325,douglas,graxe,10.0,marchant ircuit,the old parsonage,boronia,2262,nt,19160930.0,31.0,04 67211623,4027325
+20.0,grace,douglas,11.0,marchant circuit,the old parsonage,boronia,2262,nt,19160930.0,26.0,04 67211623,4027325,dougbss,gave,11.0,marchant circuit,the old parsonage,boronia,2262,ny,19160930.0,65.0,04 67211623,4027325
+20.0,grace,douglas,11.0,marchant circuit,the old parsonage,boronia,2262,nt,19160930.0,26.0,04 67211623,4027325,gracce,sagges,,marchant circuit,the old parsonage,boronk,2262,nt,19160930.0,26.0,04 67121623,4027835
+20.0,grace,douglas,11.0,marchant circuit,the old parsonage,boronia,2262,nt,19160930.0,26.0,04 67211623,4027325,grace,doyglas,11.0,marchantcfircuit,the old parsonage,boroqia,2262,nr,19165940.0,26.0,04 67211623,4027352
+20.0,grace,douglas,11.0,marchant circuit,the old parsonage,boronia,2262,nt,19160930.0,26.0,04 67211623,4027325,graxz,douvlas,11.0,marchantgvircuit,the old parsonage,boronia,2263,nt,19106930.0,26.0,04 67211623,1821552
+27.0,emiily,koutsouliotis,52.0,mundawari circuit,,,5107,,19090509.0,,03 45053540,1658564,,emikly,52.0,mundawari cklrcuit,,,5107,,19090509.0,,03 45053540,1658564
+27.0,emiily,koutsouliotis,52.0,mundawari circuit,,,5107,,19090509.0,,03 45053540,1658564,emiily,koutsoulilltis,570.0,mcwhae circuit,,,5170,,19095090.0,,03 45053540,1658564
+27.0,emiily,koutsouliotis,52.0,mundawari circuit,,,5107,,19090509.0,,03 45053540,1658564,emiily,koutsoaaiotis,1.0,mundawari circuit,nurock,,5107,,19090509.0,,03 45053540,1656854
+27.0,emiily,koutsouliotis,52.0,mundawari circuit,,,5107,,19090509.0,,03 45053540,1658564,emii kh,koutsoumiotis,52.0,mundawafilcircuit,,,5107,,19090159.0,,03 45053540,1658564
+28.0,tayah,williams,21.0,carleton street,kirklands,wanneroo,2016,vic,19210821.0,,08 30305356,9129793,emijlb,koutsouiotis,52.0,mundawariircuit,,,5105,,19090059.0,,03 45053540,1658564
+28.0,tayah,williams,21.0,carleton street,kirklands,wanneroo,2016,vic,19210821.0,,08 30305356,9129793,emiiy,,7.0,mundawari circuit,,,5081,,19090509.0,,03 45053540,1658564
+28.0,tayah,williams,21.0,carleton street,kirklands,wanneroo,2016,vic,19210821.0,,08 30305356,9129793,emiily,koutsojlijztis,25.0,mundawari circuit,,,1507,,,,03 45053540,1657146
+29.0,kelsea,wall,106.0,currong street,,menai,2830,nsw,19290824.0,26.0,02 44174469,1016833,kelsea,wall,107.0,currong treet,parklands,menax,2830,nzw,19280294.0,26.0,02 44174469,1010833
+29.0,kelsea,wall,106.0,currong street,,menai,2830,nsw,19290824.0,26.0,02 44174469,1016833,kelsea,wallkj,107.0,currong street,,meai,2830,,19290824.0,26.0,02 44174469,1016833
+29.0,kelsea,wall,106.0,currong street,,menai,2830,nsw,19290824.0,26.0,02 44174469,1016833,kelseq,waly,194.0,,,menai,2830,,19290824.0,62.0,02 44174469,1016823
+29.0,kelsea,wall,106.0,currong street,,menai,2830,nsw,19290824.0,26.0,02 44174469,1016833,kelsu,wall,,currongsrtreet,,mrnai,2830,nsw,,26.0,02 44174469,1015833
+30.0,tarshya,scott,241.0,bullala circuit,,boronia,2500,qld,19530206.0,39.0,02 62449153,9196586,kelsea,wall,210.0,currong dtreet,,,2830,nsw,,,02 44174469,1061833
+30.0,tarshya,scott,241.0,bullala circuit,,boronia,2500,qld,19530206.0,39.0,02 62449153,9196586,kelsea,wslw,100.0,currong street,,menia,2830,nsw,,26.0,02 44174469,1016833
+30.0,tarshya,scott,241.0,bullala circuit,,boronia,2500,qld,19530206.0,39.0,02 62449153,9196586,kelsea,waoo,106.0,currong street,,meni,2803,nsw,19299824.0,26.0,02 44174469,6117634
+30.0,tarshya,scott,241.0,bullala circuit,,boronia,2500,qld,19530206.0,39.0,02 62449153,9196586,kelsea,,12.0,currong thsreet,,menai,2830,nsiw,19209824.0,,02 44174469,1016733
+32.0,lauren,thomson,20.0,burnie street,karingal age hostel,albury,2194,,,39.0,08 80352642,1619033,layren,thomsn,7.0,burnie street,,albury,2194,,,39.0,08 80352642,1619033
+32.0,lauren,thomson,20.0,burnie street,karingal age hostel,albury,2194,,,39.0,08 80352642,1619033,keeley,thomsn,20.0,burnie srreet,,alubury,2194,vic,,39.0,08 80325642,1619033
+32.0,lauren,thomson,20.0,burnie street,karingal age hostel,albury,2194,,,39.0,08 80352642,1619033,lauren,thomson,254.0,burnie street,,alburh,2194,,,39.0,08 80392642,1619903
+32.0,lauren,thomson,20.0,burnie street,karingal age hostel,albury,2194,,,39.0,08 80352642,1619033,lail,thomson,2.0,burnie street,karingal age hostel,albnur,2194,,,93.0,08 80352642,1619033
+32.0,lauren,thomson,20.0,burnie street,karingal age hostel,albury,2194,,,39.0,08 80352642,1619033,lauren,thomson,286.0,burniestfeet,karingal age hostel,albury,2491,,,39.0,08 80352642,1608933
+33.0,max,blight,107.0,london circuit,the cottage,loganholme,3068,vic,19040912.0,22.0,08 98707172,6938418,lauren,thonsj,229.0,burnie street,karingal gae hostel,albubry,2194,,19120125.0,26.0,08 80352642,1619033
+33.0,max,blight,107.0,london circuit,the cottage,loganholme,3068,vic,19040912.0,22.0,08 98707172,6938418,lauren,thojson,21.0,burnievstreet,,albugy,2194,,,30.0,08 80352642,1619033
+33.0,max,blight,107.0,london circuit,the cottage,loganholme,3068,vic,19040912.0,22.0,08 98707172,6938418,laufej,thomscn,23.0,burnie street,karingal sge hostel,albury,2194,,,39.0,08 80352642,1619033
+35.0,riley,whitaker,28.0,barnard circuit,,blue haven,5098,vic,19690407.0,22.0,03 26092204,3065301,riley,whitsrler,28.0,barnard circuit,,bluehaven,5098,vxc,19690407.0,92.0,07 19892222,3065301
+35.0,riley,whitaker,28.0,barnard circuit,,blue haven,5098,vic,19690407.0,22.0,03 26092204,3065301,ri bej,whitaker,28.0,barnard circuit,,blue haven,5098,viu,19690407.0,22.0,03 26092204,3065301
+35.0,riley,whitaker,28.0,barnard circuit,,blue haven,5098,vic,19690407.0,22.0,03 26092204,3065301,ryoey,whitarr,28.0,barnard circuit,,bluehaen,5098,nsw,19691407.0,22.0,03 26092204,3065301
+47.0,brigette,petersons,8.0,coranderrk street,,langford,2226,vic,19471213.0,38.0,03 09949848,4781067,brigette,peternsons,81.0,coranderkstreet,,langford,2226,vil,19417213.0,,03 09949848,5566345
+50.0,james,bryson,58.0,lennard street,,moruya,4873,nsw,19100309.0,34.0,04 75373812,5654593,jams,bryson,8.0,derrington crescent,,morua,4873,ntw,19109369.0,34.0,04 75373812,5654593
+63.0,,melville,5.0,boolee street,howard court,wallacia,2176,,19740226.0,24.0,02 89850968,8881187,,,51.0,boolee street,howard rcourt,wallacia,2176,,19740226.0,24.0,,6712433
+63.0,,melville,5.0,boolee street,howard court,wallacia,2176,,19740226.0,24.0,02 89850968,8881187,,melvile,0.0,booleestxreet,howard court,walcua,2176,,19740226.0,24.0,02 89895968,8881187
+63.0,,melville,5.0,boolee street,howard court,wallacia,2176,,19740226.0,24.0,02 89850968,8881187,,melvile,8.0,,howard court,wallacia,1276,,19740226.0,29.0,,8881187
+63.0,,melville,5.0,boolee street,howard court,wallacia,2176,,19740226.0,24.0,02 89850968,8881187,,melvile,5.0,boolee atreet,howard court,wallacia,2768,,,24.0,02 89850968,8881187
+64.0,leon,hatfield,28.0,mcconnel crescent,,wentworthville,2786,vic,19400607.0,26.0,08 98359494,1963646,,melville,9.0,boolee street,,walkada,2716,,19740226.0,23.0,02 89850968,8881187
+64.0,leon,hatfield,28.0,mcconnel crescent,,wentworthville,2786,vic,19400607.0,26.0,08 98359494,1963646,,,5.0,boolee atreet,,walacia,2417,,19740226.0,25.0,02 89850968,8881187
+64.0,leon,hatfield,28.0,mcconnel crescent,,wentworthville,2786,vic,19400607.0,26.0,08 98359494,1963646,,melville,5.0,streetbollee,,wallsvib,2176,,19740126.0,24.0,02 89850968,8881187
+64.0,leon,hatfield,28.0,mcconnel crescent,,wentworthville,2786,vic,19400607.0,26.0,08 98359494,1963646,,melvile,5.0,mackellar crescent,howard court,wallacia,1292,,19740226.0,25.0,02 89850968,8881187
+65.0,william,bain,28.0,jennings street,glenore,bass hill,3071,vic,19000119.0,33.0,04 60647735,5228869,william,baisn,28.0,glenore,,bass hill,3071,vic,,33.0,04 60647735,5228869
+104.0,emiily,nicholas,5.0,mccawley street,the domain,anglesea,6282,nsw,19790116.0,29.0,08 58925892,6887278,emiily,nichooax,5.0,street mccawley,,anglwea,6282,nsw,19799961.0,29.0,08 58925892,6080833
+104.0,emiily,nicholas,5.0,mccawley street,the domain,anglesea,6282,nsw,19790116.0,29.0,08 58925892,6887278,emkilp,nicholas,49.0,mccawley street,the domain,anglesea,3141,nsw,19790116.0,29.0,08 58925892,5605358
+104.0,emiily,nicholas,5.0,mccawley street,the domain,anglesea,6282,nsw,19790116.0,29.0,08 58925892,6887278,nicho s,emioy,5.0,mccawley street,the domain,anglesea,6282,nsw,19791016.0,23.0,08 58925892,6887278
+104.0,emiily,nicholas,5.0,mccawley street,the domain,anglesea,6282,nsw,19790116.0,29.0,08 58925892,6887278,emiily,nicholas,6.0,mccawley street,,anglesea,6228,ksc,19790116.0,35.0,08 67665128,6887278
+104.0,emiily,nicholas,5.0,mccawley street,the domain,anglesea,6282,nsw,19790116.0,29.0,08 58925892,6887278,emiily,nicholas,5.0,mccawldy treet,,anglesea,6282,nss,,29.0,08 58928592,2352244
+105.0,lachlan,betheras,149.0,morrow street,,gymea bay,5159,sa,19770919.0,33.0,02 75114935,6494489,emiilay,nichklas,5.0,mccawley street,the domain,anglesea,6282,nw,19792026.0,29.0,04 44431058,6887278
+105.0,lachlan,betheras,149.0,morrow street,,gymea bay,5159,sa,19770919.0,33.0,02 75114935,6494489,emiioy,nichoss,6.0,mccawldy street,,anglesea,6282,,19790116.0,29.0,08 58925892,6887278
+110.0,ash,woof,6.0,rickard place,,beaumaris,4850,sa,19400503.0,,08 29283645,1676238,ash,woxof,,rickard place,amaroo retrmnt vlge,beaumakis,4580,sa,19400063.0,,08 29263645,1676238
+110.0,ash,woof,6.0,rickard place,,beaumaris,4850,sa,19400503.0,,08 29283645,1676238,asf,woof,6.0,rickard place,,beauari,4850,sa,19020425.0,,08 39873645,1676238
+110.0,ash,woof,6.0,rickard place,,beaumaris,4850,sa,19400503.0,,08 29283645,1676238,ash,woof,4.0,rickard place,inghams pplant,beaumaris,4850,sj,19630425.0,,08 29283645,1676238
+111.0,grace,poole,23.0,hanna street,george cottage,hoppers crossing,4812,qld,19541203.0,30.0,08 00631949,9315648,grace,poole,23.0,hannatreet,,hoppers crossing,4812,qj,19541203.0,30.0,08 02661949,9315648
+111.0,grace,poole,23.0,hanna street,george cottage,hoppers crossing,4812,qld,19541203.0,30.0,08 00631949,9315648,grais,poole,23.0,hanna wdreet,george cottage,hoppers crossing,4851,qld,19541203.0,30.0,08 00316949,9139648
+111.0,grace,poole,23.0,hanna street,george cottage,hoppers crossing,4812,qld,19541203.0,30.0,08 00631949,9315648,grack,poole,23.0,hanna street,cottage gerorge,hoppers crzssing,4811,qld,19541203.0,44.0,08 00631949,9315648
+111.0,grace,poole,23.0,hanna street,george cottage,hoppers crossing,4812,qld,19541203.0,30.0,08 00631949,9315648,grace,poole,23.0,hanna street,george cottage,4812,hopperscr ossing,,19870223.0,3.0,08 00631949,9315648
+115.0,hayley,bawden,193.0,isabella drive,lighthouse bch vge,springfield,2234,tas,19531225.0,,03 66953544,4112588,hayley,bawden,193.0,isabella drive,lighthouse bch vge,springfyield,2234,tav,19513325.0,,03 66935544,4112688
+115.0,hayley,bawden,193.0,isabella drive,lighthouse bch vge,springfield,2234,tas,19531225.0,,03 66953544,4112588,hayley,bawden,193.0,isabellsgdrive,,springfiled,2243,tadc,19531825.0,,03 66953544,4112588
+121.0,travis,charles,137.0,napthali close,,middle park,2850,vic,19710103.0,,08 22647330,1818379,travig,challrr,138.0,napthali close,,middle park,2850,,19710103.0,,08 22647330,1818379
+121.0,travis,charles,137.0,napthali close,,middle park,2850,vic,19710103.0,,08 22647330,1818379,travks,chzrlrs,137.0,napthalk ckose,,middlperk,2850,vic,19310926.0,,08 22467330,1818379
+121.0,travis,charles,137.0,napthali close,,middle park,2850,vic,19710103.0,,08 22647330,1818379,travis,charkws,171.0,close napthali,,middleeoark,2850,vic,,,08 22647330,1818736
+122.0,sienna,boag,18.0,mccabe crescent,,,2484,nsw,19650218.0,32.0,03 89617865,6175339,sienna,boag,9.0,mccabe ceescent,tarcola,,2484,nsw,19650288.0,20.0,03 89617865,6175339
+122.0,sienna,boag,18.0,mccabe crescent,,,2484,nsw,19650218.0,32.0,03 89617865,6175339,senan,boabu,12.0,,,,2484,nsw,19650218.0,32.0,03 89617865,6175339
+122.0,sienna,boag,18.0,mccabe crescent,,,2484,nsw,19650218.0,32.0,03 89617865,6175339,sienna,bhog,18.0,mccabe crescent,,,2484,nswb,19659218.0,22.0,03 89617865,6428173
+122.0,sienna,boag,18.0,mccabe crescent,,,2484,nsw,19650218.0,32.0,03 89617865,6175339,sienn,bogw,18.0,mccabebjescent,,,2484,nxq,,32.0,03 89617865,6175339
+122.0,sienna,boag,18.0,mccabe crescent,,,2484,nsw,19650218.0,32.0,03 89617865,6175339,sienfha,boaav,18.0,mccabe crescent,,,2867,nsw,19605018.0,32.0,03 89617865,6175339
+125.0,dillon,hinton,21.0,kellaway street,,chatswood,7210,tas,19120530.0,30.0,08 86650952,3464313,dillbn,hinotn,28.0,,,chatswood,7219,tas,19120530.0,30.0,08 86650952,6907671
+125.0,dillon,hinton,21.0,kellaway street,,chatswood,7210,tas,19120530.0,30.0,08 86650952,3464313,dillon,hinto,21.0,kellaway kstreet,,chatwood,7210,t,19192530.0,30.0,,3464313
+137.0,talan,jackway,885.0,winstanley street,burraganee,caulfield north,2640,nsw,19311029.0,38.0,02 54254567,9197426,talan,jackway,882.0,,,caulfielpnorth,2640,nse,19311029.0,,02 54254567,9197426
+137.0,talan,jackway,885.0,winstanley street,burraganee,caulfield north,2640,nsw,19311029.0,38.0,02 54254567,9197426,talan,javoway,,winstanley street,burraganee,caulfield north,2640,nsw,19060448.0,38.0,02 54254567,9197426
+137.0,talan,jackway,885.0,winstanley street,burraganee,caulfield north,2640,nsw,19311029.0,38.0,02 54254567,9197426,talan,jackway,885.0,winstanlh street,,caulfiel eorth,2640,nsy,19311609.0,,02 54254567,9197426
+137.0,talan,jackway,885.0,winstanley street,burraganee,caulfield north,2640,nsw,19311029.0,38.0,02 54254567,9197426,talab,jacjwyy,58.0,winstanley street,,caulfiedaqnorth,2640,nsw,19311029.0,38.0,02 54254567,9197426
+138.0,liam,nguyen,2.0,dugdale street,,rooty hill,2536,vic,19171009.0,23.0,08 83503264,3467775,talan,jaxbkay,885.0,winstanlh street,,caulfield north,2640,nsw,19311052.0,37.0,02 54254567,9197426
+138.0,liam,nguyen,2.0,dugdale street,,rooty hill,2536,vic,19171009.0,23.0,08 83503264,3467775,jackway,talwn,885.0,winstanlet street,,caulfield north,2640,,19311049.0,38.0,02 54254567,9197436
+138.0,liam,nguyen,2.0,dugdale street,,rooty hill,2536,vic,19171009.0,23.0,08 83503264,3467775,taan,jackway,8879.0,winstanley street,burraganee,caulfield north,2640,naw,19900235.0,38.0,02 54254567,9197426
+141.0,connor,hope,316.0,morehead street,good forest,croydon,5096,sa,19081117.0,22.0,03 26559651,8948802,connot,hopd,316.0,morehead street,,cr oyyon,5096,sa,19081197.0,25.0,03 26559651,8948802
+141.0,connor,hope,316.0,morehead street,good forest,croydon,5096,sa,19081117.0,22.0,03 26559651,8948802,connor,hopue,3167.0,morehead street,,croydon,5063,sa,19081117.0,37.0,03 26559651,8948802
+141.0,connor,hope,316.0,morehead street,good forest,croydon,5096,sa,19081117.0,22.0,03 26559651,8948802,connor,rost,3172.0,morehead street,good forest,croyson,5069,sa,19081117.0,22.0,03 26559651,8948802
+141.0,connor,hope,316.0,morehead street,good forest,croydon,5096,sa,19081117.0,22.0,03 26559651,8948802,connor,hope,316.0,morehead street,,croydon,5029,sa,19799420.0,27.0,03 26559651,8944820
+142.0,jenna,martin,94.0,perrin circuit,,thirroul,3911,nsw,19560316.0,26.0,07 78127890,5750635,connor,hopw,339.0,morehead street,good forest,croyvln,0579,sa,19081171.0,22.0,03 26559651,8948802
+151.0,cooper,nagel,27.0,chauvel street,,grafton,2669,vic,19490214.0,40.0,07 68846434,7588882,coopc,narbl,27.0,chauvel street,,grafton,2669,vic,19490124.0,40.0,07 68846434,7588782
+151.0,cooper,nagel,27.0,chauvel street,,grafton,2669,vic,19490214.0,40.0,07 68846434,7588882,coop er,nagel,7.0,chauvel uafreet,,grafton,2669,vic,19492414.0,40.0,07 68846434,7588882
+161.0,chloe,coussiounelos,1.0,gorman crescent,,oakleigh,4804,,,25.0,04 03192092,3876048,chx,coussiounelos,1.0,gormanfescent,,oaklepigh,9404,,,25.0,04 03192092,3876028
+174.0,david,schutz,3.0,markham street,,moorabbin,5098,nsw,19000216.0,28.0,02 63640718,9380292,david,schuzzf,3.0,markha mstreet,,moorabbin,5098,nsw,19000216.0,28.0,02 63640718,9384912
+174.0,david,schutz,3.0,markham street,,moorabbin,5098,nsw,19000216.0,28.0,02 63640718,9380292,david,schhtz,,markham ntreet,,moorbbin,5098,nt,19000216.0,83.0,02 63640718,9380292
+174.0,david,schutz,3.0,markham street,,moorabbin,5098,nsw,19000216.0,28.0,02 63640718,9380292,david,schudz,8.0,markham street,,moorabbin,5098,,19002212.0,28.0,02 63634718,9380292
+174.0,david,schutz,3.0,markham street,,moorabbin,5098,nsw,19000216.0,28.0,02 63640718,9380292,davie,scbhutz,5.0,markhajsgreet,,moorabbin,5098,nsw,19000216.0,28.0,02 63649718,9380221
+174.0,david,schutz,3.0,markham street,,moorabbin,5098,nsw,19000216.0,28.0,02 63640718,9380292,,scnt,4.0,markhammsitreet,,moorabbin,5098,nsw,19002216.0,28.0,02 63640718,6116171
+176.0,oliver,andrews,32.0,blamey crescent,lineyard,airport west,4103,qld,19650302.0,24.0,08 84813116,2150856,olie,andrrws,32.0,blamey ceescent,,airport west,4101,qld,19130204.0,,08 84831116,2150586
+176.0,oliver,andrews,32.0,blamey crescent,lineyard,airport west,4103,qld,19650302.0,24.0,08 84813116,2150856,oliver,andws,32.0,blamey crdscent,lineyard,airport west,4130,alc,19650102.0,28.0,,2150856
+176.0,oliver,andrews,32.0,blamey crescent,lineyard,airport west,4103,qld,19650302.0,24.0,08 84813116,2150856,olivr,andrews,31.0,blamey crescent,,airport west,4130,qd,19650302.0,14.0,08 84813116,2150856
+176.0,oliver,andrews,32.0,blamey crescent,lineyard,airport west,4103,qld,19650302.0,24.0,08 84813116,2150856,andrews,oliver,39.0,blamey jdcrdscent,lineyard,airport west,4103,qld,19650302.0,,08 87813116,2150856
+176.0,oliver,andrews,32.0,blamey crescent,lineyard,airport west,4103,qld,19650302.0,24.0,08 84813116,2150856,oliver,andresw,32.0,blamey cescent,lineyafd,airpor twest,4103,qld,19625102.0,24.0,08 84813116,2150865
+177.0,megan,taylor,46.0,mirrool street,hillview,kingsford,7215,nsw,19851130.0,23.0,02 59570688,3812858,megb,tayllr,7.0,mirroolastreet,hillview,kingspford,7261,nsw,19851180.0,23.0,02 59570688,3812858
+177.0,megan,taylor,46.0,mirrool street,hillview,kingsford,7215,nsw,19851130.0,23.0,02 59570688,3812858,megan,taylor,46.0,treet irrool,,kingsford,7215,nsw,19861130.0,23.0,02 59579688,3818285
+177.0,megan,taylor,46.0,mirrool street,hillview,kingsford,7215,nsw,19851130.0,23.0,02 59570688,3812858,megan,taylomr,41.0,mirroouptreet,hillview,kingsford,7215,nsw,19851130.0,23.0,02 59590688,3812805
+190.0,stephanie,nash,104.0,carnegie crescent,yarraban,charlestown,2195,nsw,,26.0,07 24053474,3745430,stephaine,nsax,1057.0,carnegie crescent,yarraban,charlestown,2196,nsw,19638001.0,26.0,07 24053474,3745430
+190.0,stephanie,nash,104.0,carnegie crescent,yarraban,charlestown,2195,nsw,,26.0,07 24053474,3745430,stephanie,naas,4473.0,crescent carnegie,,charlestiwn,2155,nsw,,26.0,07 24053474,3745430
+190.0,stephanie,nash,104.0,carnegie crescent,yarraban,charlestown,2195,nsw,,26.0,07 24053474,3745430,,nawf,94.0,carnegie ccescent,,charlestown,2195,nsw,,26.0,07 21053474,3745430
+190.0,stephanie,nash,104.0,carnegie crescent,yarraban,charlestown,2195,nsw,,26.0,07 24053474,3745430,stephanie,nash,104.0,carnegie crescent,,charlestownb,2185,bso,,26.0,07 24053474,3745430
+190.0,stephanie,nash,104.0,carnegie crescent,yarraban,charlestown,2195,nsw,,26.0,07 24053474,3745430,stephanie,nash,197.0,carnegie crescent,yarraban,charlestown,2179,nsw,,35.0,07 24053474,3748430
+191.0,amy,kinloch,14.0,mcgee place,south yathong,dee why,2148,nsw,,,02 27620694,3777231,archie,nag,104.0,carnegie crescent,,charltown,2195,nsv,,26.0,07 24053474,3745430
+191.0,amy,kinloch,14.0,mcgee place,south yathong,dee why,2148,nsw,,,02 27620694,3777231,stedanie,ns sh,19.0,carnegie crescent,laanecoorie,charlestown,2195,nsw,,26.0,07 24068474,3745430
+191.0,amy,kinloch,14.0,mcgee place,south yathong,dee why,2148,nsw,,,02 27620694,3777231,stepjaeie,nash,1.0,carnegie crescent,yarraban,charletown,2193,nsw,,21.0,07 24053474,3745430
+191.0,amy,kinloch,14.0,mcgee place,south yathong,dee why,2148,nsw,,,02 27620694,3777231,stephannie,nash,104.0,ckrescent cqrnegie,,charekstown,2159,nsw,,26.0,07 24053474,3745430
+202.0,,scott,6.0,parsons street,bribie pines vlge,burnie,2354,,19740518.0,24.0,04 94307045,3649025,,scii,6.0,parsons street,,burnie,2436,,19745518.0,24.0,04 94307045,3649025
+202.0,,scott,6.0,parsons street,bribie pines vlge,burnie,2354,,19740518.0,24.0,04 94307045,3649025,,scphtt,6.0,parsons s street,,23fv,burnie,,19740518.0,24.0,04 94307045,3649025
+202.0,,scott,6.0,parsons street,bribie pines vlge,burnie,2354,,19740518.0,24.0,04 94307045,3649025,,scott,6.0,parsons street,,burn,2354,,19740518.0,41.0,04 94237045,3649935
+202.0,,scott,6.0,parsons street,bribie pines vlge,burnie,2354,,19740518.0,24.0,04 94307045,3649025,,,2.0,parsons ztreet,,burnie,2638,,19704518.0,24.0,04 94307045,3649025
+202.0,,scott,6.0,parsons street,bribie pines vlge,burnie,2354,,19740518.0,24.0,04 94307045,3649025,,scott,6.0,parsond s ctreet,,bellara,2354,,19740318.0,24.0,04 94307045,3649025
+203.0,bianca,kirby,12.0,fitchett street,the haven,armidale,6147,nsw,19241227.0,32.0,04 71290848,7059104,,scott,9.0,bribie pknxzs vlge,,burnie,2354,,19749528.0,24.0,04 94307045,3649025
+203.0,bianca,kirby,12.0,fitchett street,the haven,armidale,6147,nsw,19241227.0,32.0,04 71290848,7059104,,scott,0.0,parsons street,,burni,2354,,19740618.0,24.0,04 94307045,3679025
+212.0,eliza,clark,1.0,fulton street,,morphettville,2046,,19071003.0,30.0,,5777055,elis,clark,12.0,fultonsteet,,morphetfville,2046,,19071003.0,30.0,,5777505
+212.0,eliza,clark,1.0,fulton street,,morphettville,2046,,19071003.0,30.0,,5777055,eliza,clarock,1.0,fulton street,,morphettville,2600,,19071003.0,3.0,,5777055
+212.0,eliza,clark,1.0,fulton street,,morphettville,2046,,19071003.0,30.0,,5777055,eliza,clarj,2.0,fultongreet,,morphtevyille,2065,,19071003.0,30.0,,5777055
+212.0,eliza,clark,1.0,fulton street,,morphettville,2046,,19071003.0,30.0,,5777055,eluza,clakr,6.0,,,,2046,,19071003.0,,,5777055
+214.0,brianna,smith,128.0,twamley crescent,haverlock park,palm beach,6122,nsw,19690806.0,19.0,08 22708609,6527453,brizbna,smith,128.0,twamley cyescent,,palm beach,6122,nsw,19690862.0,19.0,03 91194435,6527453
+214.0,brianna,smith,128.0,twamley crescent,haverlock park,palm beach,6122,nsw,19690806.0,19.0,08 22708609,6527453,brianna,smirv,128.0,twamleyqrexcent,haverlock park,palm beach,1629,nsw,19699806.0,16.0,08 22708609,6527453
+214.0,brianna,smith,128.0,twamley crescent,haverlock park,palm beach,6122,nsw,19690806.0,19.0,08 22708609,6527453,danual,smivy,128.0,twamley crescent,haverlock park,palm beach,6122,nsw,19699006.0,19.0,08 22708609,6527453
+214.0,brianna,smith,128.0,twamley crescent,haverlock park,palm beach,6122,nsw,19690806.0,19.0,08 22708609,6527453,brianna,smith,120.0,twamley crescent,haverlock park,palmbdavh,6112,nsw,19690806.0,32.0,03 78988759,6527453
+214.0,brianna,smith,128.0,twamley crescent,haverlock park,palm beach,6122,nsw,19690806.0,19.0,08 22708609,6527453,briahna,smzrlc,128.0,twamley crescent,,palm beach,6122,nsqk,19690806.0,35.0,08 22708609,6527453
+222.0,,mason,3.0,duffy street,,woodville gardens,5343,vic,19810918.0,31.0,07 25956730,7311418,,madon,7.0,duffy stfeet,villa 10,woodville vardens,5343,vic,19000607.0,31.0,07 25956730,7311418
+222.0,,mason,3.0,duffy street,,woodville gardens,5343,vic,19810918.0,31.0,07 25956730,7311418,,mason,1.0,duffy street,the pines,woodvill e ardens,5334,vic,19810581.0,,07 25986730,7311481
+222.0,,mason,3.0,duffy street,,woodville gardens,5343,vic,19810918.0,31.0,07 25956730,7311418,,macon,8.0,duffy sgreet,,woodvilleygardens,5343,viv,19810918.0,31.0,07 25956730,7311228
+222.0,,mason,3.0,duffy street,,woodville gardens,5343,vic,19810918.0,31.0,07 25956730,7311418,,masibr,3.0,,,woodville egardens,5343,vic,19810818.0,31.0,,7311418
+227.0,jared,munting,8.0,bullock circuit,hazelwood cottage,rankin park,2114,tas,19030220.0,,07 33778111,7333713,jared,muntvgu,1.0,bullock curcuit,hazelwood cottage,rankin park,2114,tas,19030220.0,,07 33772111,7333231
+261.0,natalee,gower,21.0,goldner circuit,,villeneuve,6020,nsw,19320406.0,33.0,03 03840928,1537582,gower,natalee,21.0,goldnericurcuit,,villeneuve,6002,nsw,19320206.0,33.0,03 03840928,1534852
+261.0,natalee,gower,21.0,goldner circuit,,villeneuve,6020,nsw,19320406.0,33.0,03 03840928,1537582,nataskee,gower,22.0,goldner vircuit,,villaneuve,6020,nsw,19320476.0,33.0,03 03840928,1537368
+266.0,jake,harris,600.0,inlander crescent,,peakhurst,2913,vic,19120528.0,,03 00246539,2162353,jak,harrnls,600.0,inlanderjrescent,,peahurst,2913,vic,19120528.0,,03 00446539,2162533
+270.0,alex,bryant,2.0,sinclair street,,lorn,4703,qld,19720622.0,34.0,03 56599633,4848292,alex,brvnat,2.0,sinclair sgreet,,lorn,4703,qld,19270552.0,34.0,03 56186933,4848292
+270.0,alex,bryant,2.0,sinclair street,,lorn,4703,qld,19720622.0,34.0,03 56599633,4848292,alex,bryant,2.0,sinclairqstreet,,lorm,4702,qld,19723652.0,34.0,,4848292
+270.0,alex,bryant,2.0,sinclair street,,lorn,4703,qld,19720622.0,34.0,03 56599633,4848292,alex,bryant,,sinclairaa treet,,lorn,8730,qlde,19720622.0,34.0,03 56599633,4848292
+270.0,alex,bryant,2.0,sinclair street,,lorn,4703,qld,19720622.0,34.0,03 56599633,4848292,alex,bryant,2.0,sinclairhtsreet,,lorjn,7403,qldi,19720632.0,34.0,07 25271467,4849492
+270.0,alex,bryant,2.0,sinclair street,,lorn,4703,qld,19720622.0,34.0,03 56599633,4848292,,bryand,4.0,sinclaircstreet,kellys plain,lork,4703,qlt,19729622.0,34.0,03 56599633,4848292
+271.0,catherine,lindon,63.0,kosciusko avenue,redlands,milton,2450,nsw,19880908.0,,07 97050210,3188838,alde,braurnt,5.0,sinclaircstreet,,lorn,4703,qld,19720622.0,34.0,,4848292
+271.0,catherine,lindon,63.0,kosciusko avenue,redlands,milton,2450,nsw,19880908.0,,07 97050210,3188838,aoe,bryant,5.0,sinclairsrreet,,lorh,4703,qld,19774622.0,34.0,03 56599633,4848292
+280.0,stephanie,brown,1.0,giles street,,westcourt,6110,vic,19630213.0,34.0,02 95010065,4568268,stephanie,brljh,1.0,giles srueet,,westcourt,6119,vivt,19630213.0,34.0,07 23459292,4568268
+280.0,stephanie,brown,1.0,giles street,,westcourt,6110,vic,19630213.0,34.0,02 95010065,4568268,stephanie,bran,15.0,gilessreet,,westcourt,6110,vic,,34.0,02 95010065,4598068
+280.0,stephanie,brown,1.0,giles street,,westcourt,6110,vic,19630213.0,34.0,02 95010065,4568268,stephanie,broemn,1.0,giles street,,westcourt,6101,vic,19638713.0,34.0,02 95010065,4567628
+280.0,stephanie,brown,1.0,giles street,,westcourt,6110,vic,19630213.0,34.0,02 95010065,4568268,stephanie,brlwn,1.0,giles srreet,,westcg urt,6110,xiw,,34.0,02 95010065,4568268
+280.0,stephanie,brown,1.0,giles street,,westcourt,6110,vic,19630213.0,34.0,02 95010065,4568268,stfeatie,browqs,1.0,giles street,,westcourt,6110,vik,19630113.0,34.0,02 95010065,9477022
+281.0,lachlan,canning,4.0,eggleston crescent,,,2158,vic,19691119.0,35.0,08 41611467,7161551,stefanei,browny,1.0,gilessreet,,westcourt,6110,voa,19630213.0,34.0,02 95010065,4568268
+298.0,benjamin,clayton,67.0,roughley place,,noble park,2101,nsw,19821231.0,30.0,08 45558387,4946633,clayton,benuamn,4.0,alberga street,,noblegpark,2101,nsw,19821231.0,30.0,08 45558387,4946633
+299.0,gabrielle,davies,94.0,chandler street,birrell court,glenwood,3608,sa,,,04 98895949,2351642,davies,gabriqlle,93.0,chandler street,birrell court,rockhaepton,3698,sa,,,04 98895949,2351142
+299.0,gabrielle,davies,94.0,chandler street,birrell court,glenwood,3608,sa,,,04 98895949,2351642,gabrielle,davirs,95.0,chandler wnstreet,birrel court,glenewood,3608,sak,,,04 98890994,2351642
+299.0,gabrielle,davies,94.0,chandler street,birrell court,glenwood,3608,sa,,,04 98895949,2351642,gabrile,davies,93.0,chandler street,,glenwood,3608,sas,,42.0,04 98895949,2351642
+299.0,gabrielle,davies,94.0,chandler street,birrell court,glenwood,3608,sa,,,04 98895949,2351642,gabrielle,daviets,28.0,chandleytreet,,glenwood,3608,sa,,,04 98895949,2351642
+300.0,harrison,wood,96.0,,broadwater village,petrie,6214,vic,19270416.0,,02 05925099,9128178,davies,gabridkle,94.0,chandle rbstreet,birrell court,glewnood,3608,,,,04 98895949,2351642
+300.0,harrison,wood,96.0,,broadwater village,petrie,6214,vic,19270416.0,,02 05925099,9128178,gabrike,malor,98.0,chandler street,birrell court,glenwood,3068,sa,,,04 98895949,2351642
+309.0,matthew,kaniskan,283.0,bell place,,spring hill,2620,wa,19190623.0,41.0,07 18625404,6246733,matthew,kanismrn,28.0,fairbairn qvenue,,spring hill,2602,wa,19190623.0,41.0,07 18425404,6246739
+309.0,matthew,kaniskan,283.0,bell place,,spring hill,2620,wa,19190623.0,41.0,07 18625404,6246733,matwew,kaniskan,273.0,bell olbce,,spring hill,2620,wa,19190623.0,41.0,07 71806616,6246733
+309.0,matthew,kaniskan,283.0,bell place,,spring hill,2620,wa,19190623.0,41.0,07 18625404,6246733,matthew,kanikskian,283.0,bell place,,spring hill,2628,ww,19190623.0,36.0,07 18625404,6246733
+309.0,matthew,kaniskan,283.0,bell place,,spring hill,2620,wa,19190623.0,41.0,07 18625404,6246733,matyheo,kaniokzn,283.0,bell place,,spring hill,2260,wa,19190628.0,41.0,07 18625404,6246733
+311.0,bayley,lewis,1.0,mount vernon drive,,rothwell,6019,vic,19430927.0,43.0,08 99259418,1550384,bayley,lewj s,1.0,mount vernonidrive,tinamba hvfotel,rothwell,6019,,19430927.0,13.0,08 99259418,1550384
+311.0,bayley,lewis,1.0,mount vernon drive,,rothwell,6019,vic,19430927.0,43.0,08 99259418,1550384,bailwy,lewls,1.0,mount verbn drive,,rothwill,6019,vic,19430927.0,43.0,08 99529418,1550284
+311.0,bayley,lewis,1.0,mount vernon drive,,rothwell,6019,vic,19430927.0,43.0,08 99259418,1550384,baylye,hancock,1.0,mount vernon drive,,rothwll,6091,vic,19403327.0,43.0,08 99259418,1550384
+311.0,bayley,lewis,1.0,mount vernon drive,,rothwell,6019,vic,19430927.0,43.0,08 99259418,1550384,bailey,,7.0,buckmaster vrescent,burraburra,rothwell,6019,vic,19430927.0,43.0,08 99259418,1550384
+312.0,breeanne,shelton,9.0,cochrane crescent,,waverley,2614,vic,,34.0,07 90007292,9985804,bayley,leid,2.0,,,rothekl,,voc,19403027.0,43.0,08 99259418,1550384
+312.0,breeanne,shelton,9.0,cochrane crescent,,waverley,2614,vic,,34.0,07 90007292,9985804,bainley,lewis,2.0,mount vernmn drive,,rothwell,6014,vic,19430927.0,43.0,08 99259418,1550384
+312.0,breeanne,shelton,9.0,cochrane crescent,,waverley,2614,vic,,34.0,07 90007292,9985804,bayley,lewix,2.0,mount vernon drive,,rothdcll,6109,vic,19420937.0,43.0,03 31124780,1550384
+313.0,andrew,tabor,28.0,kirkcaldie circuit,,trundle,2234,sa,19890205.0,34.0,08 19981026,4199300,anderw,tabor,81.0,kirkcaldij circuit,,trundkle,2324,sa,19890250.0,34.0,08 19981026,4199300
+322.0,shakira,insch,14.0,mackaness place,port hills,tuggerah,4615,nsw,19750520.0,31.0,07 30349142,3195374,shakifa,,0.0,mackaness place,,tuggaraah,4615,nsw,19750520.0,31.0,07 30349142,3195374
+322.0,shakira,insch,14.0,mackaness place,port hills,tuggerah,4615,nsw,19750520.0,31.0,07 30349142,3195374,shakira,insch,34.0,mackaneesaplace,port hills,tuggerah,4615,nsw,19235612.0,31.0,07 30439142,3195374
+322.0,shakira,insch,14.0,mackaness place,port hills,tuggerah,4615,nsw,19750520.0,31.0,07 30349142,3195374,shakria,incsh,14.0,mackaness place,,tuggersh,4615,nsw,19740440.0,31.0,07 30321942,3195374
+322.0,shakira,insch,14.0,mackaness place,port hills,tuggerah,4615,nsw,19750520.0,31.0,07 30349142,3195374,shakira,insch,14.0,mackanes place,port hills,tuggerah,4316,nsw,19795510.0,13.0,07 30349142,3195374
+322.0,shakira,insch,14.0,mackaness place,port hills,tuggerah,4615,nsw,19750520.0,31.0,07 30349142,3195374,shakira,insch,11.0,mackaness place,port hills,tuggerah,4461,nsw,19755030.0,18.0,,3195374
+323.0,chloe,carrington,15.0,duterrau crescent,,west pennant hills,4560,act,19351212.0,32.0,08 57668060,9831742,shakdar,insch,142.0,mackaness place,,tuggzrah,4615,nsw,19750520.0,31.0,07 30349142,3194247
+323.0,chloe,carrington,15.0,duterrau crescent,,west pennant hills,4560,act,19351212.0,32.0,08 57668060,9831742,shakira,insch,10.0,mackaness place,port hills,tuggerah,4651,nsw,19751020.0,,07 30349142,4986320
+323.0,chloe,carrington,15.0,duterrau crescent,,west pennant hills,4560,act,19351212.0,32.0,08 57668060,9831742,shakira,inscaa,148.0,mackaness place,,tuggerah,4615,nsw,19752520.0,32.0,07 30349142,3195374
+323.0,chloe,carrington,15.0,duterrau crescent,,west pennant hills,4560,act,19351212.0,32.0,08 57668060,9831742,shakira,insc h,18.0,mackanesyplace,port hills,tuggerah,4651,nsqn,19757020.0,31.0,07 30349142,3195374
+324.0,troy,williams,8.0,croton street,,glenorchy,2480,nsw,19580120.0,30.0,07 50905205,2262485,troi,willivrns,8.0,croton rteet,,glenorchy,2333,nsw,19850120.0,,07 50905205,2262485
+324.0,troy,williams,8.0,croton street,,glenorchy,2480,nsw,19580120.0,30.0,07 50905205,2262485,try,willkacms,4.0,croton sotreet,,glenotchy,2480,nss,19850130.0,30.0,07 50905205,2262485
+324.0,troy,williams,8.0,croton street,,glenorchy,2480,nsw,19580120.0,30.0,07 50905205,2262485,tru,williams,7.0,croton wtreet,,glenorchy,2480,nsw,19589120.0,30.0,07 50902505,2262485
+324.0,troy,williams,8.0,croton street,,glenorchy,2480,nsw,19580120.0,30.0,07 50905205,2262485,trou,williams,7.0,croton street,,glenorchy,2480,ne,,30.0,07 50902405,2262485
+331.0,hannah,hopgood,87.0,woralul street,,carlingford,3429,qld,19350415.0,30.0,07 41143255,6569838,hangah,hopgpd,88.0,woralul street,tophrs,carlingford,3424,qld,19710527.0,30.0,07 41143255,6569838
+342.0,tristan,richard,131.0,miller street,,ardeer,3187,vic,,,04 08368567,8591810,trisrsn,richard,12.0,miller street,,ardeer,3187,vic,,,04 08565867,8529816
+342.0,tristan,richard,131.0,miller street,,ardeer,3187,vic,,,04 08368567,8591810,trmstan,richarf,118.0,miller xteret,,ardeer,3187,vic,,,04 08368567,8591801
+342.0,tristan,richard,131.0,miller street,,ardeer,3187,vic,,,04 08368567,8591810,tryftna,richarmd,138.0,miller street,kasees l dge,ardeer,3187,vic,,,03 51302683,8591810
+342.0,tristan,richard,131.0,miller street,,ardeer,3187,vic,,,04 08368567,8591810,trysran,rivhard,1415.0,miller street,,ardeer,3187,vic,,,04 08368567,8591180
+342.0,tristan,richard,131.0,miller street,,ardeer,3187,vic,,,04 08368567,8591810,tragvn,richard,148.0,miller xfreet,,arder,3187,vic,,,04 08368567,8591810
+343.0,chloe,cahill,27.0,dobinson place,cottage,darlington,,vic,19110505.0,31.0,07 13765956,5724855,trisoan,richard,8.0,,,areer,3187,vic,19350230.0,,04 08368567,8591810
+343.0,chloe,cahill,27.0,dobinson place,cottage,darlington,,vic,19110505.0,31.0,07 13765956,5724855,trisypn,richard,142.0,miller street,,ardeer,3187,vic,,23.0,04 08387567,8591810
+343.0,chloe,cahill,27.0,dobinson place,cottage,darlington,,vic,19110505.0,31.0,07 13765956,5724855,tristan,richratd,131.0,tdreet miller,,ardeer,3187,vic,,,04 08368567,8519601
+349.0,samuel,goninan,111.0,max henry crescent,,st clair,3082,sa,19970217.0,33.0,03 53965450,7659110,samual,gonkjwn,111.0,max henrywkeescent,villa 34,st clair,3082,sa,19970217.0,30.0,03 53965450,7659110
+349.0,samuel,goninan,111.0,max henry crescent,,st clair,3082,sa,19970217.0,33.0,03 53965450,7659110,samurl,goninsfn,8.0,max henry yrescent,,st calkr,,sa,19970217.0,33.0,03 53965450,7659110
+349.0,samuel,goninan,111.0,max henry crescent,,st clair,3082,sa,19970217.0,33.0,03 53965450,7659110,samuel,goninan,1143.0,,,stclskir,3082,sa,,,03 53965450,7659110
+349.0,samuel,goninan,111.0,max henry crescent,,st clair,3082,sa,19970217.0,33.0,03 53965450,7659110,sameul,goninan,131.0,max henry crescent,,st clwir,3088,vis,19970217.0,33.0,03 53965450,8455979
+352.0,jacob,de mouilpied,45.0,mcintyre street,home hill,hazelbrook,3072,qld,19561022.0,23.0,03 58762297,2040849,jacob,de mouiypied,45.0,mcintyrfe treet,,hazelbrook,3072,qld,,23.0,04 16575949,2040589
+352.0,jacob,de mouilpied,45.0,mcintyre street,home hill,hazelbrook,3072,qld,19561022.0,23.0,03 58762297,2040849,jacob,de mouilpied,45.0,streetbcintyre,,hazelbrok,3072,qld,19560722.0,23.0,03 58276297,2040849
+352.0,jacob,de mouilpied,45.0,mcintyre street,home hill,hazelbrook,3072,qld,19561022.0,23.0,03 58762297,2040849,jacob,de mouailpied,65.0,mcintyre street,,hazelnook,3072,qld,19561312.0,23.0,03 58762297,2040849
+352.0,jacob,de mouilpied,45.0,mcintyre street,home hill,hazelbrook,3072,qld,19561022.0,23.0,03 58762297,2040849,jaob,de mouilpied,45.0,mcintyid street,home hill,hazelbarook,3020,qld,19440116.0,23.0,03 58726297,2040849
+407.0,damien,fortington,8.0,biraban place,,findon,2810,nsw,19471129.0,24.0,02 50087822,9496120,damien,fortingfton,,biraban place,,findon,2810,qlsv,19411389.0,25.0,02 50087822,9496120
+407.0,damien,fortington,8.0,biraban place,,findon,2810,nsw,19471129.0,24.0,02 50087822,9496120,damies,fortington,221.0,birabmn place,,finson,2810,nsw,19474109.0,24.0,02 50027822,9496120
+410.0,daniel,haywood,94.0,alfred hill drive,maranoa,karrinyup,5290,nsw,19010312.0,29.0,02 36828982,7975168,daniel,haywogd,94.0,alfred hill drive,,karrinyup,2590,nsw,19010312.0,,02 36888982,7975568
+410.0,daniel,haywood,94.0,alfred hill drive,maranoa,karrinyup,5290,nsw,19010312.0,29.0,02 36828982,7975168,daniel,haywood,9273.0,alfred hial drive,,karrinyup,5929,ns,19010212.0,29.0,02 36828982,7975168
+410.0,daniel,haywood,94.0,alfred hill drive,maranoa,karrinyup,5290,nsw,19010312.0,29.0,02 36828982,7975168,dannyel,haywood,92.0,alfred ihok drive,henry kendall village,karrunaup,5290,nsw,19010312.0,29.0,02 36828982,7975168
+410.0,daniel,haywood,94.0,alfred hill drive,maranoa,karrinyup,5290,nsw,19010312.0,29.0,02 36828982,7975168,danioe,haysood,9.0,belah street,,ringwood,5290,nsw,19010312.0,28.0,02 36838982,7975168
+410.0,daniel,haywood,94.0,alfred hill drive,maranoa,karrinyup,5290,nsw,19010312.0,29.0,02 36828982,7975168,danil,haywojod,95.0,alfred hill drive,maranioa,karrnyp,5290,nsw,,29.0,02 36828982,7975168
+437.0,spyke,west,560.0,colbeck street,,willoughby,6107,nsw,19520422.0,27.0,08 06175159,9699944,spyjg,luttfekl,28.0,colbeck street,,willoughby,6107,nsw,19520422.0,27.0,08 06175159,9699944
+437.0,spyke,west,560.0,colbeck street,,willoughby,6107,nsw,19520422.0,27.0,08 06175159,9699944,spyke,west,560.0,colbeck street,,willouby,1670,nsw,19502243.0,27.0,08 60171559,9690944
+437.0,spyke,west,560.0,colbeck street,,willoughby,6107,nsw,19520422.0,27.0,08 06175159,9699944,spk,wes t,569.0,colbeck sxteet,,willoughy,6107,nsw,19520122.0,,08 06175159,9699944
+442.0,ainsley,wright,41.0,daglish street,orange grove,oakford,3186,nsw,19110707.0,33.0,03 13557411,8498858,ains ldy,wrihnp,430.0,daglish street,,oakford,3186,nsw,19113707.0,33.0,03 13557411,8498858
+442.0,ainsley,wright,41.0,daglish street,orange grove,oakford,3186,nsw,19110707.0,33.0,03 13557411,8498858,ainsldb,wrivht,14.0,daglish street,,oakford,3186,nws,19110177.0,33.0,03 13557411,8498858
+442.0,ainsley,wright,41.0,daglish street,orange grove,oakford,3186,nsw,19110707.0,33.0,03 13557411,8498858,ainsley,wrify,41.0,daglish atreet,orange grove,oakford,5082,nsw,19380594.0,,03 13557411,8498858
+447.0,,weaver,30.0,yambina crescent,gunnarbee park,mathinna,3015,vic,,35.0,02 04177004,9790308,,weaxvrt,2.0,yambina crescent,,mathunna,3015,vic,,35.0,02 04977004,9790308
+447.0,,weaver,30.0,yambina crescent,gunnarbee park,mathinna,3015,vic,,35.0,02 04177004,9790308,,weaver,37.0,,,mathnna,3015,vic,,35.0,02 04177004,9793708
+454.0,alice,,280.0,cambridge street,,banyo,,nsw,19290221.0,,02 36429519,8631900,alie,,16.0,cambridge street,south view,baho,,qld,19293021.0,,02 36429519,8631900
+454.0,alice,,280.0,cambridge street,,banyo,,nsw,19290221.0,,02 36429519,8631900,allcd,,280.0,cambridgestreet,,bando,,nsw,19290221.0,,02 36429519,2696797
+454.0,alice,,280.0,cambridge street,,banyo,,nsw,19290221.0,,02 36429519,8631900,alice,,28986.0,cambridrstreet,,bayt,,nsw,19290221.0,,02 34629519,6356894
+454.0,alice,,280.0,cambridge street,,banyo,,nsw,19290221.0,,02 36429519,8631900,alice,,22.0,cambridgedtreet,,banyo,,nsw,19292021.0,,03 80097874,8631900
+454.0,alice,,280.0,cambridge street,,banyo,,nsw,19290221.0,,02 36429519,8631900,aliec,,280.0,streetm camfiddg,,banyl,,nsw,19290221.0,,02 36429519,8631000
+455.0,amelie,frusher,144.0,corser place,rocks park,wentworthville,3065,sa,19050722.0,34.0,04 01270354,3563722,amelie,fruser,135.0,corser place,rocks park,wentworpthville,3065,,19630807.0,34.0,04 01637054,3563722
+455.0,amelie,frusher,144.0,corser place,rocks park,wentworthville,3065,sa,19050722.0,34.0,04 01270354,3563722,alia,,280.0,cambridge street,,banyo,,nd,,26.0,07 81819140,8631900
+455.0,amelie,frusher,144.0,corser place,rocks park,wentworthville,3065,sa,19050722.0,34.0,04 01270354,3563722,amelrke,frusher,,,rocks park,wentworthville,3065,sq,19050622.0,34.0,04 01270354,3563722
+456.0,taylah,huggett,278.0,altson circuit,,alfords point,4885,,,34.0,08 50481967,5438328,tahosh,huggett,278.0,altson circuit,,alfondd print,4885,,,34.0,02 23303583,5438228
+456.0,taylah,huggett,278.0,altson circuit,,alfords point,4885,,,34.0,08 50481967,5438328,taylah,huggevtt,278.0,altson cyircuit,,point alfords,8385,,,34.0,08 50418967,5438318
+456.0,taylah,huggett,278.0,altson circuit,,alfords point,4885,,,34.0,08 50481967,5438328,taylah,huggett,270.0,,,alfordsgloint,4885,,,34.0,08 50481967,5433809
+456.0,taylah,huggett,278.0,altson circuit,,alfords point,4885,,,34.0,08 50481967,5438328,taylai,huggfsrt,278.0,altson czitcuit,,alfords point,4885,,,34.0,08 50834967,5438328
+456.0,taylah,huggett,278.0,altson circuit,,alfords point,4885,,,34.0,08 50481967,5438328,talyah,huggett,276.0,altson crcuit,,alfords point,4885,nss,,33.0,08 50561967,5438328
+457.0,montana,neske,74.0,clive steele avenue,,narrandera,2450,nsw,19960125.0,21.0,03 64089383,7789823,talh,huggett,27.0,altson circuit,,alfrodd point,4885,,,34.0,08 50481967,8787442
+457.0,montana,neske,74.0,clive steele avenue,,narrandera,2450,nsw,19960125.0,21.0,03 64089383,7789823,benjamin,hjggett,2770.0,altson circuit,,alfordspeoint,4885,qld,,34.0,08 50481967,5438328
+457.0,montana,neske,74.0,clive steele avenue,,narrandera,2450,nsw,19960125.0,21.0,03 64089383,7789823,taylah,huggett,278.0,altson piccuit,,alfrod sjpoint,4885,,19970311.0,34.0,08 50418967,5431238
+458.0,ebony,price,5.0,forbes street,,cromer,2540,qld,19811006.0,,03 98302407,9875825,ebpn,price,6.0,forbes street,,cromef,4838,qld,19811006.0,42.0,03 98302407,9875825
+458.0,ebony,price,5.0,forbes street,,cromer,2540,qld,19811006.0,,03 98302407,9875825,ebony,,63.0,,,cromxre,2540,qld,19811006.0,,03 98302407,9875825
+465.0,zack,steel,824.0,cambage street,,croydon,3121,nsw,19350330.0,32.0,04 14936707,5471262,zwc,steel,824.0,cambagw treet,,croydon,3121,nsw,19350330.0,32.0,04 14163707,2875929
+465.0,zack,steel,824.0,cambage street,,croydon,3121,nsw,19350330.0,32.0,04 14936707,5471262,zacj,polanowski,824.0,cambage street,,croyon,3121,nsw,13905330.0,32.0,04 14936707,5471766
+465.0,zack,steel,824.0,cambage street,,croydon,3121,nsw,19350330.0,32.0,04 14936707,5471262,zack,steel,824.0,cambage street,,croydn,3170,acu,19350330.0,32.0,04 14936707,5471262
+465.0,zack,steel,824.0,cambage street,,croydon,3121,nsw,19350330.0,32.0,04 14936707,5471262,zack,stetdl,824.0,cambage street,,croyso,3121,nsw,19305330.0,32.0,04 14993707,5471262
+466.0,holly,biggs,15.0,elizabeth crescent,the garden of eden caravan park,young,4219,qld,19680308.0,24.0,04 52170725,4856893,zac,stelm,8.0,cambage street,,footscray west,3121,nsw,19353030.0,32.0,04 14936707,5471622
+466.0,holly,biggs,15.0,elizabeth crescent,the garden of eden caravan park,young,4219,qld,19680308.0,24.0,04 52170725,4856893,zack,steee,28.0,cambage street,south macroom,croydon,3111,nsw,,,04 14964707,5471262
+466.0,holly,biggs,15.0,elizabeth crescent,the garden of eden caravan park,young,4219,qld,19680308.0,24.0,04 52170725,4856893,zacm,steel,822.0,cambag sreet,,crotdon,3211,nsw,19350330.0,31.0,04 14936707,5471262
+473.0,dylan,rieck,134.0,hone place,,kennington,2850,vic,19950530.0,30.0,02 45542901,4336230,dillln,riecsk,14.0,hone place,,kennington,2850,vic,19959580.0,30.0,02 45542901,4333620
+473.0,dylan,rieck,134.0,hone place,,kennington,2850,vic,19950530.0,30.0,02 45542901,4336230,dypan,rieck,1389.0,hone lzce,,kennington,2850,vic,19950530.0,,02 45542901,4336230
+475.0,rhys,clothier,40.0,jalanga crescent,emerald downs,mount annan,2480,nsw,19071026.0,,08 12345595,8738263,rhys,clotjier,40.0,jalangacfescent,,mount annhan,2480,,,,08 12345595,8738623
+475.0,rhys,clothier,40.0,jalanga crescent,emerald downs,mount annan,2480,nsw,19071026.0,,08 12345595,8738263,rhysn,clothibr,45.0,jalanga crescent,,mount annan,2480,nsw,,,,8738336
+475.0,rhys,clothier,40.0,jalanga crescent,emerald downs,mount annan,2480,nsw,19071026.0,,08 12345595,8738263,rhys,clotbkiker,40.0,jalanga crescent,emerald downs,mount annan,2480,nsw,19071926.0,43.0,08 12345595,8738263
+475.0,rhys,clothier,40.0,jalanga crescent,emerald downs,mount annan,2480,nsw,19071026.0,,08 12345595,8738263,h,clothiegr,3.0,jalanga crescent,emerald downs,mount annan,2480,nsw,,26.0,08 12345595,8738263
+476.0,imogen,beesley,11.0,justice place,,mansfield,2251,nsw,19671219.0,,02 39856101,6149729,rhys,clohtier,40.0,jalanga cescent,,2480o,mount annan,nsw,19071026.0,,08 12359455,8738263
+476.0,imogen,beesley,11.0,justice place,,mansfield,2251,nsw,19671219.0,,02 39856101,6149729,rhys,,4046.0,jalanga drescent,,mouny snan,2470,nsw,19071026.0,,03 37839509,8738263
+476.0,imogen,beesley,11.0,justice place,,mansfield,2251,nsw,19671219.0,,02 39856101,6149729,rhys,cloger,4.0,jalanga crescent,emerald downs,mount annan,2480,nsw,19709126.0,,08 12345595,8738263
+476.0,imogen,beesley,11.0,justice place,,mansfield,2251,nsw,19671219.0,,02 39856101,6149729,rhys,clothier,323.0,,emerald downs,mount anan,2480,nsw,19071026.0,,08 12335595,8738263
+476.0,imogen,beesley,11.0,justice place,,mansfield,2251,nsw,19671219.0,,02 39856101,6149729,rhy,clothier,40.0,jalanga crescent,,mount annan,2094,sa,19071926.0,,08 12345595,8738263
+480.0,alex,martin,,cambage street,min min,cunderdin,6722,qld,19421118.0,30.0,03 84853248,2968771,alex,maic,,cambage street,min min,cundetdin,6722,qld,19421128.0,30.0,03 84853248,6597034
+481.0,hannah,cicogna,,thompson place,,annandale,2478,vic,19390213.0,,03 43837772,5814312,hanih,cicogna,,thompsonwplace,,annandale,2478,vib,19390213.0,,03 43837772,5814122
+484.0,sean,green,39.0,karuah street,crosswinds,merrylands,4503,vic,,19.0,08 50637422,3598768,green,sean,32.0,karuah street,,merrtylands,4503,viv,,19.0,08 50637422,3597868
+484.0,sean,green,39.0,karuah street,crosswinds,merrylands,4503,vic,,19.0,08 50637422,3598768,seay,grelen,33.0,karuajesyqreet,crosswinds,merrylands,4503,vic,,19.0,08 50637422,3598768
+484.0,sean,green,39.0,karuah street,crosswinds,merrylands,4503,vic,,19.0,08 50637422,3598768,green,sean,32.0,karuah treet,crosswinds,4503,merrylands,vic,,29.0,08 50637422,6890193
+484.0,sean,green,39.0,karuah street,crosswinds,merrylands,4503,vic,,19.0,08 50637422,3598768,sean,greje,36.0,karuahwteeet,crosswinds,merrylands,4503,vic,19635054.0,19.0,08 50637422,3598768
+484.0,sean,green,39.0,karuah street,crosswinds,merrylands,4503,vic,,19.0,08 50637422,3598768,sean,greexn,397.0,karuah street,crosswinds,merrylands,4503,lut,,19.0,08 50637422,2395658
+485.0,mikayla,jeffery,2.0,gawler crescent,,acton,2162,,,,02 63128701,9537302,sean,green,39.0,karuah stfeet,,merylands,4593,vic,,19.0,07 23423285,3598768
+485.0,mikayla,jeffery,2.0,gawler crescent,,acton,2162,,,,02 63128701,9537302,seag,gresn,38.0,karuah street,,merrylands,4503,vic,,19.0,08 50637422,3598648
+485.0,mikayla,jeffery,2.0,gawler crescent,,acton,2162,,,,02 63128701,9537302,sean,green,31.0,karuah street,crosswynds,ascot park,4503,vivf,,19.0,08 50637422,3597687
+485.0,mikayla,jeffery,2.0,gawler crescent,,acton,2162,,,,02 63128701,9537302,sean,green,9.0,karuah street,,merrtylands,4503,vic,,18.0,08 50637422,3598768
+487.0,andrew,vickridge-smith,188.0,,manor grnds,kensington,4873,wa,19551203.0,28.0,08 95631647,4403244,,vickridgdgsmith,188.0,,,keningson,4873,wz,19551253.0,28.0,08 95631647,4403244
+487.0,andrew,vickridge-smith,188.0,,manor grnds,kensington,4873,wa,19551203.0,28.0,08 95631647,4403244,andew,vickridfd-smith,188.0,,manor grnds,keningon,4873,wa,,28.0,08 95631647,4403244
+487.0,andrew,vickridge-smith,188.0,,manor grnds,kensington,4873,wa,19551203.0,28.0,08 95631647,4403244,andrew,vickridge-smith,188.0,,,kensington,4873,wa,19521503.0,28.0,08 95641647,4403642
+487.0,andrew,vickridge-smith,188.0,,manor grnds,kensington,4873,wa,19551203.0,28.0,08 95631647,4403244,andras,,188.0,,,kensinbeton,4873,,19551603.0,28.0,08 95651647,4403244
+491.0,riley,weedon,41.0,mcclelland avenue,,gymea,2617,qld,19831219.0,,02 20034623,7177239,,weedonf,41.0,ammoneplace,,gumwa,2617,qld,,,02 20034623,7177239
+491.0,riley,weedon,41.0,mcclelland avenue,,gymea,2617,qld,19831219.0,,02 20034623,7177239,rilun,weedbn,87.0,avenue mccyelland,,gymea,2617,qld,19831129.0,,02 20004623,7177239
+491.0,riley,weedon,41.0,mcclelland avenue,,gymea,2617,qld,19831219.0,,02 20034623,7177239,riley,weeron,481.0,mcclellac wvenue,,gymea,2617,qld,,,,9941196
+491.0,riley,weedon,41.0,mcclelland avenue,,gymea,2617,qld,19831219.0,,02 20034623,7177239,riley,burnett,414.0,mcclelland avenue,,gyms,2617,qld,19600404.0,,02 20034623,7177239
+492.0,samuel,gallagher,103.0,bunbury street,,maryland,3218,,19730305.0,27.0,04 36363819,3933744,rylet,weedon,41.0,mcclellamdjavenue,,gymea,2627,qld,19831979.0,,02 20034623,7177239
+492.0,samuel,gallagher,103.0,bunbury street,,maryland,3218,,19730305.0,27.0,04 36363819,3933744,riley,weedovb,91.0,mcclelland avenue,,gymea,2671,,19831219.0,,02 20034623,7357984
+495.0,kobe,briggs,7.0,paloona place,,wesburn,5063,nsw,19070324.0,25.0,04 71791014,4194407,koge,briggs,5.0,paloona llace,,wesburn,5063,jsw,19073834.0,25.0,04 71791014,4194407
+498.0,samuel,hill,159.0,solus place,,carindale,4130,vic,19541011.0,38.0,03 38650798,3288265,samuel,hisll,149.0,solus place,,carinadale,4130,vic,19540161.0,,03 38650798,3288255
+498.0,samuel,hill,159.0,solus place,,carindale,4130,vic,19541011.0,38.0,03 38650798,3288265,samuel,hill,159.0,solus place,,carindale,4139,vic,,38.0,03 38650798,3259965
+498.0,samuel,hill,159.0,solus place,,carindale,4130,vic,19541011.0,38.0,03 38650798,3288265,samuel,hiklr,195.0,solus place,,carireale,4139,vic,19541511.0,38.0,03 38610798,3288265
+498.0,samuel,hill,159.0,solus place,,carindale,4130,vic,19541011.0,38.0,03 38650798,3288265,,hill,159.0,solus place,,carindale,4130,vic,19541011.0,38.0,03 38660798,3282685
+498.0,samuel,hill,159.0,solus place,,carindale,4130,vic,19541011.0,38.0,03 38650798,3288265,hill,samuel,1659.0,,,carindare,4130,vic,19541101.0,,03 38650798,3288265
+499.0,emiily,brunton,21.0,holroyd street,edminton farm,cheltenham,2145,nsw,19910727.0,23.0,07 82293235,4111721,samruel,hill,159.0,solus place,,carindale,4130,vic,19542281.0,38.0,03 38695798,3288265
+499.0,emiily,brunton,21.0,holroyd street,edminton farm,cheltenham,2145,nsw,19910727.0,23.0,07 82293235,4111721,samuel,hill,159.0,placeg suolus,,carindle,4130,vic,19110707.0,38.0,03 38650798,3282956
+499.0,emiily,brunton,21.0,holroyd street,edminton farm,cheltenham,2145,nsw,19910727.0,23.0,07 82293235,4111721,samuel,hilk,159.0,solus place,,carindale,4130,vic,,,03 38657098,4375565
+499.0,emiily,brunton,21.0,holroyd street,edminton farm,cheltenham,2145,nsw,19910727.0,23.0,07 82293235,4111721,samuel,hi l,16.0,solus place,,carindale,4130,vi,19541011.0,32.0,03 38650798,3288265
+500.0,jesse,houlder,41.0,candlebark close,,nanango,4019,vic,19950603.0,36.0,07 97684890,5351787,jesl,houldese,4.0,candlebask close,,nanango,4019,vic,19950693.0,36.0,07 97684890,5357787
+500.0,jesse,houlder,41.0,candlebark close,,nanango,4019,vic,19950603.0,36.0,07 97684890,5351787,jewsn,houlder,347.0,candlebark close,,nanabgo,4019,,19950603.0,36.0,07 97684890,5351787
+500.0,jesse,houlder,41.0,candlebark close,,nanango,4019,vic,19950603.0,36.0,07 97684890,5351787,jesa,houldre,48.0,close candlebarck,,nanahgo,4019,vc,19950603.0,36.0,07 96744890,5351787
+500.0,jesse,houlder,41.0,candlebark close,,nanango,4019,vic,19950603.0,36.0,07 97684890,5351787,jesse,parlec,41.0,candlebark close,,nanango,4019,vic,19905643.0,36.0,07 97644890,5361779
+500.0,jesse,houlder,41.0,candlebark close,,nanango,4019,vic,19950603.0,36.0,07 97684890,5351787,danielle,houldrr,45.0,candlebark close,,nanandgo,4091,vic,19950603.0,36.0,07 97684890,5351787
+501.0,sarah,stamp,36.0,alabaster street,,ultimo,4152,sa,19910525.0,,03 16315427,1935320,jsede,houldwr,41.0,candlebark close,,ferntree tully,4019,vic,19950693.0,36.0,07 97684890,5357816
+501.0,sarah,stamp,36.0,alabaster street,,ultimo,4152,sa,19910525.0,,03 16315427,1935320,jess,houlder,47.0,close cqndebark,,nannfo,4019,vic,19956030.0,36.0,07 97684890,5351787
+501.0,sarah,stamp,36.0,alabaster street,,ultimo,4152,sa,19910525.0,,03 16315427,1935320,jeses,houldwr,41.0,candlebark close,,nanagno,4907,vic,19959963.0,36.0,07 97684890,5357187
+501.0,sarah,stamp,36.0,alabaster street,,ultimo,4152,sa,19910525.0,,03 16315427,1935320,jesse,houldgver,8.0,candlebark close,,nananngo,4019,vic,19950603.0,36.0,04 54793258,5351986
+505.0,harriet,fittock,29.0,hawker street,flr 1,gymea,4670,nsw,19980806.0,37.0,07 08861244,2390348,harriet,fittpck,29.0,steeet hawker,flr 1,gymea,4076,nsw,19980606.0,37.0,07 08861244,2390348
+505.0,harriet,fittock,29.0,hawker street,flr 1,gymea,4670,nsw,19980806.0,37.0,07 08861244,2390348,harret,fittoncfk,29.0,hawker street,,gymwea,4670,nsw,19980806.0,,07 08861244,2395348
+505.0,harriet,fittock,29.0,hawker street,flr 1,gymea,4670,nsw,19980806.0,37.0,07 08861244,2390348,harrokoet,fitock,2.0,hawker street,,gymea,4670,,19980806.0,37.0,08 13932981,2390348
+505.0,harriet,fittock,29.0,hawker street,flr 1,gymea,4670,nsw,19980806.0,37.0,07 08861244,2390348,harriet,fittock,20.0,hawker street,flr 1,gymea,4607,,19980806.0,37.0,07 08861244,2399484
+506.0,chloe,watson,46.0,ebden street,raafa estate,sydney,5070,wa,19750710.0,26.0,03 59043548,6215086,chloe,watsob,48.0,ebden sredt,raafa estate,syffney,5070,wa,,26.0,03 59043548,6214468
+506.0,chloe,watson,46.0,ebden street,raafa estate,sydney,5070,wa,19750710.0,26.0,03 59043548,6215086,chleo,watvann,46.0,ebden street,raafa estate,sydeny,5006,wa,19757050.0,62.0,03 59043548,6215086
+506.0,chloe,watson,46.0,ebden street,raafa estate,sydney,5070,wa,19750710.0,26.0,03 59043548,6215086,harriet,fittofuk,24.0,hawkerastreet,merungle hill,gymea,4760,nsw,19980806.0,37.0,07 08861244,2390348
+506.0,chloe,watson,46.0,ebden street,raafa estate,sydney,5070,wa,19750710.0,26.0,03 59043548,6215086,harriet,fittock,29.0,hawker street,,gymfd,4670,naq,19980806.0,34.0,07 08861244,2390438
+506.0,chloe,watson,46.0,ebden street,raafa estate,sydney,5070,wa,19750710.0,26.0,03 59043548,6215086,harriet,fittock,25.0,hawker street,flr 1,gfmd,4670,nsw,,,07 08861244,2390348
+506.0,chloe,watson,46.0,ebden street,raafa estate,sydney,5070,wa,19750710.0,26.0,03 59043548,6215086,harriet,fittoxn,99.0,hawker street,flr 1,gymea,4670,nsw,19908666.0,,07 08861244,2390348
+509.0,charlize,brighton,35.0,fidler court,bakers beach,casula,6317,,19610511.0,31.0,03 11178986,1245162,charlize,brighon,35.0,,bakers beach,casula,6317,,19651411.0,36.0,03 11168986,1247252
+514.0,jacob,sharples,46.0,alarmon crescent,bessy sue,warrawong,4217,nsw,19000113.0,,08 58575933,2605174,jacob,sharoles,49.0,alarmon crescent,,warrawong,4271,n,19000813.0,,08 58575933,2605174
+514.0,jacob,sharples,46.0,alarmon crescent,bessy sue,warrawong,4217,nsw,19000113.0,,08 58575933,2605174,jabpb,sharples,45.0,alarmon crescent,bessy sue,warrahwang,4217,nsw,19000113.0,,04 92125625,2605174
+520.0,ned,zivkovic,14.0,portus place,,riverview,3021,qld,,35.0,,4886241,ned,zivkhovic,3.0,portus hace,,riverview,3021,qld,,22.0,02 71515351,4886241
+520.0,ned,zivkovic,14.0,portus place,,riverview,3021,qld,,35.0,,4886241,nedr,zivkovic,1.0,,,3021,rivevriew,qld,,35.0,,4886241
+520.0,ned,zivkovic,14.0,portus place,,riverview,3021,qld,,35.0,,4886241,,zivkovic,11.0,portus place,,riveeiiw,3021,qld,,35.0,,4886241
+520.0,ned,zivkovic,14.0,portus place,,riverview,3021,qld,,35.0,,4886241,nejd,zivkogic,113.0,portus place,,riveevigew,3021,,,35.0,,4886241
+520.0,ned,zivkovic,14.0,portus place,,riverview,3021,qld,,35.0,,4886241,ned,zivkovic,11.0,portu slqce,stanton hall,riverveiw,3021,qld,,35.0,,4886241
+523.0,finn,sexton,36.0,attiwell circuit,,austinmer,5341,act,19650906.0,23.0,02 56661970,7296449,finj,sextin,36.0,attiwellfircuit,banool,austinmer,5314,act,19650906.0,23.0,02 56661970,7296104
+523.0,finn,sexton,36.0,attiwell circuit,,austinmer,5341,act,19650906.0,23.0,02 56661970,7296449,sexton,fibnh,36.0,attiwell vcircuit,,austinmer,5313,act,19650906.0,22.0,02 56661970,2746059
+523.0,finn,sexton,36.0,attiwell circuit,,austinmer,5341,act,19650906.0,23.0,02 56661970,7296449,fink,sexton,36.0,,,austinmer,5341,,19655086.0,,02 56661970,7294649
+523.0,finn,sexton,36.0,attiwell circuit,,austinmer,5341,act,19650906.0,23.0,02 56661970,7296449,finn,sexton,63.0,attiwelkscircuit,,austinmer,5341,act,,23.0,02 56661970,7279289
+524.0,sascha,lette,51.0,gleadow street,,buderim,3041,nsw,19070524.0,27.0,03 65461669,4753074,finn,seuton,34.0,attiwell circuit,,ausitnmre,5301,act,19650996.0,23.0,,7296594
+532.0,caitlin,kochan,18.0,o'rourke street,tibbinbilla,fawkner,3630,nsw,19150705.0,25.0,03 99947902,4913118,caitlin,kochab,19.0,o'rourke street,tibbinbilla,fawkner,3630,nshxw,19150705.0,25.0,03 99949602,4913118
+533.0,saara,mcdougall,23.0,blakely row,,pennant hills,2009,qld,19820307.0,23.0,04 15038193,7653348,saa ar,mcdozugall,17.0,blakely row,packsaddle farm,pennant hills,2009,qld,19820307.0,,04 15038193,7653348
+533.0,saara,mcdougall,23.0,blakely row,,pennant hills,2009,qld,19820307.0,23.0,04 15038193,7653348,saara,mcdoxgayll,25.0,blakely how,deep creek,pennant hills,2090,qld,19823007.0,23.0,04 15038193,7653348
+533.0,saara,mcdougall,23.0,blakely row,,pennant hills,2009,qld,19820307.0,23.0,04 15038193,7653348,saara,mcdoygall,29.0,yalga kose,,pennant hills,2009,qld,19820307.0,23.0,04 15038193,7653286
+536.0,ella,reeves,3.0,kalgoorlie crescent,,south perth,3030,vic,19980904.0,28.0,07 77681199,8031051,ella,reeves,2.0,,,south erth,3039,vic,19900894.0,28.0,07 77681199,8031051
+536.0,ella,reeves,3.0,kalgoorlie crescent,,south perth,3030,vic,19980904.0,28.0,07 77681199,8031051,ella,reemvds,3.0,baracchk crescent,,south pefrth,3030,vic,19998604.0,28.0,07 77681199,8031051
+536.0,ella,reeves,3.0,kalgoorlie crescent,,south perth,3030,vic,19980904.0,28.0,07 77681199,8031051,ella,reeves,55.0,kalgoorlce fijescent,,south perth,3023,vic,19980954.0,28.0,02 95320241,8031051
+536.0,ella,reeves,3.0,kalgoorlie crescent,,south perth,3030,vic,19980904.0,28.0,07 77681199,8031051,ella,revhees,2.0,kalgoorlue icrescent,,south prkrth,3030,vic,19980904.0,28.0,07 76741199,8031051
+539.0,keelin,gusling,90.0,follett street,yellow rock,mount barker,2785,nt,,34.0,08 55139731,4328863,keeki,gusling,90.0,follett sreet,yellow rock,sandy biay,2875,nt,,34.0,02 40758172,4328863
+539.0,keelin,gusling,90.0,follett street,yellow rock,mount barker,2785,nt,,34.0,08 55139731,4328863,kebli,gusing,90.0,follett street,yellow rock,mount naker,2785,nmw,,31.0,08 55139731,4328863
+539.0,keelin,gusling,90.0,follett street,yellow rock,mount barker,2785,nt,,34.0,08 55139731,4328863,keelin,gusling,90.0,folletnv street,,mount barker,2786,np,,,08 55139731,4328863
+539.0,keelin,gusling,90.0,follett street,yellow rock,mount barker,2785,nt,,34.0,08 55139731,4328863,keelin,,8.0,follett street,,mount barker,2785,nl,,34.0,08 55139731,4328683
+540.0,emiily,brooks,26.0,roseworthy crescent,,cook,5174,wa,19760706.0,26.0,04 45816664,9229787,keelin,webb,90.0,sfreet flllett,,mount srker,2785,nh,,34.0,08 55139731,4328683
+540.0,emiily,brooks,26.0,roseworthy crescent,,cook,5174,wa,19760706.0,26.0,04 45816664,9229787,keelin,guskig,,follett street,yellow rock,mount barker,2788,nt,,34.0,08 55139731,4328163
+540.0,emiily,brooks,26.0,roseworthy crescent,,cook,5174,wa,19760706.0,26.0,04 45816664,9229787,keelin,guslipng,90.0,follett atreet,vista marina,mount barker,2785,nf,,,08 55139731,4382236
+540.0,emiily,brooks,26.0,roseworthy crescent,,cook,5174,wa,19760706.0,26.0,04 45816664,9229787,gusling,keeoih,97.0,follett street,,mount barker,2874,nt,,34.0,08 55139731,4328863
+541.0,isaac,flynn,57.0,wiburd street,elizabeth arcade,camira,2320,vic,19030916.0,27.0,04 17643554,7966177,izaac,flynn,59.0,wiburdcsrwet,elizabeth arcade,camyia,2320,vic,19030916.0,27.0,04 17643554,7966177
+541.0,isaac,flynn,57.0,wiburd street,elizabeth arcade,camira,2320,vic,19030916.0,27.0,04 17643554,7966177,isaac,flynn,50.0,wiburd street,,camirs,2320,vic,19030916.0,,04 17643554,7966377
+541.0,isaac,flynn,57.0,wiburd street,elizabeth arcade,camira,2320,vic,19030916.0,27.0,04 17643554,7966177,isaac,flynn,57.0,wiburd street,elizabeth arcade,camira,2392,vic,19850104.0,53.0,04 17645354,3962276
+543.0,thomas,norris,30.0,lochbuy street,,mulgrave east,2486,,19711217.0,41.0,04 71225373,1524023,thomas,norris,57.0,lochbuh k treet,,mulgrave east,2486,,19711217.0,29.0,04 71225373,1524023
+546.0,gabrielle,stuyt,22.0,george street,woodport,aberdare,4006,nsw,19430904.0,32.0,08 60139534,8145381,gabrulle,stuyt,2217.0,george street,woodport,abervdare,4006,,19430924.0,32.0,08 60139534,8145381
+546.0,gabrielle,stuyt,22.0,george street,woodport,aberdare,4006,nsw,19430904.0,32.0,08 60139534,8145381,gabriegkle,stuyoy,22.0,george tdeet,woodport,abedare,4006,ntw,19430904.0,32.0,08 60139534,8145381
+546.0,gabrielle,stuyt,22.0,george street,woodport,aberdare,4006,nsw,19430904.0,32.0,08 60139534,8145381,gabrielle,stjt,0.0,georgedktreet,,aberdare,4060,nsw,19430904.0,32.0,08 60139534,8145381
+546.0,gabrielle,stuyt,22.0,george street,woodport,aberdare,4006,nsw,19430904.0,32.0,08 60139534,8145381,gabrielle,stuh,22.0,hackett xarden,woodport,aberdare,4006,nse,19450218.0,32.0,08 60139534,8145381
+546.0,gabrielle,stuyt,22.0,george street,woodport,aberdare,4006,nsw,19430904.0,32.0,08 60139534,8145381,gabrilele,,224.0,,,aberdare,4006,nsw,19430904.0,32.0,03 65108623,8145381
+549.0,isabella,belbin,13.0,merriman crescent,,prahran,2171,tas,19001215.0,34.0,02 48024801,3838060,isabella,belnin,12.0,,,prahwn,2171,tas,19001215.0,34.0,02 48024801,3838060
+549.0,isabella,belbin,13.0,merriman crescent,,prahran,2171,tas,19001215.0,34.0,02 48024801,3838060,isabella,belabin,11.0,,,prayhran,2171,tas,19001215.0,,02 48024801,3838060
+549.0,isabella,belbin,13.0,merriman crescent,,prahran,2171,tas,19001215.0,34.0,02 48024801,3838060,isabela,belbkn,136.0,merrimajcrscent,,prahran,2171,tas,19003115.0,34.0,02 48024801,3838600
+564.0,jasper,johinke,10.0,powlett street,,woodlands,5159,sa,19751230.0,,08 01225302,3997687,jasprpe,milne,10.0,powlett street,,woodlnds,5159,,19751740.0,,08 01225302,3997687
+564.0,jasper,johinke,10.0,powlett street,,woodlands,5159,sa,19751230.0,,08 01225302,3997687,johinke,jasper,10.0,powlett street,,woodlands,5159,sa,,,08 01225302,3994687
+572.0,james,ball,23.0,howey place,,subiaco,2485,qld,19070605.0,30.0,02 22504636,4335145,james,bal ,21.0,howey place,,subibi,2485,qnd,19076005.0,27.0,02 22504636,4335145
+572.0,james,ball,23.0,howey place,,subiaco,2485,qld,19070605.0,30.0,02 22504636,4335145,james,balxl,23.0,howeywkace,,suviaco,2485,qld,19070605.0,43.0,02 35289238,9067086
+581.0,lauren,henbest,67.0,,,ettalong,3196,nsw,19401113.0,20.0,08 02525435,9315018,lauren,henbast,66.0,,,ettalj,3196,nsw,19410114.0,20.0,08 02525435,9315108
+587.0,belinda,babic,156.0,buller crescent,,rathmines,5109,nsw,19771222.0,31.0,03 45102343,4745012,belinda,banuc,156.0,buller crescent,croftby lake,rathmies,1500,,19772222.0,31.0,03 45102343,4740512
+587.0,belinda,babic,156.0,buller crescent,,rathmines,5109,nsw,19771222.0,31.0,03 45102343,4745012,belinda,kamkar-pssi,156.0,buller crescent,,rathjiens,5109,nsw,,31.0,03 45102343,4745012
+587.0,belinda,babic,156.0,buller crescent,,rathmines,5109,nsw,19771222.0,31.0,03 45102343,4745012,belna,babic,1.0,buller crescent,,rathies,5109,nsw,19779222.0,31.0,03 45102343,9491288
+594.0,jake,holdsworth,4.0,streeton drive,oriel,thornlie,2322,qld,19660701.0,36.0,07 03899615,9088795,jaje,holdsworth,81.0,streetoadrive,,thornlie,2322,qld,19660701.0,36.0,07 03899615,9088795
+594.0,jake,holdsworth,4.0,streeton drive,oriel,thornlie,2322,qld,19660701.0,36.0,07 03899615,9088795,jake,stesrt,4.0,streetonsrive,,thornlie,2322,qld,19660301.0,36.0,07 03899615,9088795
+594.0,jake,holdsworth,4.0,streeton drive,oriel,thornlie,2322,qld,19660701.0,36.0,07 03899615,9088795,jakr,holdsworth,3.0,streeton drive,,thornktie,2322,qld,19568034.0,36.0,07 03899615,9088795
+594.0,jake,holdsworth,4.0,streeton drive,oriel,thornlie,2322,qld,19660701.0,36.0,07 03899615,9088795,jake,holdswroth,0.0,oriel,streeton drive,thornlie,2322,qfe,19660701.0,63.0,07 03899615,9088795
+594.0,jake,holdsworth,4.0,streeton drive,oriel,thornlie,2322,qld,19660701.0,36.0,07 03899615,9088795,jakd,holdsfh,20.0,streeton drive,oriel,thornlie,2329,qld,19660701.0,36.0,07 03899615,3763852
+602.0,domenique,barnard,5.0,feakes place,narimga,carrara,2541,sa,19611015.0,17.0,08 31803505,7982339,domeinque,barbard,4.0,feakes place,narimga,carrara,2501,sa,19611015.0,17.0,08 31803505,7982363
+602.0,domenique,barnard,5.0,feakes place,narimga,carrara,2541,sa,19611015.0,17.0,08 31803505,7982339,domenique,bafnard,2.0,feakes place,,carrara,2514,sa,19601195.0,17.0,08 31803505,7983349
+602.0,domenique,barnard,5.0,feakes place,narimga,carrara,2541,sa,19611015.0,17.0,08 31803505,7982339,domique,barnsard,5.0,feakes place,narimga,carrafa,2544,sa,19611015.0,28.0,08 31833505,7982339
+602.0,domenique,barnard,5.0,feakes place,narimga,carrara,2541,sa,19611015.0,17.0,08 31803505,7982339,domenujqe,barnard,4.0,feakes pace,narimga,,2541,nsw,19610115.0,17.0,08 31803505,7982339
+602.0,domenique,barnard,5.0,feakes place,narimga,carrara,2541,sa,19611015.0,17.0,08 31803505,7982339,dominic,barard,5.0,feakes place,,carrra,2541,sa,19618016.0,,08 31803505,7982089
+603.0,leo,thompson,137.0,groom place,tarlina murray greystud,woolloomooloo,4870,qld,19071024.0,20.0,07 12213171,9288384,domennuque,barnard,5.0,feakesilace,narimga,carrwra,2541,sr,19611015.0,17.0,08 31803505,7982339
+603.0,leo,thompson,137.0,groom place,tarlina murray greystud,woolloomooloo,4870,qld,19071024.0,20.0,07 12213171,9288384,domenique,barnafd,4.0,feakes place,,carrara,2541,sa,19611015.0,17.0,08 31431505,7982393
+609.0,leon,scammell,18.0,bagot street,,clarence gardens,2464,vic,19621120.0,36.0,08 94694024,4777760,leon,scammell,14.0,bagoy sdeet,,clarence gardens,2464,vic,19621230.0,36.0,08 94694024,4777760
+617.0,benjamin,gray,9.0,,,goondiwindi,5109,tas,19791013.0,32.0,02 56854790,6314844,benjamin,rgz,3.0,,,goondiwindi,5109,tas,19792023.0,32.0,02 56854790,6318442
+617.0,benjamin,gray,9.0,,,goondiwindi,5109,tas,19791013.0,32.0,02 56854790,6314844,grao,benjamin,9.0,,,goondiwindi,5109,tas,19791013.0,32.0,07 87399426,6314844
+617.0,benjamin,gray,9.0,,,goondiwindi,5109,tas,19791013.0,32.0,02 56854790,6314844,benjaxin,gray,2.0,,,indi goondjiw,5109,tas,19790113.0,,02 56854790,6314844
+617.0,benjamin,gray,9.0,,,goondiwindi,5109,tas,19791013.0,32.0,02 56854790,6314844,benuamin,gray,76.0,,lumsden,goondvindi,5100,tas,19719413.0,32.0,02 56854790,6314844
+619.0,jasmine,porsiello,42.0,woronora street,,dulwich hill,3197,wa,19750716.0,27.0,08 56034704,7411309,jasmine,porsello,42.0,woronora street,,dulwich hill,3197,wug,19705716.0,37.0,08 56034704,7411049
+619.0,jasmine,porsiello,42.0,woronora street,,dulwich hill,3197,wa,19750716.0,27.0,08 56034704,7411309,jasmine,porsxello,42.0,woronoradstreet,,dulwich hill,3197,e,19742516.0,72.0,08 56034704,7411309
+619.0,jasmine,porsiello,42.0,woronora street,,dulwich hill,3197,wa,19750716.0,27.0,08 56034704,7411309,jasmine,porsidgklo,192.0,woronoraastreet,,dullwic hill,3197,wa,,27.0,08 56034704,7411309
+619.0,jasmine,porsiello,42.0,woronora street,,dulwich hill,3197,wa,19750716.0,27.0,08 56034704,7411309,jasnme,porsiello,42.0,colleajo street,,dulw igc hill,3917,wa,19750761.0,27.0,08 56034704,7411309
+624.0,lynae,dawson,76.0,howitt street,tuscany,wanniassa,2620,vic,19870406.0,33.0,03 53753877,4315213,lynyp,dawson,76.0,howitt wteet,tuscany,wanniassa,2620,vic,19870406.0,33.0,03 53753877,4319331
+624.0,lynae,dawson,76.0,howitt street,tuscany,wanniassa,2620,vic,19870406.0,33.0,03 53753877,4315213,lynae,dawsaon,6.0,howitt street,,wanniassa,2627,vic,19870496.0,33.0,03 53834877,4315213
+624.0,lynae,dawson,76.0,howitt street,tuscany,wanniassa,2620,vic,19870406.0,33.0,03 53753877,4315213,,daq shon,76.0,howitt street,tuscany,wannkaksa,2620,vic,19878346.0,33.0,03 53753877,4315213
+624.0,lynae,dawson,76.0,howitt street,tuscany,wanniassa,2620,vic,19870406.0,33.0,03 53753877,4315213,lynse,dapon,76.0,howittj street,tuscany,wanniasa,2620,vpc,19870406.0,34.0,03 53753877,4385213
+624.0,lynae,dawson,76.0,howitt street,tuscany,wanniassa,2620,vic,19870406.0,33.0,03 53753877,4315213,lynae,dawspn,3967.0,howitt ztreet,tuscany,wanniassa,2624,vic,,33.0,,4315213
+635.0,bree,beck,63.0,bennetts close,,goulburn,6280,qld,19210915.0,28.0,,4978774,bree,bcewk,63.0,bennetrakdlose,,goulburn,6280,qid,19210915.0,28.0,,4978774
+635.0,bree,beck,63.0,bennetts close,,goulburn,6280,qld,19210915.0,28.0,,4978774,bere,bex,9.0,bennetts close,,goulbyrn,6280,qlr,19210915.0,28.0,,4978774
+635.0,bree,beck,63.0,bennetts close,,goulburn,6280,qld,19210915.0,28.0,,4978774,,becf,63.0,bennetoxclose,,goulburn,6280,qld,19210915.0,28.0,,4978405
+635.0,bree,beck,63.0,bennetts close,,goulburn,6280,qld,19210915.0,28.0,,4978774,brfe,beck,1314.0,bennetts close,billsblock,goul urn,6280,qlx,19210915.0,28.0,,4970647
+636.0,isabella,flemming,1.0,mackellar crescent,,molesworth,4223,qld,19180714.0,29.0,02 84616646,7965661,bec,br,63.0,bennetts close,,goulburn,6289,qld,19210915.0,28.0,,4979764
+636.0,isabella,flemming,1.0,mackellar crescent,,molesworth,4223,qld,19180714.0,29.0,02 84616646,7965661,bree,bezky,63.0,bennettsqnclose,,goulburn,8260,qls,19210915.0,84.0,,4978774
+636.0,isabella,flemming,1.0,mackellar crescent,,molesworth,4223,qld,19180714.0,29.0,02 84616646,7965661,brqw,cook,63.0,bennettyzclose,,goulburn,6280,qld,19220915.0,28.0,,4978774
+636.0,isabella,flemming,1.0,mackellar crescent,,molesworth,4223,qld,19180714.0,29.0,02 84616646,7965661,bree,wood,5.0,bennetts close,yanaigin,goulbirn,6082,qld,19210915.0,28.0,,4978774
+636.0,isabella,flemming,1.0,mackellar crescent,,molesworth,4223,qld,19180714.0,29.0,02 84616646,7965661,bree,beflb,68.0,bennettd cjose,,golbrn,6280,qld,19210915.0,28.0,04 46492911,4977774
+656.0,lucas,antonowicz,46.0,leist street,,glen waverley,4873,nsw,19900416.0,,02 74222096,1272483,lucas,antonowicz,3.0,leist street,,glen waverley,4873,nsn,,,02 74222096,1272483
+656.0,lucas,antonowicz,46.0,leist street,,glen waverley,4873,nsw,19900416.0,,02 74222096,1272483,lucas,antonrxicz,42.0,leist street,,glen waferley,4873,nsw,,30.0,02 74222096,1272483
+656.0,lucas,antonowicz,46.0,leist street,,glen waverley,4873,nsw,19900416.0,,02 74222096,1272483,lucasc,antonowicz,46.0,leist street,,glen waverley,4873,nsw,19904916.0,,07 70662460,4014329
+656.0,lucas,antonowicz,46.0,leist street,,glen waverley,4873,nsw,19900416.0,,02 74222096,1272483,lucas,antonowicz,3.0,leist spreet,,glen waverley,3020,nsw,19900416.0,,02 74222096,1272834
+656.0,lucas,antonowicz,46.0,leist street,,glen waverley,4873,nsw,19900416.0,,02 74222096,1272483,lucsb,antonolicz,46.0,leist street,,,4873,nsw,19900416.0,,02 74222096,1271383
+665.0,genevieve,byrne,16.0,chuculba crescent,,casterton,4390,nsw,19931004.0,31.0,07 35253729,1147761,genevieve,bynr,16.0,chuculba rbescent,,casterton,4390,nsw,19931094.0,,07 35253729,1147761
+665.0,genevieve,byrne,16.0,chuculba crescent,,casterton,4390,nsw,19931004.0,31.0,07 35253729,1147761,genevieve,bynvv,16.0,chuculba crescent,,casterkon,4390,nsw,19931094.0,31.0,07 35224729,2753460
+665.0,genevieve,byrne,16.0,chuculba crescent,,casterton,4390,nsw,19931004.0,31.0,07 35253729,1147761,genevieve,burje,11.0,chuculba nceescent,,casterton,4390,nsw,19932104.0,31.0,07 35253729,1147761
+669.0,matthew,oldfield,30.0,marulda street,,north st ives,4655,nsw,19151102.0,19.0,08 50451604,9494259,mattheww,oldfled,8.0,marulda street,,north st ives,4655,nsw,19151102.0,29.0,08 50451604,9494259
+669.0,matthew,oldfield,30.0,marulda street,,north st ives,4655,nsw,19151102.0,19.0,08 50451604,9494259,matthew,neldner,30.0,marulda street,,north st ives,4655,ne,19151102.0,19.0,08 50541604,7636834
+676.0,samantha,packham,1.0,mcclelland avenue,,carseldine,6111,,19250908.0,,03 44043152,7339365,samanyta,pacwkak,1.0,mcclelland avenue,,carselgine,6111,,,,03 44043152,2646321
+678.0,erin,ralph,76.0,mcculloch street,,epping,4509,qld,,,02 24522470,1212668,erin,rsopj,76.0,,,eppin g,4509,qld,,,02 24522470,1216268
+678.0,erin,ralph,76.0,mcculloch street,,epping,4509,qld,,,02 24522470,1212668,erin,ralpw,758.0,mcculloc  street,,epping,4509,qld,,33.0,02 24522470,1282786
+678.0,erin,ralph,76.0,mcculloch street,,epping,4509,qld,,,02 24522470,1212668,eoutm,ralih,76.0,mcculljchzstreet,,epping,4509,qlf,,,02 24522470,1212668
+682.0,kyle,bain,13.0,fitzmaurice street,pleasant acres,seaview downs,5255,nsw,19310111.0,23.0,08 90987096,3278734,kyle,baiin,171.0,fitzmaurice street,pleasant acres,seaview downs,5255,nsw,19310111.0,23.0,08 90987096,3272374
+682.0,kyle,bain,13.0,fitzmaurice street,pleasant acres,seaview downs,5255,nsw,19310111.0,23.0,08 90987096,3278734,kyle,bmimn,134.0,fitzmauicfstreet,pleasant acres,seaview wdowns,5255,nsw,19301611.0,23.0,,3278734
+682.0,kyle,bain,13.0,fitzmaurice street,pleasant acres,seaview downs,5255,nsw,19310111.0,23.0,08 90987096,3278734,kyle,bab,726.0,fitzmaurivdstreet,pleasant acres,seaview downs,5255,nsw,19310111.0,23.0,08 90897096,3278734
+682.0,kyle,bain,13.0,fitzmaurice street,pleasant acres,seaview downs,5255,nsw,19310111.0,23.0,08 90987096,3278734,kyle,bakn,8.0,fitzmauricnzsyreet,pleasant acres,seaview downs,5255,nsw,19310111.0,23.0,08 90987096,4386921
+686.0,angie,gibson,33.0,chevalley loop,hazeldean,wendouree,5333,,19970607.0,31.0,08 63915890,5806737,angie,gibson,3.0,chevally loop,,wendoiree,5333,,19970077.0,,08 63915890,5806737
+686.0,angie,gibson,33.0,chevalley loop,hazeldean,wendouree,5333,,19970607.0,31.0,08 63915890,5806737,angur,gibdp,,chevallul loop,hazeldean,wenduoree,5333,,19970607.0,31.0,08 63915890,5806737
+686.0,angie,gibson,33.0,chevalley loop,hazeldean,wendouree,5333,,19970607.0,31.0,08 63915890,5806737,angie,gibson,3.0,chevallwygloop,hazeldean,wendouree,5333,nss,,11.0,08 63915890,5806737
+686.0,angie,gibson,33.0,chevalley loop,hazeldean,wendouree,5333,,19970607.0,31.0,08 63915890,5806737,angce,gibwin,33.0,chevalleu loop,,wenudree,5333,,19970607.0,23.0,08 63915890,5806737
+686.0,angie,gibson,33.0,chevalley loop,hazeldean,wendouree,5333,,19970607.0,31.0,08 63915890,5806737,anhie,gibson,0.0,chevalley loop,hazeldean,wendouree,5333,,19907607.0,31.0,07 00692136,9238075
+687.0,sara,gooding,4.0,ipima street,,wentworth falls,2200,nsw,,37.0,03 50413516,8776031,angie,gibson,33.0,chevalley loop,,wendouree,5333,,19906467.0,36.0,08 63851290,5806737
+692.0,jett,barton,74.0,,,calavos,4565,nsw,19420418.0,28.0,02 62250040,2762167,je ly,barton,7.0,,,calvos,4565,ndw,19420418.0,28.0,02 62250040,2762167
+692.0,jett,barton,74.0,,,calavos,4565,nsw,19420418.0,28.0,02 62250040,2762167,jemf,bato,72.0,,,calvos,4565,nsw,19340312.0,28.0,02 62250040,2762167
+692.0,jett,barton,74.0,,,calavos,4565,nsw,19420418.0,28.0,02 62250040,2762167,jett,bartln,40.0,,,calvos,4550,nsw,19420418.0,28.0,02 62290540,2762167
+692.0,jett,barton,74.0,,,calavos,4565,nsw,19420418.0,28.0,02 62250040,2762167,jett,bartmlo,74.0,,,calakvos,4566,nsw,19424018.0,28.0,02 62250040,2762167
+692.0,jett,barton,74.0,,,calavos,4565,nsw,19420418.0,28.0,02 62250040,2762167,jeto,barton,67.0,,,calavos,4566,nsw,19420438.0,28.0,02 62260040,2762167
+693.0,jaxin,pinnington,14.0,christmas street,mt boyd,fitzroy,3212,wa,19030325.0,18.0,02 38956609,9146566,jett,bartin,74.0,,,calavops,4556,nsw,19420318.0,33.0,02 47001316,2762167
+693.0,jaxin,pinnington,14.0,christmas street,mt boyd,fitzroy,3212,wa,19030325.0,18.0,02 38956609,9146566,jers,barton,74.0,monaghanplace,,calavos,4565,nxe,19420418.0,28.0,02 62230040,2762167
+693.0,jaxin,pinnington,14.0,christmas street,mt boyd,fitzroy,3212,wa,19030325.0,18.0,02 38956609,9146566,jett,baratn,53.0,,,calavnfs,4555,nsw,19420418.0,28.0,07 13366100,2772167
+693.0,jaxin,pinnington,14.0,christmas street,mt boyd,fitzroy,3212,wa,19030325.0,18.0,02 38956609,9146566,bartln,jett,74.0,,,calavos,4565,nw,19401483.0,28.0,03 65415813,2762167
+695.0,gabriel,pedersen,73.0,ironside street,,stephens,2036,nsw,,20.0,04 31276361,2962686,gabriel,peddesfen,53.0,ironside street,,steph ns,2036,ne,,20.0,04 31276361,2962686
+695.0,gabriel,pedersen,73.0,ironside street,,stephens,2036,nsw,,20.0,04 31276361,2962686,gabriel,peedrsen,72.0,ironsidrstreet,,steqphens,2063,nsw,,20.0,04 31276361,2962686
+695.0,gabriel,pedersen,73.0,ironside street,,stephens,2036,nsw,,20.0,04 31276361,2962686,gabfuel,pedernd,73.0,ironsidd lgtreet,,stephens,2036,nsw,,20.0,07 44867750,2962686
+695.0,gabriel,pedersen,73.0,ironside street,,stephens,2036,nsw,,20.0,04 31276361,2962686,gabeeil,pederhun,4.0,ironsideystreet,,stephens,2306,nsq,,,04 31276361,2962686
+696.0,deakin,green,82.0,carroll street,,frankston,4870,vic,19800928.0,27.0,03 51240548,4642351,deakon,greyn,82.0,,,frankstlon,4870,vic,19800928.0,,03 51240548,4649325
+696.0,deakin,green,82.0,carroll street,,frankston,4870,vic,19800928.0,27.0,03 51240548,4642351,gabriel,pederfen,73.0,ironsideustreet,,st ehens,2032,nsw,,20.0,04 31276361,2962686
+696.0,deakin,green,82.0,carroll street,,frankston,4870,vic,19800928.0,27.0,03 51240548,4642351,gabriel,pederaen,779.0,ironsidegstreet,,stephns,2036,nsw,,23.0,04 31276361,2962686
+696.0,deakin,green,82.0,carroll street,,frankston,4870,vic,19800928.0,27.0,03 51240548,4642351,gabriel,pedersen,215.0,,,stepens,2036,nsw,,20.0,04 31276361,2961368
+696.0,deakin,green,82.0,carroll street,,frankston,4870,vic,19800928.0,27.0,03 51240548,4642351,deafin,grewn,8.0,carrol ktreet,,frankston,4870,vic,19800928.0,27.0,08 61967191,4642951
+697.0,jackson,,2.0,weetangera shopping centre,riverpark lodge,seaforth,6060,vic,19460206.0,20.0,03 66376437,7263004,jackspon,,4.0,riverpark lodge,weetangera shopping centre,seaforth,6060,,19460206.0,20.0,03 66376437,7263004
+700.0,levi,green,15.0,mckinley circuit,,elizabeth south,2021,nsw,19550217.0,,04 37491909,4518001,levi,geos,0.0,mckinleyrcircuit,,elizabet south,2021,ns,19550217.0,,04 37491909,4518001
+700.0,levi,green,15.0,mckinley circuit,,elizabeth south,2021,nsw,19550217.0,,04 37491909,4518001,levi,,8.0,mckinleysvrcuit,,elizabeth south,3205,nsw,19550217.0,,04 37491909,4518001
+700.0,levi,green,15.0,mckinley circuit,,elizabeth south,2021,nsw,19550217.0,,04 37491909,4518001,levi,green,11.0,mckinlye pcrcuit,,elizabeth south,2012,nsw,19550217.0,,04 37491909,4518010
+700.0,levi,green,15.0,mckinley circuit,,elizabeth south,2021,nsw,19550217.0,,04 37491909,4518001,levi,grecm,15.0,mckinley vc ircuit,,elizabeth south,2021,,19552417.0,,04 37491909,4518001
+700.0,levi,green,15.0,mckinley circuit,,elizabeth south,2021,nsw,19550217.0,,04 37491909,4518001,levi,green,15.0,mckinley xr cuit,jingera park,elizabeth south,2021,nsw,19502517.0,24.0,04 37491909,4872614
+701.0,eboni,gillespie,26.0,maribyrnong avenue,grassland,flynn,2102,,19770307.0,25.0,03 59303304,7531218,les,green,13.0,mckinley circuit,raafa estate,elizabeth south,2021,nsw,19550112.0,,04 37491909,1449242
+701.0,eboni,gillespie,26.0,maribyrnong avenue,grassland,flynn,2102,,19770307.0,25.0,03 59303304,7531218,levn,green,15.0,mckinley circuit,,elizabetlt south,2011,nsw,19515017.0,,04 37491909,4518001
+701.0,eboni,gillespie,26.0,maribyrnong avenue,grassland,flynn,2102,,19770307.0,25.0,03 59303304,7531218,,gtene,15.0,mckinleymcircuit,yarrimbah,elizabeth south,2024,nsex,19552107.0,,04 37491909,4518001
+702.0,jai,youd,72.0,nulsen circuit,,pearcedale,4132,vic,19921130.0,36.0,08 22821068,6119991,i,youd,72.0,nulsen citcuit,,pearcedale,4132,giv,19291130.0,36.0,08 22281068,6119991
+705.0,ella,sauerwald,34.0,maltby circuit,briarwood,hoppers crossing,2680,vic,19420714.0,,,2309517,sauerwald,ella,34.0,maltby circuit,briarwood,hoppers possing,2680,viz,19420714.0,,,2309717
+705.0,ella,sauerwald,34.0,maltby circuit,briarwood,hoppers crossing,2680,vic,19420714.0,,,2309517,sauerwald,ella,,maltby ictcuit,briarwoad,hoppers cossing,2689,vic,19420714.0,,,2309517
+705.0,ella,sauerwald,34.0,maltby circuit,briarwood,hoppers crossing,2680,vic,19420714.0,,,2309517,ella,sauecrwld,34.0,maltby cpcuit,,hoppers xfossing,2680,vic,19420714.0,,,2309517
+705.0,ella,sauerwald,34.0,maltby circuit,briarwood,hoppers crossing,2680,vic,19420714.0,,,2309517,ella,sauerwald,83.0,maltby circuit,briarwood,hoppersl crosing,2680,vix,19420714.0,,,9032422
+717.0,kristen,holosi,2.0,kingsbury street,,armidale,3550,act,19050223.0,31.0,03 34137549,9378829,kristen,holosi,2.0,kingsburycstreet,,armidnle,3550,actv,19050213.0,31.0,03 31437549,9378829
+717.0,kristen,holosi,2.0,kingsbury street,,armidale,3550,act,19050223.0,31.0,03 34137549,9378829,kristen,hokiri,2.0,kingsburustreet,,armidle,3505,act,19050223.0,31.0,03 34137549,9378792
+717.0,kristen,holosi,2.0,kingsbury street,,armidale,3550,act,19050223.0,31.0,03 34137549,9378829,kristln,hlosi,88.0,kingsburg syreet,,armixnle,3550,act,19050223.0,31.0,03 34137549,9378829
+717.0,kristen,holosi,2.0,kingsbury street,,armidale,3550,act,19050223.0,31.0,03 34137549,9378829,krivhen,holosi,2.0,kingsbury street,,armidaqle,3550,qlj,19050223.0,31.0,03 34137549,8388894
+718.0,jessica,jacobs,12.0,morant circuit,arunachula,shenton park,2233,,19431014.0,27.0,04 63457484,9583787,jessica,jacobs,22.0,morantv iucuit,arunachula,mordialloc,2233,,19431014.0,27.0,04 63457484,9585788
+718.0,jessica,jacobs,12.0,morant circuit,arunachula,shenton park,2233,,19431014.0,27.0,04 63457484,9583787,kristen,holosi,2.0,street kingsbury,,armaoe,3550,acy,19050223.0,73.0,03 34137549,9378829
+718.0,jessica,jacobs,12.0,morant circuit,arunachula,shenton park,2233,,19431014.0,27.0,04 63457484,9583787,jese,jacobs,71.0,morant circuit,arunachula,shentlnn park,2233,,19431014.0,27.0,04 63486484,9583787
+718.0,jessica,jacobs,12.0,morant circuit,arunachula,shenton park,2233,,19431014.0,27.0,04 63457484,9583787,jmssi,jacobys,12.0,morant circuit,arunachula,shenton ark,2233,,19431014.0,,02 18548867,9583787
+718.0,jessica,jacobs,12.0,morant circuit,arunachula,shenton park,2233,,19431014.0,27.0,04 63457484,9583787,krise,holosi,8.0,kingsbury street,,armidale,3500,act,19480603.0,31.0,03 34137549,9378829
+719.0,cameron,worsnop,698.0,falkiner place,fernhill,wendouree,3216,nsw,19730204.0,,03 18196736,4592888,cameron,woenp,698.0,falkinerplace,fernhill,wendouree,3621,nws,,,03 18196736,4592888
+719.0,cameron,worsnop,698.0,falkiner place,fernhill,wendouree,3216,nsw,19730204.0,,03 18196736,4592888,cameron,worsipo,698.0,falkiner place,,wendouscree,3262,nsw,19730204.0,,07 77064816,4592888
+720.0,alana,dowling,8.0,lavan place,star court arcade,gordon,2073,vic,19671216.0,,04 40290317,7079160,alana,dowling,1.0,lavan poace,,gordon,2073,vic,19617326.0,,04 42090317,7770695
+720.0,alana,dowling,8.0,lavan place,star court arcade,gordon,2073,vic,19671216.0,,04 40290317,7079160,alana,dowkojg,8.0,lavannlace,star court arcade,gordoq,2073,vic,19617626.0,,04 40290317,7079160
+733.0,matthew,d'angelo,17.0,westgarth street,central farm,williamstown,2906,nsw,19030124.0,41.0,02 61155262,9604626,matthew,d'angelo,17.0,westgartgy street,central farm,williawtown,2960,nsw,,41.0,02 57455970,9604626
+733.0,matthew,d'angelo,17.0,westgarth street,central farm,williamstown,2906,nsw,19030124.0,41.0,02 61155262,9604626,matthew,d'angwko,17.0,westgarthrhtreet,central farm,williamtown,2906,nse,19030124.0,41.0,04 53899613,9604626
+733.0,matthew,d'angelo,17.0,westgarth street,central farm,williamstown,2906,nsw,19030124.0,41.0,02 61155262,9604626,matthew,d'ango,15.0,westgarth street,,williamxrown,2906,nse,19030124.0,41.0,02 61155262,9604626
+733.0,matthew,d'angelo,17.0,westgarth street,central farm,williamstown,2906,nsw,19030124.0,41.0,02 61155262,9604626,d'aneol,matthe,17.0,westgarth street,central farm,williamsown,2906,bsw,19030124.0,44.0,02 61155262,9604626
+737.0,campbell,mckenzie,2.0,ogden close,jenrick,nambour,2444,qld,19780530.0,30.0,07 76318398,1731836,campjell,,,ogden close,,nambour,2444,qld,19780530.0,30.0,08 18440998,1731836
+741.0,joshua,lock,19.0,blamey crescent,calajero,bordertown,2155,nsw,19780427.0,,,8150705,joshac,kcl,19.0,blamey daewcent,,bordertown,2155,nsw,19780437.0,,,8150705
+763.0,madison,tanaskovic,43.0,bamford street,innes park,shepparton,5211,qld,,,02 74096906,5310705,mauksn,tanaskvic,43.0,bamford street,,shepparton,5211,qld,,,02 57310905,5310705
+763.0,madison,tanaskovic,43.0,bamford street,innes park,shepparton,5211,qld,,,02 74096906,5310705,tanasioic,madicsh,43.0,bamford street,innes park,sheppoarton,5211,qld,,,02 74086906,5310705
+769.0,nathan,fielden,7.0,heard street,lachlan meadows,yokine,3020,vic,19581120.0,33.0,07 06520871,3801109,nathan,fielden,7.0,heard street,lachlan meadows,yoki ne,3020,vit,19581120.0,,07 06520871,3801916
+769.0,nathan,fielden,7.0,heard street,lachlan meadows,yokine,3020,vic,19581120.0,33.0,07 06520871,3801109,nathnk,fieadsn,7.0,heard street,,mount eliza,3020,vic,19581102.0,33.0,07 06520871,3801109
+775.0,joel,schomburgk,302.0,ulm street,,spearwood,2162,nsw,19590903.0,35.0,03 91851444,4825638,kor,schomburgk,322.0,ulm twet,,spearwood,2162,nsw,19590903.0,35.0,03 91815444,4825638
+775.0,joel,schomburgk,302.0,ulm street,,spearwood,2162,nsw,19590903.0,35.0,03 91851444,4825638,joel,schomburgk,305.0,ulm street,,spearwood,2162,nsw,,,08 53026595,5958792
+777.0,lucas,eblen,56.0,bancks crescent,birchwood,west hoxton,3850,qld,19580416.0,35.0,04 44018967,9304217,lukas,ebleh,56.0,bancks vscent,birchwood,west hoxton,3850,qld,,31.0,04 44018967,9304217
+777.0,lucas,eblen,56.0,bancks crescent,birchwood,west hoxton,3850,qld,19580416.0,35.0,04 44018967,9304217,lucsa,eblen,56.0,crescenttbancks,,west hoxton,3850,qld,19580410.0,35.0,04 44018967,9302416
+777.0,lucas,eblen,56.0,bancks crescent,birchwood,west hoxton,3850,qld,19580416.0,35.0,04 44018967,9304217,lucas,ebleb,4.0,benson cfescent,,west pxton,3850,qld,19850416.0,35.0,04 44018967,9304217
+777.0,lucas,eblen,56.0,bancks crescent,birchwood,west hoxton,3850,qld,19580416.0,35.0,04 44018967,9304217,lucas,marxle,55.0,bancks crescent,,west hoxton,8305,qld,19580416.0,35.0,08 77929589,9304217
+778.0,charlie,litchfield,118.0,madigan street,,bexley,7255,wa,19580425.0,31.0,08 97234767,4350271,lucas,eblen,59.0,bancks crescent,birchwood,west hoxton,3805,qld,19580416.0,,07 47986099,9304072
+778.0,charlie,litchfield,118.0,madigan street,,bexley,7255,wa,19580425.0,31.0,08 97234767,4350271,lukad,eblen,56.0,bircbqood,bancks cwescent,west hoxton,3850,qld,19584206.0,35.0,04 44018967,9304217
+778.0,charlie,litchfield,118.0,madigan street,,bexley,7255,wa,19580425.0,31.0,08 97234767,4350271,lochlan,ebln,5.0,bancksucerscent,birchwood,west hoxton,3850,cld,19580416.0,35.0,04 44018967,9304217
+778.0,charlie,litchfield,118.0,madigan street,,bexley,7255,wa,19580425.0,31.0,08 97234767,4350271,lucas,eblebq,4.0,banckscirescent,,west hoxton,3804,qld,19580416.0,35.0,04 44018967,9304217
+789.0,katelyn,arnold,79.0,jackie howe crescent,viewpoint,currumbin,2229,vic,19530613.0,17.0,07 07788157,5098353,kateln,arnobd,79.0,,,currumbin,2229,vic,,27.0,07 07788517,5098353
+789.0,katelyn,arnold,79.0,jackie howe crescent,viewpoint,currumbin,2229,vic,19530613.0,17.0,07 07788157,5098353,katwllyn,arnild,70.0,jackie howefdrescent,viewpoint,currumbin,2229,vic,19530613.0,17.0,07 07798157,5098353
+789.0,katelyn,arnold,79.0,jackie howe crescent,viewpoint,currumbin,2229,vic,19530613.0,17.0,07 07788157,5098353,kateyn,arnold,70.0,jackie howe crescent,,currumbin,2292,vic,,,07 07788157,5098353
+789.0,katelyn,arnold,79.0,jackie howe crescent,viewpoint,currumbin,2229,vic,19530613.0,17.0,07 07788157,5098353,katelyn,yuskiv,79.0,jackie howe crescent,viewpoint,currumbin,2222,vie,,17.0,07 07788157,9005786
+796.0,nicholas,bilusich,18.0,wolff crescent,,menai,3183,qld,19880812.0,34.0,02 55805820,6304045,nichokas,bilusvch,12.0,wolff crescent,,mensm,3183,,,,02 17239180,6304045
+796.0,nicholas,bilusich,18.0,wolff crescent,,menai,3183,qld,19880812.0,34.0,02 55805820,6304045,bilsifh,sullian,14.0,wolff crescent,,menai,3183,qlh,19888012.0,34.0,02 55805820,6304045
+800.0,andrew,kirby,12.0,gibbes place,charcdale,hamilton,3184,vic,19961205.0,35.0,04 53327294,5413094,andrew,kirksy,12.0,gibbes place,,hamilton,3184,vic,19961205.0,34.0,04 53327294,5413094
+800.0,andrew,kirby,12.0,gibbes place,charcdale,hamilton,3184,vic,19961205.0,35.0,04 53327294,5413094,andy,kikrye,18.0,gibbed place,charcdale,hamliton,3184,,19961205.0,35.0,04 53327294,5413094
+800.0,andrew,kirby,12.0,gibbes place,charcdale,hamilton,3184,vic,19961205.0,35.0,04 53327294,5413094,andew,kity,12.0,gibbes place,charcdale,,hamilton,vix,19691205.0,35.0,04 53327294,5413094
+800.0,andrew,kirby,12.0,gibbes place,charcdale,hamilton,3184,vic,19961205.0,35.0,04 53327294,5413094,andre,koryb,12.0,gibbesbplace,,hamiltn,3184,vi,19961205.0,35.0,04 53327294,5413094
+800.0,andrew,kirby,12.0,gibbes place,charcdale,hamilton,3184,vic,19961205.0,35.0,04 53327294,5413094,anrdew,kirby,15.0,gibbesolace,,hamilton,3174,vic,19961205.0,35.0,04 53327294,5410394
+801.0,william,nguyen,2.0,ames place,noondoonia station,rouse hill,2063,qld,19681020.0,36.0,04 04365739,4798743,andrw,kirhx y,12.0,gibbes place,charcdale,hamilrptm,3184,vic,19961205.0,35.0,04 53327294,5413094
+801.0,william,nguyen,2.0,ames place,noondoonia station,rouse hill,2063,qld,19681020.0,36.0,04 04365739,4798743,andfew,kirby,11.0,vplace pibbes,,hamilotn,3184,vim,19961205.0,35.0,04 53327294,5413094
+806.0,evan,rajkovic,47.0,pye place,,salisbury,2428,nsw,19550517.0,,02 57066787,1430834,evb,rajkpvic,47.0,pye place,,salibury,2428,nsv,19550517.0,30.0,02 57706787,1430834
+806.0,evan,rajkovic,47.0,pye place,,salisbury,2428,nsw,19550517.0,,02 57066787,1430834,eva,rajkovic,47.0,pye osdkce,,salisbury,2428,nsw,19550517.0,,02 57066787,8072467
+806.0,evan,rajkovic,47.0,pye place,,salisbury,2428,nsw,19550517.0,,02 57066787,1430834,,rajkocuic,1.0,pye place,,salisbjry,2482,nsw,19550617.0,,02 57066787,1430834
+806.0,evan,rajkovic,47.0,pye place,,salisbury,2428,nsw,19550517.0,,02 57066787,1430834,owen,rajkovic,42.0,pye place,,salisbury,,nsw,19550517.0,,02 57066787,1433287
+806.0,evan,rajkovic,47.0,pye place,,salisbury,2428,nsw,19550517.0,,02 57066787,1430834,eva,rajkvic,49.0,pye place,,salsiukry,2428,nsw,19550517.0,,03 70909861,1430834
+807.0,nell,keach,6.0,jardine street,western creek,carlingford,3806,sa,19461018.0,41.0,07 85670164,3160632,alicia,rajkovic,47.0,pye paqce,,salisbury,5093,nsw,19545527.0,,02 57066787,8387895
+807.0,nell,keach,6.0,jardine street,western creek,carlingford,3806,sa,19461018.0,41.0,07 85670164,3160632,evwan,rajkocir,34.0,pye place,carowod,salisbury,2428,nsw,19550517.0,,02 57066787,1430834
+807.0,nell,keach,6.0,jardine street,western creek,carlingford,3806,sa,19461018.0,41.0,07 85670164,3160632,evan,rajomvic,47.0,pyeplqcce,,salisbury,2428,nss,19550701.0,,02 57066787,1430834
+807.0,nell,keach,6.0,jardine street,western creek,carlingford,3806,sa,19461018.0,41.0,07 85670164,3160632,evans,rajkovic,36.0,pye okace,,bellambi,2428,nsw,19550517.0,,02 97869553,1430834
+823.0,ajay,schimmel,81.0,port arthur street,kenwick park,carindale,2280,nsw,19180203.0,,04 47908483,3213443,ajay,schimmel,82.0,port arthur street,,carindale,2286,,19810203.0,,04 47904883,3214343
+823.0,ajay,schimmel,81.0,port arthur street,kenwick park,carindale,2280,nsw,19180203.0,,04 47908483,3213443,ajay,schimmel,81.0,port arthur street,,carnidale,2256,nsw,19180203.0,,04 47908483,3213443
+823.0,ajay,schimmel,81.0,port arthur street,kenwick park,carindale,2280,nsw,19180203.0,,04 47908483,3213443,aqjzt,schimmel,8.0,port arthurhstreet,,carindale,2280,nsw,19180203.0,,04 47908483,3213453
+823.0,ajay,schimmel,81.0,port arthur street,kenwick park,carindale,2280,nsw,19180203.0,,04 47908483,3213443,ajay,schimmel,81.0,port arthur street,,carosale,2280,nsw,,26.0,04 47908483,3213453
+824.0,charlotte,yiu,14.0,callaway crescent,n'bourne flts,fairlight,3088,vic,19990427.0,31.0,07 36087528,3123039,ajy,schimmrl,81.0,port arthufkstreet,,caridale,2280,nsw,,,04 47903483,3215343
+824.0,charlotte,yiu,14.0,callaway crescent,n'bourne flts,fairlight,3088,vic,19990427.0,31.0,07 36087528,3123039,jamys,schimmel,81.0,port arthunrzstreet,,carindale,2280,nshd,19180203.0,,04 47984083,3213443
+824.0,charlotte,yiu,14.0,callaway crescent,n'bourne flts,fairlight,3088,vic,19990427.0,31.0,07 36087528,3123039,aajt,schimnel,82.0,,kenwick park,carinale,2280,nsw,19180203.0,,03 14009976,3213443
+825.0,bailey,arnold,130.0,hutcheon place,karri lodge,ashcroft,6740,sa,19300329.0,33.0,07 61435191,9657509,baiet,arnolq,130.0,hutcheon place,karri lodge,ashcroft,6704,sga,19305328.0,33.0,07 61435191,9687509
+825.0,bailey,arnold,130.0,hutcheon place,karri lodge,ashcroft,6740,sa,19300329.0,33.0,07 61435191,9657509,bailee,arnld,1304.0,hutcheonrplace,karri lodge,ashcrfr,6740,sa,,33.0,07 61435191,9657509
+825.0,bailey,arnold,130.0,hutcheon place,karri lodge,ashcroft,6740,sa,19300329.0,33.0,07 61435191,9657509,baioek y,arnotld,139.0,hutcheon place,karri lodge,ashcroft,6740,sa,19300029.0,33.0,07 61463191,9657509
+825.0,bailey,arnold,130.0,hutcheon place,karri lodge,ashcroft,6740,sa,19300329.0,33.0,07 61435191,9657509,bailey,arnold,1317.0,hutcheon place,karri lodge,ashcrorrt,6740,sa,19305029.0,33.0,07 61435191,9657189
+826.0,jake,morgan,12.0,fleetwood smith street,pinehill caravn park,bundaberg,6051,nsw,19990704.0,33.0,02 16895757,4149887,bailee,arnold,130.0,hutcheon place,,ashcofrt,6704,sa,19306229.0,33.0,07 61541191,9657509
+830.0,kaela,walter,52.0,doutney place,,samford valley,3537,wa,19430920.0,28.0,03 88551329,7444385,kaega,,36.0,doutne oplace,,samford valley,3537,wa,19430920.0,28.0,03 88551329,1355978
+830.0,kaela,walter,52.0,doutney place,,samford valley,3537,wa,19430920.0,28.0,03 88551329,7444385,kaela,walter,52.0,doutneyolace,,samfor cllley,3537,wa,19430920.0,28.0,03 88559329,7444385
+830.0,kaela,walter,52.0,doutney place,,samford valley,3537,wa,19430920.0,28.0,03 88551329,7444385,kaela,walter,52.0,doutney place,coalbaggie,samford valley,3357,wa,,28.0,03 88551329,7445465
+830.0,kaela,walter,52.0,doutney place,,samford valley,3537,wa,19430920.0,28.0,03 88551329,7444385,kaela,wylge,52.0,doutneyqplace,,samford vmhlley,3537,wa,19430920.0,28.0,03 88595329,7444385
+830.0,kaela,walter,52.0,doutney place,,samford valley,3537,wa,19430920.0,28.0,03 88551329,7444385,jettie,walter,52.0,doutney place,,samford falley,3537,wa,19430080.0,29.0,03 88535129,7444385
+831.0,gregory,kolodina,5.0,fornax street,,kuranda,3141,sa,19261216.0,35.0,08 55075877,4166877,kaela,walter,52.0,doutneyxpjace,,samford valley,3735,wa,19430920.0,,03 88415329,7444385
+831.0,gregory,kolodina,5.0,fornax street,,kuranda,3141,sa,19261216.0,35.0,08 55075877,4166877,kaefp,walter,53.0,doutneyfplace,,samford valley,3537,d,19430920.0,28.0,03 88551329,7444385
+831.0,gregory,kolodina,5.0,fornax street,,kuranda,3141,sa,19261216.0,35.0,08 55075877,4166877,kael,walter,50.0,doutney place,,samfordf jvalley,3537,cz,19430920.0,28.0,03 88551329,7444385
+832.0,lily,mcgibbon,23.0,larakia street,,brunswick west,7310,qld,19911218.0,31.0,,6311990,lily,mcgibkon,23.0,larakia street,,brunswicu uwest,7310,qld,19911218.0,,,6311990
+832.0,lily,mcgibbon,23.0,larakia street,,brunswick west,7310,qld,19911218.0,31.0,,6311990,lily,mcgibbon,132.0,larakiazstreet,,brunswick west,,qld,,31.0,02 16155424,6311990
+832.0,lily,mcgibbon,23.0,larakia street,,brunswick west,7310,qld,19911218.0,31.0,,6311990,lily,mcgibpn,29.0,larakia street,,brunswick west,7310,qld,19921220.0,31.0,,6312890
+832.0,lily,mcgibbon,23.0,larakia street,,brunswick west,7310,qld,19911218.0,31.0,,6311990,lilu,,9.0,larakiastreet,,brunswinl west,7310,qld,19911218.0,24.0,,6311890
+832.0,lily,mcgibbon,23.0,larakia street,,brunswick west,7310,qld,19911218.0,31.0,,6311990,lilh,mcgbon,223.0,larakia sreet,,brunswick west,7310,cld,19912918.0,31.0,,6311990
+833.0,max,lewis,8.0,,,denman,3585,sa,19080515.0,29.0,08 65250005,5016684,liyl,mcgibgon,227.0,larakia street,,brunswick west,7310,qld,19915218.0,13.0,07 87597589,6311990
+833.0,max,lewis,8.0,,,denman,3585,sa,19080515.0,29.0,08 65250005,5016684,lily,mcgibcin,5.0,larakig atreet,,brunswick west,7310,qld,,31.0,,6311990
+833.0,max,lewis,8.0,,,denman,3585,sa,19080515.0,29.0,08 65250005,5016684,lily,mcgiybuon,23.0,larakia s y reet,rowland vlge,brunswif k west,7310,qld,19911218.0,39.0,,6311990
+841.0,brydon,force,34.0,knoke avenue,broadwater court,longwarry,2088,nsw,19361203.0,33.0,08 30688077,7305835,,forvk,35.0,knoke sgneue,,longwarry,2088,nsw,19361203.0,33.0,08 30688077,7305835
+841.0,brydon,force,34.0,knoke avenue,broadwater court,longwarry,2088,nsw,19361203.0,33.0,08 30688077,7305835,brydwon,fofce,34.0,knoke caenue,,longwarry,2088,nsw,19316102.0,33.0,08 30688077,7305385
+841.0,brydon,force,34.0,knoke avenue,broadwater court,longwarry,2088,nsw,19361203.0,33.0,08 30688077,7305835,brydox,forcw,3102.0,knokehafenue,broadwater court,longwarry,2088,nsg,19361203.0,33.0,08 30688077,7305835
+841.0,brydon,force,34.0,knoke avenue,broadwater court,longwarry,2088,nsw,19361203.0,33.0,08 30688077,7305835,brgo,forse,34.0,knoke avenue,,longwarry,2088,nsw,19364283.0,34.0,08 30688077,7305835
+842.0,daniella,mccallum,6.0,downes place,,carrum,4110,nsw,19120922.0,30.0,02 59290694,7489080,brydon,fofcl,34.0,knoke avenue,broadwater court,longwarry,2088,nsw,19361293.0,33.0,02 91755198,7305635
+851.0,benjamin,herring,13.0,pinkerton circuit,majors creek,merrylands,3142,nsw,19860131.0,35.0,07 33741174,1290876,benjdpin,herrin,11.0,pinkerton circuit,majors creek,,3142,nsw,19861031.0,35.0,,1290876
+851.0,benjamin,herring,13.0,pinkerton circuit,majors creek,merrylands,3142,nsw,19860131.0,35.0,07 33741174,1290876,herring,benjamin,13.0,pinkertonbfircuit,majors creek,merrylands,3142,nsw,19860531.0,93.0,07 33741174,5221047
+851.0,benjamin,herring,13.0,pinkerton circuit,majors creek,merrylands,3142,nsw,19860131.0,35.0,07 33741174,1290876,beb,herem,15.0,pinkerton circuit,,merryland,3142,nsw,19860131.0,35.0,07 33741174,1290876
+851.0,benjamin,herring,13.0,pinkerton circuit,majors creek,merrylands,3142,nsw,19860131.0,35.0,07 33741174,1290876,benjamin,herrng,23.0,pinkerton circuit,majors creek,3142,merrylands,nswc,19420420.0,35.0,07 33741174,1290876
+852.0,elki,knowles,16.0,carroll street,,docker,3073,vic,19391215.0,29.0,02 13936127,8507151,elki,knowles,16.0,carroll ssreet,,aldgate,docker,vic,19397655.0,29.0,07 52319592,8507151
+852.0,elki,knowles,16.0,carroll street,,docker,3073,vic,19391215.0,29.0,02 13936127,8507151,benjamin,herrxing,3.0,pinkert on circuit,,merryalds,3124,nsw,19860131.0,27.0,07 33741174,1298076
+852.0,elki,knowles,16.0,carroll street,,docker,3073,vic,19391215.0,29.0,02 13936127,8507151,ben,herrizng,35.0,pinkerton circuit,majors creek,merrlads,3142,nsq,19860131.0,35.0,07 33741174,1290876
+852.0,elki,knowles,16.0,carroll street,,docker,3073,vic,19391215.0,29.0,02 13936127,8507151,benjmin,herrubg,71.0,pinkertonncpircuit,majors creek,merrylands,3142,,19860131.0,36.0,07 33741174,1290876
+857.0,brodee,wilson,6.0,byles place,,breeza,3238,vic,19951109.0,28.0,08 45349570,1219929,brodee,wilsown,6.0,byleswace,,breeza,3238,vic,19951109.0,,08 45349570,1229992
+864.0,kirrah,bonkowski,802.0,bindaga street,,balmain,2612,nsw,19700204.0,21.0,02 06258278,6671348,kirrah,bonkowzki,802.0,atreet bmindagae,,balmain,2612,nsw,19703040.0,21.0,02 06258278,6671348
+864.0,kirrah,bonkowski,802.0,bindaga street,,balmain,2612,nsw,19700204.0,21.0,02 06258278,6671348,kirrah,bonklwski,86.0,bindagasroeet,,balmain,2612,,19700294.0,21.0,02 06258278,6671648
+864.0,kirrah,bonkowski,802.0,bindaga street,,balmain,2612,nsw,19700204.0,21.0,02 06258278,6671348,kirsh,bonkoqski,802.0,bindaga street,,balmainn,2619,nsw,19700204.0,21.0,02 06258278,6643348
+864.0,kirrah,bonkowski,802.0,bindaga street,,balmain,2612,nsw,19700204.0,21.0,02 06258278,6671348,kirrah,bonkowski,,bindagawnsdpeet,,balmain,2612,nsw,19702004.0,21.0,02 06258278,6671384
+864.0,kirrah,bonkowski,802.0,bindaga street,,balmain,2612,nsw,19700204.0,21.0,02 06258278,6671348,kirrah,rossiter,8026.0,bindaga syreet,,balai,2612,nwb,19700024.0,21.0,02 06258278,6671348
+865.0,mitchell,cameron,8.0,shortland crescent,bonnydoon,seventeen mile rocks,5033,,19160111.0,22.0,03 31862091,2704144,kiafa,bonkosqki,802.0,bindag apatreet,,balmain,2612,nsw,19700104.0,21.0,02 06258278,6671248
+865.0,mitchell,cameron,8.0,shortland crescent,bonnydoon,seventeen mile rocks,5033,,19160111.0,22.0,03 31862091,2704144,kirwh,bonkowdki,802.0,bindaga katreet,,balmain,2612,nsf,19700294.0,21.0,02 06258278,6671348
+865.0,mitchell,cameron,8.0,shortland crescent,bonnydoon,seventeen mile rocks,5033,,19160111.0,22.0,03 31862091,2704144,kireha,bonlowski,802.0,bindava xtreet,,balmain,2612,nsw,19700794.0,,02 06258278,6671348
+865.0,mitchell,cameron,8.0,shortland crescent,bonnydoon,seventeen mile rocks,5033,,19160111.0,22.0,03 31862091,2704144,kirrah,bonkoswki,899.0,bindaga street,,balmain,2612,naw,19708004.0,21.0,02 06258278,6671489
+873.0,oliver,woodbury,10.0,,glen iris farm,everton park,5047,nsw,19331128.0,,03 42975416,8309090,madelina,woodbiry,5.0,,glen iris farm,everto gpark,5047,naw,19331128.0,,03 42975416,8309090
+873.0,oliver,woodbury,10.0,,glen iris farm,everton park,5047,nsw,19331128.0,,03 42975416,8309090,oliver,woodbuty,10.0,,,everton park,5085,nsw,19332718.0,,03 42975416,8309090
+873.0,oliver,woodbury,10.0,,glen iris farm,everton park,5047,nsw,19331128.0,,03 42975416,8309090,olivr,woodby fy,10.0,,,evertonpark,5047,nsq,19331128.0,,07 77732007,8309090
+873.0,oliver,woodbury,10.0,,glen iris farm,everton park,5047,nsw,19331128.0,,03 42975416,8309090,oloe,woodbcwy,10.0,,glen iris farm,everton park,2460,nsw,19331218.0,,03 42975416,8309090
+874.0,amy,,401.0,macnaughton street,east 88,croydon south,4413,qld,19870825.0,,07 72560543,7278171,olieo,,10.0,,,5047,everton park,nsw,19332828.0,,03 42957416,8309090
+874.0,amy,,401.0,macnaughton street,east 88,croydon south,4413,qld,19870825.0,,07 72560543,7278171,amy,,402.0,macnaughtzfndstreet,eas t 88,croydon south,4413,ndw,19870825.0,,07 72560543,7278171
+874.0,amy,,401.0,macnaughton street,east 88,croydon south,4413,qld,19870825.0,,07 72560543,7278171,emiilky,woodfby,15.0,,glen iriw farm,evert on park,5047,nsw,19100404.0,,03 42975416,8309090
+874.0,amy,,401.0,macnaughton street,east 88,croydon south,4413,qld,19870825.0,,07 72560543,7278171,oliver,woodbiry,7.0,,glen iris farm,evertonpark,5047,nxe,19331128.0,,07 22846130,8309090
+882.0,tyler,short,25.0,heriot place,hill end road,st kilda east,2207,wa,19810208.0,26.0,04 04404477,5818006,tyl,short,26.0,heriot pzace,hill end road,st kilda east,2200,wa,19815008.0,26.0,04 04404477,5848062
+883.0,chloe,dagg,20.0,notting court,coggan,echuca village,2324,sa,19410424.0,23.0,04 17321064,9826290,chle,dag,20.0,notting court,coggan,echuca vqillage,2324,sa,19401492.0,72.0,04 17321064,9826290
+883.0,chloe,dagg,20.0,notting court,coggan,echuca village,2324,sa,19410424.0,23.0,04 17321064,9826290,chloe,dagg,29.0,nottingcourt,coggan,echuca village,2324,sk,19419424.0,23.0,04 17321064,9826290
+883.0,chloe,dagg,20.0,notting court,coggan,echuca village,2324,sa,19410424.0,23.0,04 17321064,9826290,clo,dagh,20.0,nottin court,coggan,echuca vlillage,2324,sa,19412044.0,23.0,04 17321064,9526996
+883.0,chloe,dagg,20.0,notting court,coggan,echuca village,2324,sa,19410424.0,23.0,04 17321064,9826290,chloe,pikula,20.0,,coggan,village shuca,2326,sa,19410024.0,23.0,04 17330164,9826290
+884.0,amy,black,43.0,pethebridge street,,mission beach,2506,vic,19230505.0,25.0,03 46013684,6963626,chlym,dagg,20.0,notting ourt,coggan,echuca village,2324,sa,19144924.0,29.0,04 17321064,9826290
+884.0,amy,black,43.0,pethebridge street,,mission beach,2506,vic,19230505.0,25.0,03 46013684,6963626,chtoe,dagt,20.0,nottins court,,echuca village,2320,sa,19410144.0,27.0,04 17312064,9826290
+884.0,amy,black,43.0,pethebridge street,,mission beach,2506,vic,19230505.0,25.0,03 46013684,6963626,dagg,chlor,20.0,,coggan,echucaavyllage,2325,sa,19410424.0,,,9826290
+884.0,amy,black,43.0,pethebridge street,,mission beach,2506,vic,19230505.0,25.0,03 46013684,6963626,chloe,dagg,29.0,notting court,,echuca village,2327,sa,19402935.0,23.0,04 17321064,9826290
+887.0,maya,wood,69.0,lethbridge street,inverness,wallsend,3085,vic,19900429.0,32.0,02 01932155,8669332,wood,mat,69.0,lethbridge street,,emu pkains,3085,vic,19901829.0,32.0,02 01932155,8669332
+901.0,talia,purgemeister,13.0,galali place,oaklands,upwey,2141,nsw,19531126.0,32.0,07 73966627,6465883,talia,purgemeister,1.0,julia flyanfavenue,,upwey,2141,nsw,19531126.0,81.0,07 73966627,6465883
+901.0,talia,purgemeister,13.0,galali place,oaklands,upwey,2141,nsw,19531126.0,32.0,07 73966627,6465883,tsli,purgemeister,8.0,galali place,oaklands,upweh,2141,nsw,,,04 88554304,6465883
+901.0,talia,purgemeister,13.0,galali place,oaklands,upwey,2141,nsw,19531126.0,32.0,07 73966627,6465883,talia,purgemeysrer,4.0,galali place,,upwey,2141,sw,19531126.0,32.0,07 66040893,6465883
+901.0,talia,purgemeister,13.0,galali place,oaklands,upwey,2141,nsw,19531126.0,32.0,07 73966627,6465883,talia,purgemrister,13.0,galali place,,upw ey,2141,nsw,19531126.0,,07 73856627,6465883
+902.0,mikaela,wyatt,2.0,bandjalong crescent,misty oaks,toowoomba,2319,qld,19521101.0,30.0,03 08657927,2219711,talia,purgeneiter,11.0,galaliqplace,oaklands,upwye,2148,nswp,19531126.0,32.0,07 73266672,6465883
+902.0,mikaela,wyatt,2.0,bandjalong crescent,misty oaks,toowoomba,2319,qld,19521101.0,30.0,03 08657927,2219711,talia,purgemglister,13.0,galali place,oaklands,upwye,1241,kdw,19531126.0,32.0,07 73966627,6465881
+907.0,sophie,lange,8.0,turriff street,noosa professional centre,westdale,3390,qld,19630614.0,35.0,08 88527164,6562722,sophie,lanqg,9.0,,,westdale,3390,nse,19630614.0,35.0,08 88527164,6562722
+907.0,sophie,lange,8.0,turriff street,noosa professional centre,westdale,3390,qld,19630614.0,35.0,08 88527164,6562722,soddie,lahe,1.0,turriff street,willow vale,westdale,3390,qld,19630614.0,35.0,02 06604245,6562722
+907.0,sophie,lange,8.0,turriff street,noosa professional centre,westdale,3390,qld,19630614.0,35.0,08 88527164,6562722,sophie,lange,8.0,turriff street,noosa professional centre,westdasle,3304,qld,19630641.0,34.0,02 56103839,6562722
+907.0,sophie,lange,8.0,turriff street,noosa professional centre,westdale,3390,qld,19630614.0,35.0,08 88527164,6562722,sofie,lange,8.0,turriff r reet,,westtalte,3309,qld,19630614.0,35.0,08 88527164,6562722
+908.0,samuel,knott,15.0,achernar close,kurrumbulla,narrabeen,6076,qld,19991109.0,27.0,02 93450885,2455530,,lajge,8.0,turriff street,,,3309,qld,19630614.0,35.0,08 88527164,6567122
+908.0,samuel,knott,15.0,achernar close,kurrumbulla,narrabeen,6076,qld,19991109.0,27.0,02 93450885,2455530,sophie,lazrg,8.0,turriff street,,westpdale,3209,qlr,19630614.0,35.0,08 88527164,6567822
+908.0,samuel,knott,15.0,achernar close,kurrumbulla,narrabeen,6076,qld,19991109.0,27.0,02 93450885,2455530,sophid,,8.0,turriff street,professional noosa centre,westdazle,3390,qld,19643202.0,53.0,08 88527164,6562722
+916.0,taylah,marshall,6.0,moore street,,surfers paradise,2112,wa,19021030.0,27.0,03 37815513,3504181,taylah,marsulazl,6.0,moore sreet,,surfers paradise,2112,wa,19024300.0,27.0,03 37715513,3510581
+921.0,riley,schilling,15.0,woden plaza,,greenslopes,2653,,19590111.0,34.0,04 83996251,8319840,ryley,schimking,1.0,woden plaza,,greenslopes,2653,,19590191.0,34.0,03 68579754,8319840
+921.0,riley,schilling,15.0,woden plaza,,greenslopes,2653,,19590111.0,34.0,04 83996251,8319840,riley,schilling,128.0,woden plaza,,greenslopes,2635,,19590111.0,34.0,04 83994251,8393140
+921.0,riley,schilling,15.0,woden plaza,,greenslopes,2653,,19590111.0,34.0,04 83996251,8319840,amy,poppleton,15.0,woden plaza,,greenslopes,2653,,19560121.0,34.0,04 83996251,8381030
+921.0,riley,schilling,15.0,woden plaza,,greenslopes,2653,,19590111.0,34.0,04 83996251,8319840,riley,schiloing,4.0,wodenjpkaza,,greenslopes,2653,,19580111.0,24.0,04 83996251,8319840
+926.0,jack,goodes,6.0,custance street,,woy woy,2147,qld,19480930.0,27.0,07 91528622,3364859,jack,golddts,,custance street,,woy woyy,2147,qld,19480030.0,27.0,07 91528622,3369869
+926.0,jack,goodes,6.0,custance street,,woy woy,2147,qld,19480930.0,27.0,07 91528622,3364859,,goodes,6.0,custanceratreet,,wot woy,2148,qld,19131013.0,27.0,07 91528622,3364859
+927.0,kaysey,mccoll,33.0,darcy close,surfers links,adamstown heights,2617,wa,19721030.0,23.0,04 11618972,9446209,kayaky,mccoll,3.0,darcy cllse,,adamstown heights,2617,wa,19720250.0,23.0,,9446209
+927.0,kaysey,mccoll,33.0,darcy close,surfers links,adamstown heights,2617,wa,19721030.0,23.0,04 11618972,9446209,kaysey,mccllo,33.0,darcy gose,surfers links,adamstown heights,2671,wa,19721030.0,23.0,04 11618972,9446092
+927.0,kaysey,mccoll,33.0,darcy close,surfers links,adamstown heights,2617,wa,19721030.0,23.0,04 11618972,9446209,kaysey,mccoll,34.0,darcy lose,surfers links,adamstown hgeights,2617,wa,19721430.0,27.0,04 11618972,9496289
+927.0,kaysey,mccoll,33.0,darcy close,surfers links,adamstown heights,2617,wa,19721030.0,23.0,04 11618972,9446209,kausey,mccoll,33.0,darcy wlose,surfers links,keilor downs,2617,,19721939.0,23.0,04 11618972,5778837
+928.0,cameron,hatwell,5.0,la perouse street,rotary garden village,encounter bay,4215,wa,19990507.0,30.0,08 21401074,1490916,kaysey,mccoll,253.0,darcy lse,,adamstowj heights,2617,wa,19721920.0,23.0,04 11618972,9446209
+928.0,cameron,hatwell,5.0,la perouse street,rotary garden village,encounter bay,4215,wa,19990507.0,30.0,08 21401074,1490916,kaysey,mccolo,30.0,darcy close,surfers links,adamstown heights,2161,wa,19721030.0,23.0,02 74191844,9442609
+940.0,isaac,parr,31.0,mcintyre street,kangaroo flat,beechmont,3109,vic,19910920.0,20.0,02 67356983,3033105,isaca,parr,31.0,mcintyre street,kangaroo flat,beechmoont,1930,vic,19910290.0,20.0,02 67356983,3033105
+940.0,isaac,parr,31.0,mcintyre street,kangaroo flat,beechmont,3109,vic,19910920.0,20.0,02 67356983,3033105,isac,pare,31.0,mcintyrdtdtreet,,beechmont,7248,vic,19910920.0,20.0,02 67356983,3033155
+940.0,isaac,parr,31.0,mcintyre street,kangaroo flat,beechmont,3109,vic,19910920.0,20.0,02 67356983,3033105,isaac,parr,31.0,mcintyre street,kangaroo flat,beechob,3190,voc,19910920.0,72.0,02 63756983,3033105
+940.0,isaac,parr,31.0,mcintyre street,kangaroo flat,beechmont,3109,vic,19910920.0,20.0,02 67356983,3033105,inaac,arnold,39.0,mcintyre street,kangaroo flat,beechmont,3109,vic,19910920.0,20.0,02 67365983,3033105
+946.0,ruby,farquhar,116.0,hagen place,kyeema vineyard,,3300,act,19570520.0,32.0,,9259220,ruby,dickso,116.0,hagen lace,,,3300,acy,19750220.0,32.0,,9406750
+946.0,ruby,farquhar,116.0,hagen place,kyeema vineyard,,3300,act,19570520.0,32.0,,9259220,rubg,,116.0,hagen place,kyeema vineyard,,3300,act,19570620.0,24.0,,9258232
+946.0,ruby,farquhar,116.0,hagen place,kyeema vineyard,,3300,act,19570520.0,32.0,,9259220,ruby,farqpjar,116.0,hagen ykbace,,,3300,act,19570520.0,32.0,,9295002
+946.0,ruby,farquhar,116.0,hagen place,kyeema vineyard,,3300,act,19570520.0,32.0,,9259220,ruby,farjqxag,116.0,hagen place,,,3300,act,19507220.0,32.0,,9259220
+946.0,ruby,farquhar,116.0,hagen place,kyeema vineyard,,3300,act,19570520.0,32.0,,9259220,ruby,farquar,13.0,hagenp lace,,,3409,act,19570520.0,32.0,,9259220
+947.0,emma,peck,5.0,lapsley street,riverwood,laverton north,3644,qld,19000606.0,31.0,,4396742,ruby,farquhar,116.0,vineyard kyeema,hagen place,,3038,acq,19570502.0,32.0,,9259282
+951.0,imogen,rybak,26.0,couvreur street,west urandangie,geebung,2580,wa,,19.0,07 83543002,4000983,imogfn,rybak,26.0,couvreurbssreet,,geebung,2580,wa,,31.0,07 83543002,4000983
+951.0,imogen,rybak,26.0,couvreur street,west urandangie,geebung,2580,wa,,19.0,07 83543002,4000983,imogen,ryhad,20.0,couvreur treet,west uransdangie,geebung,2580,wa,,,07 83543002,4000983
+951.0,imogen,rybak,26.0,couvreur street,west urandangie,geebung,2580,wa,,19.0,07 83543002,4000983,imoen,rybak,90.0,couvreur street,,geebung,2507,wa,,28.0,07 83543002,4000983
+951.0,imogen,rybak,26.0,couvreur street,west urandangie,geebung,2580,wa,,19.0,07 83543002,4000983,imogdug,rybwk,24.0,couvreur street,west urandangie,geebung,2850,qq,19630217.0,19.0,07 83553002,4000983
+952.0,timothy,depretis,7.0,broome crescent,,keperra,3995,wa,19910604.0,33.0,04 72426342,4144674,imogen,rybak,182.0,couvreur street,,geebubg,2580,wajdf,,19.0,07 83543002,4000983
+952.0,timothy,depretis,7.0,broome crescent,,keperra,3995,wa,19910604.0,33.0,04 72426342,4144674,imogn,ryak,26.0,couvreurztreet,,geebung,2580,wa,,19.0,,4000983
+952.0,timothy,depretis,7.0,broome crescent,,keperra,3995,wa,19910604.0,33.0,04 72426342,4144674,imogen,rybtwk,26.0,couvreur dtreet,west urandangie,geebumg,2580,wa,,19.0,08 75358487,4008783
+953.0,charlie,allan,42.0,namatjira drive,banksia lodge,brooklyn,5212,,19650613.0,,04 92922726,6194274,allan,charlei,42.0,huntly,banksia lodge,brooklyb,5217,,19650613.0,,04 92922726,6194274
+958.0,kody,munro,1056.0,maclean street,,albury,4152,nsw,19910624.0,27.0,03 46591762,9108129,kody,muhgo,1066.0,macleacsyreet,,albury,4152,nsw,19916094.0,,03 46591762,9108129
+958.0,kody,munro,1056.0,maclean street,,albury,4152,nsw,19910624.0,27.0,03 46591762,9108129,kode,munro,1031.0,macleanv street,,alburnh,4125,nsw,19970206.0,27.0,03 46591762,9108129
+958.0,kody,munro,1056.0,maclean street,,albury,4152,nsw,19910624.0,27.0,03 46591762,9108129,koh,,163.0,maclean rreet,,albury,4152,nsw,19915624.0,,03 46591762,9108129
+958.0,kody,munro,1056.0,maclean street,,albury,4152,nsw,19910624.0,27.0,03 46591762,9108129,jaykzb,mumro,1056.0,maclean xtreet,,albtsuy,4152,nsw,19910624.0,21.0,03 46591762,9108129
+958.0,kody,munro,1056.0,maclean street,,albury,4152,nsw,19910624.0,27.0,03 46591762,9108129,kodt,mnvi,1056.0,maclean stveet,,albury,4152,nsw,19910624.0,27.0,03 46591762,9108729
+959.0,hannah,brown,192.0,brittlebank circuit,,abbotsford,7015,wa,19090929.0,27.0,02 69561733,7622964,munro,kody,10.0,maclead ztreet,,albury,4152,nsw,19910624.0,27.0,03 46592762,9108129
+959.0,hannah,brown,192.0,brittlebank circuit,,abbotsford,7015,wa,19090929.0,27.0,02 69561733,7622964,kody,munro,1056.0,maclean street,,albury,4125,nsw,19919604.0,3.0,03 46591762,9108819
+959.0,hannah,brown,192.0,brittlebank circuit,,abbotsford,7015,wa,19090929.0,27.0,02 69561733,7622964,kdoy,munroo,1056.0,maclean xstreet,,alubury,4152,n,19910624.0,27.0,03 46591762,6524204
+959.0,hannah,brown,192.0,brittlebank circuit,,abbotsford,7015,wa,19090929.0,27.0,02 69561733,7622964,kody,munri,1056.0,macleanputreet,,albury,4125,nsw,19910624.0,27.0,03 46591762,9108129
+960.0,ethan,faunce,20.0,coranderrk street,villa 8,mooloolaba,2550,vic,19951209.0,25.0,07 38313472,7454751,etan,faunce,6.0,coranderr atreet,villa 8,mooloolaba,2550,vic,19941409.0,25.0,07 38313472,7454751
+960.0,ethan,faunce,20.0,coranderrk street,villa 8,mooloolaba,2550,vic,19951209.0,25.0,07 38313472,7454751,ethan,murgatroyd,20.0,coranderrk street,villa 8,mooloomaba,2550,vvi,19951209.0,42.0,07 38331472,7454715
+960.0,ethan,faunce,20.0,coranderrk street,villa 8,mooloolaba,2550,vic,19951209.0,25.0,07 38313472,7454751,ethfn,faunve,6.0,corandert jstreet,,mooloolaba,,,19951209.0,25.0,07 38313472,7454751
+960.0,ethan,faunce,20.0,coranderrk street,villa 8,mooloolaba,2550,vic,19951209.0,25.0,07 38313472,7454751,etad,faunce,20.0,coranderrk street,,mooloolaba,2550,vic,19952109.0,25.0,,7454751
+960.0,ethan,faunce,20.0,coranderrk street,villa 8,mooloolaba,2550,vic,19951209.0,25.0,07 38313472,7454751,ethan,faunce,2.0,berne yrecent,,mooloolaba,2550,vic,19915269.0,25.0,07 38313472,7454751
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,faunce,ethan,20.0,coranderrk street,,mooloolaba,5250,vir,19951209.0,25.0,07 33813472,7445315
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,ethy,faunse,20.0,coranderrk street,vill a8,mooloolaba,2550,vic,,25.0,07 38314372,7454751
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,browne,mikhayla,58.0,,,galstwion,2238,nsw,19280704.0,20.0,03 48617039,3824516
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,ethan,faufje,29.0,coranderrk street,villa 8,mooloolaba,2550,vic,19951609.0,25.0,07 38393472,7454715
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,mikhaylw,browne,65.0,,,galspn,2283,naw,12987004.0,20.0,03 48617039,3824561
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,ethan,faunce,25.0,street corsanderrl,villa 8,mooloolaba,2550,vic,19409010.0,25.0,07 38313472,7454471
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,mikhaula,browne,58.0,,,gaoypn,2283,nsw,19283040.0,20.0,03 48617039,3825551
+961.0,mikhayla,browne,58.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3824561,mikhayk,browhe,58.0,,,galzton,2257,nse,19280705.0,20.0,03 48617039,3824651
+962.0,joshua,tenholder,74.0,parkhill street,greenstone lodge,traralgon,3400,sa,,33.0,,7265923,mikhaya,brownq,5.0,,,galston,2283,nsw,19281604.0,,03 48617039,3823661
+962.0,joshua,tenholder,74.0,parkhill street,greenstone lodge,traralgon,3400,sa,,33.0,,7265923,josh,tenhodlegr,45.0,parkhillvsfreet,greenstone lodge,traralgon,3400,ss,,33.0,,7265923
+962.0,joshua,tenholder,74.0,parkhill street,greenstone lodge,traralgon,3400,sa,,33.0,,7265923,mikhaula,browqcne,51.0,,,galston,2283,nsw,19280704.0,20.0,03 48617039,3823516
+962.0,joshua,tenholder,74.0,parkhill street,greenstone lodge,traralgon,3400,sa,,33.0,,7265923,josjua,tenholrer,10.0,parkhillsdtxreet,,traralgon,3400,sa,,33.0,,7265923
+962.0,joshua,tenholder,74.0,parkhill street,greenstone lodge,traralgon,3400,sa,,33.0,,7265923,josh,tenholhder,1.0,parkhill street,greenstone lodge,kingsurove,3400,sa,,30.0,,7265923
+962.0,joshua,tenholder,74.0,parkhill street,greenstone lodge,traralgon,3400,sa,,33.0,,7265923,mikhayla,bronase,59.0,,,galston,2228,nsw,19280704.0,20.0,02 49322674,3824561
+964.0,alexander,fallen,39.0,spring range road,,isaacs,4207,sa,19850106.0,,08 08554460,3619716,alexander,fallen,44.0,spring range road,,isaacs,4207,stj,19850106.0,,03 74734186,3619716
+964.0,alexander,fallen,39.0,spring range road,,isaacs,4207,sa,19850106.0,,08 08554460,3619716,alexander,fallbn,38.0,spring rznge road,,isaadc,4207,sa,19855006.0,,08 08554460,3619716
+964.0,alexander,fallen,39.0,spring range road,,isaacs,4207,sa,19850106.0,,08 08554460,3619716,alexander,fallen,39.0,spring radjge road,,isaal s,4207,sa,19855006.0,,08 08554460,3612751
+966.0,kane,cochinos,28.0,higinbotham street,,dover gardens,6225,qld,19310611.0,23.0,04 30350222,2577382,kane,cochignis,218.0,,,dover gardens,6225,qld,19310611.0,23.0,04 30350222,7286296
+968.0,skye,dawkins,39.0,springvale drive,,hallam,3636,qld,19290308.0,32.0,07 70605777,9565251,skye,dawkkns,,springvarldrive,,hallam,3663,qof,19290308.0,32.0,07 70605777,9565251
+970.0,zali,perkins,45.0,dartnell street,,grantville,2261,nsw,19420520.0,36.0,07 22373109,3727458,zali,perkins,5.0,dartnellstreet,,grantville,2622,ns,19420520.0,63.0,07 22373109,3727848
+970.0,zali,perkins,45.0,dartnell street,,grantville,2261,nsw,19420520.0,36.0,07 22373109,3727458,zalli,perkins,4.0,street dartnell,,grantville,2261,nsw,,29.0,07 22373109,3727458
+970.0,zali,perkins,45.0,dartnell street,,grantville,2261,nsw,19420520.0,36.0,07 22373109,3727458,zali,perkins,45.0,dartnelksreet,,grantville,2125,nsw,19420520.0,3.0,07 22373109,3727458
+970.0,zali,perkins,45.0,dartnell street,,grantville,2261,nsw,19420520.0,36.0,07 22373109,3727458,zali,,45.0,,carlyle garden,grantvile,2261,nsw,19420530.0,23.0,07 22363109,3726548
+970.0,zali,perkins,45.0,dartnell street,,grantville,2261,nsw,19420520.0,36.0,07 22373109,3727458,zalk,perilns,45.0,dartnelx usreet,,grantville,2261,nsw,19420520.0,36.0,07 26373209,3727538
+973.0,bradley,bailey,8.0,gurrit place,,yarrowitch,7321,qld,19450608.0,,08 30076619,4398325,bradley,bailej,8.0,gurrit plovce,,yarriwitch,7321,qdd,19456008.0,,08 30076619,4398425
+983.0,harry,hawke,203.0,carstensz street,yarn market,goulburn,3030,nsw,19561021.0,23.0,02 15168035,4208027,harey,hawke,203.0,carstensz street,,goulyj,3030,nsw,19568225.0,23.0,02 15168035,4208027
+985.0,tarnia,cornock,10.0,fernyhough crescent,beeliar park,mildura,3156,nsw,19451101.0,38.0,02 92180319,1684875,tarnka,grasso,10.0,fernyhough crescent,,miydus,3156,nsw,19451291.0,38.0,02 92180319,1684875
+985.0,tarnia,cornock,10.0,fernyhough crescent,beeliar park,mildura,3156,nsw,19451101.0,38.0,02 92180319,1684875,tarnia,cornotk,87.0,fernyhough crescent,,mildura,3156,,19451101.0,38.0,02 92180319,1627975
+993.0,raquel,alexander,10.0,spigl street,,woolooware,2350,nsw,19680323.0,20.0,08 11296774,4193730,raquel,alexaynder,175.0,spigl stdeet,,wooloowwre,2350,nsep,,,08 11296774,4193730
+1001.0,,couzner,23.0,kidston crescent,,yangebup,4069,wa,19581219.0,28.0,04 06755599,1379009,,couzmer,23.0,kidstonucricent,,yangebup,4069,,19581219.0,29.0,04 06755599,1379099
+1006.0,julia,mccormack,4.0,mcelhone court,,port macquarie,2905,sa,,28.0,03 09739920,3136427,jlis,mccorsck,4.0,court mcenhone,,port macquarie,2905,sa,,28.0,03 09739920,3135472
+1006.0,julia,mccormack,4.0,mcelhone court,,port macquarie,2905,sa,,28.0,03 09739920,3136427,julia,mccormack,2.0,mcelhone court,,port mauarie,2905,sa,,39.0,03 09739920,3136427
+1006.0,julia,mccormack,4.0,mcelhone court,,port macquarie,2905,sa,,28.0,03 09739920,3136427,,mccoramck,4.0,mcelhonecourt,,port macquariei,2905,s,,28.0,03 09739920,3136237
+1006.0,julia,mccormack,4.0,mcelhone court,,port macquarie,2905,sa,,28.0,03 09739920,3136427,julia,mccorjwck,26.0,mcelhone court,,port macquarie,2905,sz,,28.0,08 56212078,3136427
+1006.0,julia,mccormack,4.0,mcelhone court,,port macquarie,2905,sa,,28.0,03 09739920,3136427,jjila,mccormack,9.0,mcelhone court,,port macquarie,2905,s,,28.0,03 09749820,3135427
+1011.0,charlie,roberts,17.0,werribee crescent,,bendigo,2680,qld,19300623.0,28.0,08 01742444,5084526,charlie,robwexts,17.0,werribee vtescent,,bendgo,2680,qs,19300623.0,28.0,08 01742444,5084256
+1011.0,charlie,roberts,17.0,werribee crescent,,bendigo,2680,qld,19300623.0,28.0,08 01742444,5084526,charlie,robdrts,168.0,werribeeacrescent,,benduo,2680,qlds,19300623.0,28.0,08 01742444,5084526
+1011.0,charlie,roberts,17.0,werribee crescent,,bendigo,2680,qld,19300623.0,28.0,08 01742444,5084526,charkiw,pilcher,10.0,werribee crescent,,bendigo,2680,qld,19300023.0,28.0,08 01742444,5084526
+1011.0,charlie,roberts,17.0,werribee crescent,,bendigo,2680,qld,19300623.0,28.0,08 01742444,5084526,charlie,roberts,17.0,werribee crescent,,benigo,2680,ss,19622122.0,,08 01742444,5084256
+1012.0,thomas,french,15.0,boolimba crescent,,sandy beach,3065,vic,19820113.0,23.0,04 26057226,1773381,charlie,roberbs,17.0,werribee rescent,,bendigo,2680,qld,19472120.0,28.0,08 01842444,5084526
+1012.0,thomas,french,15.0,boolimba crescent,,sandy beach,3065,vic,19820113.0,23.0,04 26057226,1773381,charle,robeftj,14.0,werribee verscent,,bendigo,2680,qld,19810544.0,28.0,08 01742444,5084526
+1012.0,thomas,french,15.0,boolimba crescent,,sandy beach,3065,vic,19820113.0,23.0,04 26057226,1773381,charlie,robefrs,3.0,werribee l tescent,,bendigo,2608,qld,19300623.0,28.0,08 01742444,5084526
+1012.0,thomas,french,15.0,boolimba crescent,,sandy beach,3065,vic,19820113.0,23.0,04 26057226,1773381,charlie,rodfejrs,17.0,werribee frescent,,benbigo,2680,qld,19309623.0,28.0,08 01742444,5084257
+1013.0,shona,arnold,7.0,rees place,woodanabrook,booragoon,6151,,19400329.0,18.0,04 40047560,7457392,shtna,arnlldx,7.0,rees plsce,,,6151,,19400319.0,18.0,04 40047560,7457496
+1018.0,aiden,baldwin,47.0,rapanea street,sec 240,redcliffe,6109,wa,19040322.0,28.0,03 45199388,3442218,aiden,baldkwn,48.0,rapands treet,,redclieffe,6109,wa,19040322.0,28.0,03 45199388,3442218
+1018.0,aiden,baldwin,47.0,rapanea street,sec 240,redcliffe,6109,wa,19040322.0,28.0,03 45199388,3442218,aiden,baldwin,4.0,rapanea xtreet,sec 2 n0,redcliffe,6109,wa,19040122.0,28.0,03 45199388,3442218
+1018.0,aiden,baldwin,47.0,rapanea street,sec 240,redcliffe,6109,wa,19040322.0,28.0,03 45199388,3442218,aiden,browwrng,47.0,rapanea street,,redcliffe,6109,wa,19040322.0,23.0,03 45199388,3442218
+1023.0,ella,meyers,38.0,chewings street,belvedere,narara,2450,nsw,19601009.0,39.0,04 61570679,1340573,ella,meyers,1.0,chewings street,eureka rmb 923b,narara,2450,nsw,19601209.0,39.0,04 61570679,1347017
+1023.0,ella,meyers,38.0,chewings street,belvedere,narara,2450,nsw,19601009.0,39.0,04 61570679,1340573,ell,meyers,89.0,chewings street,,naraa,2450,,19601009.0,38.0,04 61570679,1340563
+1023.0,ella,meyers,38.0,chewings street,belvedere,narara,2450,nsw,19601009.0,39.0,04 61570679,1340573,elka,meyers,38.0,chewinga treet,belvedere,narrarla,2450,nsw,19609609.0,39.0,04 61576079,1340573
+1023.0,ella,meyers,38.0,chewings street,belvedere,narara,2450,nsw,19601009.0,39.0,04 61570679,1340573,ella,meryfs,38.0,chewinge atreet,,narara,2450,nsw,19068019.0,93.0,04 61570679,1340573
+1024.0,chelsea,papagallo,118.0,taylor street,calvary campus,murrumbeena,2763,vic,19821023.0,25.0,02 38545637,2200043,ella,meyers,39.0,,belvedere,narafa,2047,nsw,19601009.0,39.0,08 30392605,1340573
+1024.0,chelsea,papagallo,118.0,taylor street,calvary campus,murrumbeena,2763,vic,19821023.0,25.0,02 38545637,2200043,elola,meyers,381.0,chewingsstreet,,narra,2405,nsw,,39.0,04 61570679,1349673
+1024.0,chelsea,papagallo,118.0,taylor street,calvary campus,murrumbeena,2763,vic,19821023.0,25.0,02 38545637,2200043,,myenr,38.0,chewings street,belvedere,nataar,2450,nsw,19290105.0,39.0,04 61570679,1340573
+1024.0,chelsea,papagallo,118.0,taylor street,calvary campus,murrumbeena,2763,vic,19821023.0,25.0,02 38545637,2200043,e,meyrrs,38.0,chewings street,,narara,2440,nsw,,39.0,04 61076079,1340573
+1024.0,chelsea,papagallo,118.0,taylor street,calvary campus,murrumbeena,2763,vic,19821023.0,25.0,02 38545637,2200043,elo,meyers,38.0,chewings street,belvedere,narara,2504,nse,19601009.0,39.0,04 61672769,1340573
+1031.0,tabitha,coffey,79.0,wakefield garden,,grovedale,3363,,19640729.0,31.0,04 72548307,4778508,tabitha,coffey,75.0,wakefield garden,,groveale,3386,,19640629.0,31.0,04 72548307,4778508
+1031.0,tabitha,coffey,79.0,wakefield garden,,grovedale,3363,,19640729.0,31.0,04 72548307,4778508,tabitha,coffly,79.0,wakefieldgarden,,grovedale,3363,,19646929.0,31.0,,4778508
+1031.0,tabitha,coffey,79.0,wakefield garden,,grovedale,3363,,19640729.0,31.0,04 72548307,4778508,tabitha,cofy,18.0,wakefielgdarden,,grovedale,3363,,19640729.0,32.0,04 72548307,4778508
+1031.0,tabitha,coffey,79.0,wakefield garden,,grovedale,3363,,19640729.0,31.0,04 72548307,4778508,tabitha,cofkgey,700.0,wakefield garden,,grovefayle,3860,,19640729.0,31.0,,4778508
+1032.0,tara,garrard,56.0,enid lorimer circuit,,griffith,3018,vic,19630326.0,23.0,08 98433830,1162282,tara,garrard,56.0,enidlorimer circuit,garratt,griffith,3918,vic,19630326.0,13.0,08 98433830,9402238
+1045.0,zara,stuart,22.0,moses place,,mill park,3355,wa,19220124.0,23.0,08 98210000,2648122,stuart,zarav,22.0,moses place,,mill ipsrk,3355,wa,19220124.0,,02 30240028,2648122
+1045.0,zara,stuart,22.0,moses place,,mill park,3355,wa,19220124.0,23.0,08 98210000,2648122,madalyn,stirhst,214.0,moses place,,mill park,3355,wa,19221064.0,23.0,08 98210000,2648122
+1046.0,bailey,longley,18.0,lansell circuit,,phillip bay,4501,,19670822.0,26.0,07 79816881,1310008,bailey,longlty,18.0,lansell circuit,,phillp  bay,4530,,19607822.0,26.0,07 79816881,1310008
+1046.0,bailey,longley,18.0,lansell circuit,,phillip bay,4501,,19670822.0,26.0,07 79816881,1310008,baioley,longley,11.0,lansell circuit,mariah,phillip bay,4501,,19671202.0,33.0,07 79626881,1310008
+1046.0,bailey,longley,18.0,lansell circuit,,phillip bay,4501,,19670822.0,26.0,07 79816881,1310008,bailey,longluoy,18.0,lansell circuit,,phillip bay,5042,,19670822.0,26.0,07 79716881,1310008
+1046.0,bailey,longley,18.0,lansell circuit,,phillip bay,4501,,19670822.0,26.0,07 79816881,1310008,bailee,,18.0,lansell circuit,,phillip bay,4510,nsw,19678022.0,26.0,07 79816881,1486024
+1046.0,bailey,longley,18.0,lansell circuit,,phillip bay,4501,,19670822.0,26.0,07 79816881,1310008,bailey,lontlh,20.0,lansell xircuit,,phillip bay,4501,,19676022.0,62.0,07 79816881,1310008
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,annabelle,marsdeg,16.0,torrensstfeet,fowlers bay,mackay north,3095,qld,,33.0,,6466469
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,longeyy,bailey,,lansell ciercuit,tingari vlge,phillip bay,4501,,19670822.0,26.0,07 79816881,1310008
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,annabele,marshdne,16.0,,,mackay north,3056,qld,19700114.0,34.0,,2545024
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,bailey,longley,16.0,lansell fprcuit,,philliygay,4501,,19670822.0,26.0,07 78961881,1310008
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,baiey,longley,18.0,lansellucircuit,,philzip bay,4051,,19670722.0,26.0,07 79861881,1320908
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,baidly,longley,18.0,lansell cpircuit,,phillip bay,4051,,19670726.0,26.0,07 79816881,7929406
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,annabeole,hyland,16.0,torrens street,,mackarhrth,3056,qcd,19700114.0,33.0,,6466469
+1047.0,annabelle,marsden,16.0,torrens street,,mackay north,3056,qld,19700114.0,33.0,,6466469,thomas,marsden,181.0,torrens street,,mackay orth,3066,qld,,,,6466469
+1054.0,lilly,beer,17.0,lidgett place,,simson,3300,nsw,19930517.0,27.0,04 37665761,9870390,lilly,beekr,17.0,,,simson,3300,nsw,19939617.0,72.0,04 37665761,9870390
+1054.0,lilly,beer,17.0,lidgett place,,simson,3300,nsw,19930517.0,27.0,04 37665761,9870390,lilly,beer,17.0,lidgett place,cobaki broadwater village,simson,3300,na,19820728.0,72.0,04 37665761,3463088
+1054.0,lilly,beer,17.0,lidgett place,,simson,3300,nsw,19930517.0,27.0,04 37665761,9870390,lilly,bder,14.0,lidgett place,,simsom,3300,,19930517.0,,07 73924220,9870390
+1054.0,lilly,beer,17.0,lidgett place,,simson,3300,nsw,19930517.0,27.0,04 37665761,9870390,lilyl,begb,15.0,lidgett place,,simsoj,3300,nsw,,,04 37665761,9870390
+1054.0,lilly,beer,17.0,lidgett place,,simson,3300,nsw,19930517.0,27.0,04 37665761,9870390,meagan,beer,4.0,lidgett place,north downs,simson,4185,nsw,,27.0,04 37665761,9870390
+1055.0,koula,cocca,30.0,looranah street,vermont,watsonia,3108,vic,19760812.0,23.0,07 00792312,5891167,lilp,beer,19.0,lidgett place,,simaon,3200,nsw,,27.0,04 37666761,9870390
+1055.0,koula,cocca,30.0,looranah street,vermont,watsonia,3108,vic,19760812.0,23.0,07 00792312,5891167,lilly,beer,1631.0,,dalkeith olde,simson,3300,nse,19930557.0,27.0,08 73117528,9870390
+1055.0,koula,cocca,30.0,looranah street,vermont,watsonia,3108,vic,19760812.0,23.0,07 00792312,5891167,lilly,bete,16.0,lidgett place,,simaon,3300,nsd,19930517.0,27.0,04 37665761,5652326
+1055.0,koula,cocca,30.0,looranah street,vermont,watsonia,3108,vic,19760812.0,23.0,07 00792312,5891167,lilly,be,11.0,,,simsob,3300,nd,19930517.0,27.0,04 37665761,9873090
+1057.0,tyler,ellis,26.0,ellerston avenue,,st clair,5042,vic,19720412.0,39.0,02 93153928,3997809,tylfr,ellwaid,24.0,ellerstlnuvenue,,st clair,5042,vic,19720912.0,39.0,02 93153928,3997809
+1057.0,tyler,ellis,26.0,ellerston avenue,,st clair,5042,vic,19720412.0,39.0,02 93153928,3997809,ellis,tyfbler,7.0,ellerston svenue,,st clair,5042,,19720412.0,39.0,02 93130928,3997809
+1057.0,tyler,ellis,26.0,ellerston avenue,,st clair,5042,vic,19720412.0,39.0,02 93153928,3997809,tye,ellos,26.0,ellerstonhacenue,,st ckai,5042,vic,19701412.0,39.0,02 93153928,3997809
+1057.0,tyler,ellis,26.0,ellerston avenue,,st clair,5042,vic,19720412.0,39.0,02 93153928,3997809,tyler,elmis,29.0,ellerston avenue,,st clair,5082,,19702512.0,39.0,02 93236928,3997809
+1067.0,harry,stride,112.0,wurth place,cotswold,minto,6330,qld,19230124.0,29.0,08 13588469,5212679,harry,stride,103.0,wurth place,cotseol,63d3,minto,qld,19230124.0,82.0,08 13588469,5212679
+1067.0,harry,stride,112.0,wurth place,cotswold,minto,6330,qld,19230124.0,29.0,08 13588469,5212679,harry,strqide,235.0,wurth place,cotswold,minit,6330,qld,19230124.0,29.0,08 13588469,5212679
+1067.0,harry,stride,112.0,wurth place,cotswold,minto,6330,qld,19230124.0,29.0,08 13588469,5212679,harry,,123.0,wurth place,,miho,6330,qll,19230124.0,29.0,08 13589469,5212697
+1069.0,paul,cashion,48.0,eungella street,west burliegh village,korumburra,3128,vic,,23.0,07 73678314,9240609,pahl,cashion,48.0,eungellastr eet,,koruwuura,3128,vic,,23.0,07 73678314,9240609
+1069.0,paul,cashion,48.0,eungella street,west burliegh village,korumburra,3128,vic,,23.0,07 73678314,9240609,paul,cashino,485.0,eungellahtsreet,west burlieh village,korumburra,3168,vic,,23.0,07 76378314,9240509
+1069.0,paul,cashion,48.0,eungella street,west burliegh village,korumburra,3128,vic,,23.0,07 73678314,9240609,paloov,cashion,48.0,eungella street,,korumburra,3128,vic,,22.0,07 73765314,9240609
+1069.0,paul,cashion,48.0,eungella street,west burliegh village,korumburra,3128,vic,,23.0,07 73678314,9240609,pail,cashewnu,42.0,eungellrlstreet,west burliegh village,korumburra,3128,vic,,23.0,07 73678314,9240609
+1070.0,lachlan,macdonald,1.0,pasmore close,tynwall,jeparit,3850,vic,19050725.0,,03 43931477,9580610,paul,cashion,46.0,eungella street,,korumbufra,3128,vic,,27.0,,9240080
+1085.0,ky,rootes,4.0,goyder street,whylandra est,woolloongabba,3072,nsw,19951119.0,28.0,08 89483582,8923691,iy,rootes,4.0,goyder street,whylandra est,woolloongabba,3782,nsw,19959111.0,28.0,08 89483582,9373358
+1085.0,ky,rootes,4.0,goyder street,whylandra est,woolloongabba,3072,nsw,19951119.0,28.0,08 89483582,8923691,ky,roots,2.0,dickinsonl sreet,whylandra est,woolloongabba,3027,nsw,19952319.0,82.0,08 89483582,8923691
+1085.0,ky,rootes,4.0,goyder street,whylandra est,woolloongabba,3072,nsw,19951119.0,28.0,08 89483582,8923691,ym,roots,4.0,goyde rstreet,,woolloongabba,3072,nsw,19370261.0,28.0,08 89483582,8926391
+1085.0,ky,rootes,4.0,goyder street,whylandra est,woolloongabba,3072,nsw,19951119.0,28.0,08 89483582,8923691,z,lavelle,54.0,goyder street,whylandra est,wooloooabba,3072,nsw,19951119.0,28.0,08 89483582,8923691
+1086.0,nicholas,turner,72.0,hawken street,,hawthorn,2582,sa,19810216.0,37.0,04 12558892,8698366,k,roote,9.0,goyder street,whylanfraest,woolloongabba,3072,nsw,19951589.0,28.0,08 89483582,8923691
+1088.0,riley,phillips,5.0,theodore street,,mosman park,5343,vic,19631018.0,24.0,02 86562792,5299172,riley,philips,5.0,theodorwhdtreet,wonangatta caravn park,mosman park,5343,vic,19631018.0,,02 86569792,5299172
+1088.0,riley,phillips,5.0,theodore street,,mosman park,5343,vic,19631018.0,24.0,02 86562792,5299172,riley,phililps,54.0,theodorewtreet,,mosmamxpark,5343,vic,19631018.0,,02 86562792,5299172
+1088.0,riley,phillips,5.0,theodore street,,mosman park,5343,vic,19631018.0,24.0,02 86562792,5299172,riley,phillops,64.0,,,mosmafn prk,5343,vic,19631018.0,24.0,02 86562792,5299172
+1088.0,riley,phillips,5.0,theodore street,,mosman park,5343,vic,19631018.0,24.0,02 86562792,5299172,riley,,5.0,theodore street,,mosman pagrk,5343,vu,19631018.0,62.0,02 89572792,5299172
+1089.0,lily,marzi,11.0,custance street,,morley,2560,vic,19630927.0,32.0,03 32885130,4261116,lily,malkli,11.0,custancestreet,,mojley,2560,vmf,19630917.0,32.0,02 95625323,4261136
+1089.0,lily,marzi,11.0,custance street,,morley,2560,vic,19630927.0,32.0,03 32885130,4261116,liy,barnktt,12.0,custance street,,morley,2560,bic,19630927.0,24.0,03 32885130,4261116
+1089.0,lily,marzi,11.0,custance street,,morley,2560,vic,19630927.0,32.0,03 32885130,4261116,li ky,arnesen,26.0,custance street,,morley,2560,vc,19630927.0,32.0,03 32885130,4261286
+1089.0,lily,marzi,11.0,custance street,,morley,2560,vic,19630927.0,32.0,03 32885130,4261116,il,marzi,9.0,custance street,,morley,2576,vic,19630927.0,30.0,03 32885130,4261116
+1090.0,zachary,kornis,26.0,wheeler crescent,,salisbury east,6026,nsw,19210216.0,30.0,08 96529446,4798632,lil,marzi,162.0,custance street,,morwh,2560,vic,19630927.0,32.0,03 32885130,4261116
+1090.0,zachary,kornis,26.0,wheeler crescent,,salisbury east,6026,nsw,19210216.0,30.0,08 96529446,4798632,ligw,marsi,11.0,custance jatreet,,morlk,2560,vic,19630297.0,32.0,03 32885130,4261116
+1090.0,zachary,kornis,26.0,wheeler crescent,,salisbury east,6026,nsw,19210216.0,30.0,08 96529446,4798632,lily,marzk,11.0,custance sreet,,morley,2560,vic,19630772.0,32.0,04 41873913,4261116
+1090.0,zachary,kornis,26.0,wheeler crescent,,salisbury east,6026,nsw,19210216.0,30.0,08 96529446,4798632,lbou,manzi,14.0,custance street,,moley,2560,vic,19630927.0,,03 32885130,4261116
+1092.0,ella,folder,11.0,aspinall street,,bullsbrook,2305,vic,19800822.0,27.0,08 14385354,3612199,ellae,folder,12.0,aspinall street,,bullwrook,2053,vic,19800822.0,,08 14385354,3612199
+1092.0,ella,folder,11.0,aspinall street,,bullsbrook,2305,vic,19800822.0,27.0,08 14385354,3612199,ella,folder,1.0,aspinall street,,bullsblfrook,2305,vic,19809922.0,,08 14385354,3612199
+1092.0,ella,folder,11.0,aspinall street,,bullsbrook,2305,vic,19800822.0,27.0,08 14385354,3612199,ella,folder,12.0,aspinallvsgreet,,bullsbrook,2305,bie,19800682.0,27.0,08 14385354,3612991
+1092.0,ella,folder,11.0,aspinall street,,bullsbrook,2305,vic,19800822.0,27.0,08 14385354,3612199,ella,folde,17.0,aspinallstreet,,bullsbrook,2305,vic,19800822.0,27.0,02 31710596,3612199
+1092.0,ella,folder,11.0,aspinall street,,bullsbrook,2305,vic,19800822.0,27.0,08 14385354,3612199,elka,foldfer,19.0,aspinall street,,bullsbook,2305,vic,19808022.0,27.0,08 14285354,3612199
+1093.0,lewis,boden,30.0,percy crescent,,wendouree,2041,nsw,19340113.0,29.0,04 01679593,7846189,ella,harpcer,11.0,aspinalmstreet,,bullsbrook,2352,vic,19800822.0,,08 14385354,3612199
+1093.0,lewis,boden,30.0,percy crescent,,wendouree,2041,nsw,19340113.0,29.0,04 01679593,7846189,lew,bodwnx,21.0,percy dgescent,,wenduree,2041,nsw,,29.0,04 01679593,7846189
+1093.0,lewis,boden,30.0,percy crescent,,wendouree,2041,nsw,19340113.0,29.0,04 01679593,7846189,louj,bodej,30.0,,,wendouree,2013,nsw,19340513.0,29.0,04 01697593,7846189
+1093.0,lewis,boden,30.0,percy crescent,,wendouree,2041,nsw,19340113.0,29.0,04 01679593,7846189,lousi,boden,39.0,percy dercent,,wendouree,2041,nsw,19340113.0,34.0,04 01649593,7846189
+1093.0,lewis,boden,30.0,percy crescent,,wendouree,2041,nsw,19340113.0,29.0,04 01679593,7846189,lewis,boden,30.0,percy cr etscent,,wendouree,2041,nwr,19341013.0,28.0,04 01648593,7843189
+1094.0,lochlan,thompson,148.0,greenvale street,brentwood vlge,killara,2357,qld,19680925.0,35.0,04 39423267,7867111,lewi,boden,,percy crescent,,wendougree,2041,ns,19341103.0,29.0,04 01675993,7846189
+1094.0,lochlan,thompson,148.0,greenvale street,brentwood vlge,killara,2357,qld,19680925.0,35.0,04 39423267,7867111,lewis,boddn,5.0,percy crjcent,cobaki broadwater village,wendouree,2041,nsw,19340113.0,29.0,04 01189593,7846189
+1094.0,lochlan,thompson,148.0,greenvale street,brentwood vlge,killara,2357,qld,19680925.0,35.0,04 39423267,7867111,lewspa,boden,30.0,percy crescent,,wendouree,2041,nsw,19431603.0,29.0,04 01679593,7846189
+1094.0,lochlan,thompson,148.0,greenvale street,brentwood vlge,killara,2357,qld,19680925.0,35.0,04 39423267,7867111,lewks,boeh,30.0,percy vrescent,,wendouree,2041,nsw,19340173.0,29.0,04 01679593,7841689
+1106.0,flynn,reu,13.0,currie crescent,aprt 1,mount eliza,2219,nsw,19071113.0,19.0,02 26546891,6044812,flynn,rehu,13.0,currie cqeacent,,mount eliza,2219,ndw,19071113.0,17.0,,6044812
+1106.0,flynn,reu,13.0,currie crescent,aprt 1,mount eliza,2219,nsw,19071113.0,19.0,02 26546891,6044812,flynn,rwu,275.0,currie orescent,aprt 1,mount eliza,2219,nsh,19071931.0,19.0,02 26546891,6041721
+1106.0,flynn,reu,13.0,currie crescent,aprt 1,mount eliza,2219,nsw,19071113.0,19.0,02 26546891,6044812,flynn,blokland,13.0,currie crescent,aprt 1,mount eliza,2296,nsw,19071113.0,31.0,02 26546891,6044172
+1108.0,benjamin,schache,4.0,burkitt street,bimberdong,walkerville,3162,nsw,19690905.0,37.0,07 51893085,4830561,benjamin,schache,4.0,burkittazhreet,bimbe rdlong,walkervnlle,3162,nsw,19969705.0,73.0,07 51893085,4830561
+1108.0,benjamin,schache,4.0,burkitt street,bimberdong,walkerville,3162,nsw,19690905.0,37.0,07 51893085,4830561,benjamin,schacje,4.0,burkitt srreet,,walkerviivlle,3152,nsw,19690905.0,37.0,07 51893085,4839551
+1114.0,cassidy,ringrow,17.0,hirst place,,victoria park,6024,vic,19261001.0,34.0,04 44207702,4246007,casaidy,ringrow,17.0,hirst place,,victoria park,6024,vic,19261601.0,43.0,04 44297702,4246007
+1114.0,cassidy,ringrow,17.0,hirst place,,victoria park,6024,vic,19261001.0,34.0,04 44207702,4246007,cassidy,ringrow,17.0,hirst place,,victori va pyark,6027,viyd,19261001.0,34.0,04 44207702,4246007
+1114.0,cassidy,ringrow,17.0,hirst place,,victoria park,6024,vic,19261001.0,34.0,04 44207702,4246007,cassidy,ringrow,231.0,hirst place,,victoria park,6075,vky,19261001.0,34.0,04 44207702,4266907
+1114.0,cassidy,ringrow,17.0,hirst place,,victoria park,6024,vic,19261001.0,34.0,04 44207702,4246007,ringrow,,2.0,,,victria park,6024,vic,19261001.0,,04 44207702,4246007
+1114.0,cassidy,ringrow,17.0,hirst place,,victoria park,6024,vic,19261001.0,34.0,04 44207702,4246007,cassidy,ringtlw,15.0,hirst place,,victoria park,6041,vic,19217401.0,34.0,04 44207702,4246007
+1115.0,mitchell,ryan,61.0,dryandra street,moriah fields,pacific paradise,3190,vic,19940113.0,21.0,07 25155958,3882831,mitchell,ryah,0.0,dryandr sreet,moriah fields,paradise pacific,3109,vic,,21.0,07 25155958,3888231
+1115.0,mitchell,ryan,61.0,dryandra street,moriah fields,pacific paradise,3190,vic,19940113.0,21.0,07 25155958,3882831,casakuy,ringrow,17.0,hirsthplbce,,victoriahpark,6024,vu,19261901.0,34.0,04 44207702,4246007
+1115.0,mitchell,ryan,61.0,dryandra street,moriah fields,pacific paradise,3190,vic,19940113.0,21.0,07 25155958,3882831,caasidy,ringeow,1.0,hirst alsce,,victoria park,0624,vic,19240101.0,34.0,04 44207702,4245007
+1115.0,mitchell,ryan,61.0,dryandra street,moriah fields,pacific paradise,3190,vic,19940113.0,21.0,07 25155958,3882831,,ryn,7.0,dryandra street,,pacific paradise,3190,vic,19904613.0,21.0,07 25155958,3880831
+1115.0,mitchell,ryan,61.0,dryandra street,moriah fields,pacific paradise,3190,vic,19940113.0,21.0,07 25155958,3882831,mitchell,ryan,61.0,dryandrastreet,moriah fields,pacifin pjaradise,3190,vic,19904423.0,34.0,08 17340349,3882831
+1131.0,ruby,sickerdick,110.0,newman morris circuit,,beachport,2753,wa,19910428.0,26.0,04 47535872,1556865,ruby,sickerdick,110.0,newman morris circuit,,beachport,2753,wrq,19190328.0,26.0,04 47553872,1556865
+1131.0,ruby,sickerdick,110.0,newman morris circuit,,beachport,2753,wa,19910428.0,26.0,04 47535872,1556865,ruhy,sickerdick,110.0,newman mordis circuit,,beacoport,2753,wa,19919132.0,25.0,04 47535872,1556865
+1131.0,ruby,sickerdick,110.0,newman morris circuit,,beachport,2753,wa,19910428.0,26.0,04 47535872,1556865,sickwdidck,ruby,110.0,circuit newmamorris,,beacaport,2753,wa,19910428.0,26.0,04 47535872,1556865
+1136.0,rachel,clements,92.0,chirnside circuit,,salisbury east,2486,nsw,19260821.0,30.0,02 65182215,3956869,rachel,clekwnrs,7.0,chirnside circuit,,salisbury east,2468,nsw,19269829.0,30.0,02 65182715,3956869
+1142.0,,jones,94.0,coglin place,,wyndham,3634,qld,19690120.0,28.0,03 15659031,6699207,,jores,94.0,hawkesbury crescent,,wyndham,3364,qpex,19690120.0,28.0,03 15695031,6699207
+1142.0,,jones,94.0,coglin place,,wyndham,3634,qld,19690120.0,28.0,03 15659031,6699207,,joanaws,0.0,coglin place,,wyndham,3634,qld,19690120.0,28.0,04 94008305,6699207
+1142.0,,jones,94.0,coglin place,,wyndham,3634,qld,19690120.0,28.0,03 15659031,6699207,,dawspu,93.0,coglin place,,wyndham,3634,qls,19850104.0,28.0,03 15659031,6692507
+1142.0,,jones,94.0,coglin place,,wyndham,3634,qld,19690120.0,28.0,03 15659031,6699207,,jones,95.0,coglin place,,wyndgam,3623,qdl,19690120.0,,03 15659031,6679017
+1147.0,nathan,benton,8.0,taylor street,,griffith,3427,vic,19221125.0,34.0,02 49588863,8616683,nathan,bento,8.0,taylorhreet,,griffith,3427,,19221125.0,,02 49588863,8615638
+1147.0,nathan,benton,8.0,taylor street,,griffith,3427,vic,19221125.0,34.0,02 49588863,8616683,nras,benton,8.0,taylor street,,grifffith,3427,cif,19221125.0,34.0,02 49588863,8616683
+1147.0,nathan,benton,8.0,taylor street,,griffith,3427,vic,19221125.0,34.0,02 49588863,8616683,,bneyn,8.0,taylor street,,griffith,3427,vii,19229424.0,34.0,02 94388863,8616683
+1154.0,freya,johnson,16.0,kitchener street,,frankston,6156,vic,19600826.0,,02 00498060,6403623,freya,johnosn,1067.0,kitchent swreet,,frankston,6165,vic,19600276.0,,02 00498060,6403623
+1154.0,freya,johnson,16.0,kitchener street,,frankston,6156,vic,19600826.0,,02 00498060,6403623,freya,,171.0,kitchener street,,frankston,6156,vic,19602086.0,,02 00498060,6403263
+1154.0,freya,johnson,16.0,kitchener street,,frankston,6156,vic,19600826.0,,02 00498060,6403623,freyms,johnpon,162.0,street kitchener,,frankston,6156,vic,19600826.0,,02 00490860,6403623
+1154.0,freya,johnson,16.0,kitchener street,,frankston,6156,vic,19600826.0,,02 00498060,6403623,freya,johnsktone,16.0,kitchener atreet,,frankston,6165,vic,19698026.0,,,6406323
+1169.0,jacob,bitt,50.0,tauss place,,forest range,2251,,19760906.0,34.0,08 56177324,5157066,jaclbe,biyb,59.0,tausskpoace,,foresst ange,2251,,19760906.0,,08 56177324,5157066
+1170.0,coby,da cruz,405.0,leichhardt street,,upper mount gravatt,2763,qld,19630925.0,,04 96251851,8701946,coby,kileyy,,leichhardtzstreet,,upper mount gravatt,2762,,19639051.0,,04 96251851,8701946
+1170.0,coby,da cruz,405.0,leichhardt street,,upper mount gravatt,2763,qld,19630925.0,,04 96251851,8701946,coby,da cfuz,405.0,leichharsdhstreet,,upper mount gravatt,4560,qld,19632925.0,,04 96228151,8701946
+1170.0,coby,da cruz,405.0,leichhardt street,,upper mount gravatt,2763,qld,19630925.0,,04 96251851,8701946,cob,da cruz,495.0,leichhardt street,,,2763,qld,19630605.0,,04 96251851,8701946
+1170.0,coby,da cruz,405.0,leichhardt street,,upper mount gravatt,2763,qld,19630925.0,,04 96251851,8701946,co,dacrz,40.0,leichhardt street,,upper mount gravatt,4122,qld,19630925.0,,04 96521851,8701946
+1170.0,coby,da cruz,405.0,leichhardt street,,upper mount gravatt,2763,qld,19630925.0,,04 96251851,8701946,coby,da criz,49.0,leichhardt street,,upper mount gravatt,2728,qld,19630925.0,,04 96251851,8702974
+1171.0,samuel,musgrave,81.0,duffy street,,glenhaven,2065,nsw,19320121.0,,07 16458737,3680817,coby,da ct uz,6.0,leichhardt street,,upper mount gravatt,2763,qn,19630925.0,,04 96541851,8709156
+1171.0,samuel,musgrave,81.0,duffy street,,glenhaven,2065,nsw,19320121.0,,07 16458737,3680817,cbg,da cruz,405.0,leichharsttreet,,upper gravat mount,2763,qld,19630925.0,,04 96251851,8701056
+1171.0,samuel,musgrave,81.0,duffy street,,glenhaven,2065,nsw,19320121.0,,07 16458737,3680817,cybc,da crx,4054.0,leichhardu street,,upper mountw gravatt,2763,qld,19636925.0,,04 96251851,8701946
+1171.0,samuel,musgrave,81.0,duffy street,,glenhaven,2065,nsw,19320121.0,,07 16458737,3680817,coby,da cryz,405.0,leichhavdtastreet,,upper mount gravatt,2763,lx,19630925.0,,04 65632506,8701946
+1175.0,matthew,cutting,22.0,chauncy crescent,,boambee,6010,vic,19631024.0,34.0,02 98660877,1719322,,cutting,617.0,chauncy crebscent,willow view,boambee,6010,vic,19603114.0,34.0,02 98660877,1719322
+1179.0,caleb,mccarthy,39.0,edwards street,,boyup brook,2146,nsw,19150428.0,,08 16651139,1243665,caleb,mccarthy,93.0,,,boyup rbrook,2416,nse,19150428.0,,08 16651139,1243665
+1183.0,pearson,boerma,21.0,paul coe crescent,,mclaren vale,6152,nsw,19400201.0,33.0,08 91606889,1876078,pearson,boerwm,65.0,paul coe verrscent,,mclarej vale,6152,nsw,19400201.0,33.0,08 91606889,1876078
+1192.0,lauren,bishop,10.0,tinderry circuit,,wyndham vale,4350,qld,19650922.0,22.0,08 35465612,9258110,iain,bkshpp,18.0,tinderry circuit,,wyndham nale,4352,qld,19650922.0,22.0,08 35465612,9258110
+1192.0,lauren,bishop,10.0,tinderry circuit,,wyndham vale,4350,qld,19650922.0,22.0,08 35465612,9258110,bishop,laucpne,10.0,tinderrykcrcuit,,wyndham ale,4350,qld,19650922.0,22.0,08 35465612,9258110
+1192.0,lauren,bishop,10.0,tinderry circuit,,wyndham vale,4350,qld,19650922.0,22.0,08 35465612,9258110,lauren,bishpp,12.0,tindereyircuit,,wyndham vale,4350,qld,19650922.0,22.0,04 75521698,9258110
+1192.0,lauren,bishop,10.0,tinderry circuit,,wyndham vale,4350,qld,19650922.0,22.0,08 35465612,9258110,miayla,bisjop,32.0,tinderry circuit,,wyndham vale,4306,qld,19650922.0,22.0,08 35465612,9258181
+1192.0,lauren,bishop,10.0,tinderry circuit,,wyndham vale,4350,qld,19650922.0,22.0,08 35465612,9258110,laurn,bishop,,tinderry circuit,,wyndham vale,4359,qlj,19650922.0,22.0,08 35465612,9258110
+1193.0,hugh,elekes,79.0,kambalda crescent,leichtodd plaza,gosnells,2738,nsw,19621114.0,30.0,04 69333673,1025255,lauren,bishkop,10.0,tinderry circuit,nundagulla,wyndham vale,4350,qttu,19650352.0,29.0,08 35465612,9258110
+1193.0,hugh,elekes,79.0,kambalda crescent,leichtodd plaza,gosnells,2738,nsw,19621114.0,30.0,04 69333673,1025255,laurdn,bishop,1.0,tinderry circuit,,wyndham vale,4304,qlo,19650922.0,22.0,08 35465612,9258110
+1193.0,hugh,elekes,79.0,kambalda crescent,leichtodd plaza,gosnells,2738,nsw,19621114.0,30.0,04 69333673,1025255,lauze,biish,10.0,wall place,,wyndham vale,4350,qld,19650922.0,22.0,08 35465612,9258110
+1194.0,jack,boffa,212.0,dugdale street,,st kilda,2122,nsw,19060224.0,34.0,04 92296374,7054270,jack,bofr,212.0,dugdalel street,,st kilda,2122,nsw,19412202.0,34.0,04 92296374,7053270
+1203.0,adriana,shrimpton,48.0,holman street,,windsor,4818,sa,19860902.0,30.0,07 13797327,4591542,adriana,shrimjioron,48.0,holman street,,windosr,4818,sa,,,07 13771327,4591542
+1203.0,adriana,shrimpton,48.0,holman street,,windsor,4818,sa,19860902.0,30.0,07 13797327,4591542,shrimpmon,adriana,48.0,holman street,boonsville,windsor,4881,s,19860902.0,30.0,07 13707327,4591542
+1203.0,adriana,shrimpton,48.0,holman street,,windsor,4818,sa,19860902.0,30.0,07 13797327,4591542,adriana,shrimpton,47.0,holman tyeet,,windsor,4881,sa,19869002.0,30.0,02 25178942,4519552
+1203.0,adriana,shrimpton,48.0,holman street,,windsor,4818,sa,19860902.0,30.0,07 13797327,4591542,adriana,shrimpton,41.0,holma nfreet,,windsor,4818,sj,,30.0,07 13797327,4591542
+1208.0,phoebe,pavlich,18.0,glencross street,,kuluin,2526,,19100210.0,29.0,08 24389277,5536017,phoebe,pavlih,18.0,glencross street,,kuluin,2526,,19100210.0,29.0,08 24319277,5526414
+1208.0,phoebe,pavlich,18.0,glencross street,,kuluin,2526,,19100210.0,29.0,08 24389277,5536017,phoebe,pavlih,1.0,atreet gldncross,,kuluinh,2526,,19100210.0,29.0,08 24839277,5536017
+1216.0,bailey,reilly,,o'halloran circuit,,robina,6317,qld,19980116.0,35.0,04 64029922,3744791,bailey,reilly,,o'hallorsincircuit,,robi,6132,qleo,19980116.0,35.0,04 64029922,3744791
+1216.0,bailey,reilly,,o'halloran circuit,,robina,6317,qld,19980116.0,35.0,04 64029922,3744791,baily,reilly,,o'hallorawfcircuit,,robina,6371,qld,19891116.0,35.0,04 64021922,3744791
+1216.0,bailey,reilly,,o'halloran circuit,,robina,6317,qld,19980116.0,35.0,04 64029922,3744791,bailey,reioly,,o'halloran circuit,,robia,6361,qld,,26.0,04 64019922,3744791
+1216.0,bailey,reilly,,o'halloran circuit,,robina,6317,qld,19980116.0,35.0,04 64029922,3744791,bailey,orielky,,o'halloran vircuit,,robsina,6371,qld,19980116.0,,04 64029922,3748419
+1216.0,bailey,reilly,,o'halloran circuit,,robina,6317,qld,19980116.0,35.0,04 64029922,3744791,bailey,reilu,,,,ro bina,6371,qod,19360731.0,35.0,04 64029922,3744791
+1217.0,alia,coveney,31.0,church lane,bethanga,coburg north,4504,qld,19480103.0,25.0,07 97672566,3440173,bailey,reily,,o'halloran circuit,,robyvma,6317,qld,19140221.0,,04 64039922,3744791
+1217.0,alia,coveney,31.0,church lane,bethanga,coburg north,4504,qld,19480103.0,25.0,07 97672566,3440173,bailley,reily,,o'halloran circuit,,robirns,6317,qld,19988063.0,53.0,04 64092922,3744791
+1217.0,alia,coveney,31.0,church lane,bethanga,coburg north,4504,qld,19480103.0,25.0,07 97672566,3440173,bailey,reimls,,o'halloran circuit,,robia,6371,qkd,19980116.0,35.0,04 64029922,3744519
+1217.0,alia,coveney,31.0,church lane,bethanga,coburg north,4504,qld,19480103.0,25.0,07 97672566,3440173,bilary,got,,o'halloran circuit,cottonwood,robi,6317,qld,19980116.0,35.0,04 64029922,3744791
+1222.0,taliah,jason,6.0,albermarle place,kumbundra,brighton,2794,wa,19970530.0,,03 12409200,6991143,talixj,jaaon,2.0,albermarle place,,briggpn,2794,ws,19970530.0,,03 12409200,6991143
+1222.0,taliah,jason,6.0,albermarle place,kumbundra,brighton,2794,wa,19970530.0,,03 12409200,6991143,taliah,jason,6.0,albermarkexplace,kumbundra,2794,brighton,wa,19960726.0,,03 12609200,6991143
+1222.0,taliah,jason,6.0,albermarle place,kumbundra,brighton,2794,wa,19970530.0,,03 12409200,6991143,talifa,jasom,4.0,albermarle place,kumbydra,brighton,2794,wa,19260728.0,,03 12409200,6991143
+1222.0,taliah,jason,6.0,albermarle place,kumbundra,brighton,2794,wa,19970530.0,,03 12409200,6991143,talizh,jasl,6.0,albermarle place,kumbundra,brigdhton,2794,r,19977530.0,,03 12400200,6991143
+1225.0,joshua,pfitzner,7.0,falkiner place,st francis room,manly west,2037,nsw,19171103.0,37.0,02 29225134,7729456,joshua,kearsley,30.0,falkiner place,,manly ywest,2937,nsw,19171130.0,37.0,02 29225134,7729456
+1233.0,hayley,tannebring,52.0,starling place,eillou,stafford heights,3155,nsw,19491023.0,29.0,07 10140628,3499842,haylek,tannebring,542.0,starling place,eillou,stafford heights,3155,nsw,19405123.0,33.0,07 10140628,3499482
+1233.0,hayley,tannebring,52.0,starling place,eillou,stafford heights,3155,nsw,19491023.0,29.0,07 10140628,3499842,hayley,tannebribg,2.0,starlinjplace,,stafford heights,3155,nsw,19491023.0,26.0,03 41298645,3499842
+1233.0,hayley,tannebring,52.0,starling place,eillou,stafford heights,3155,nsw,19491023.0,29.0,07 10140628,3499842,tannebring,hayleqy,52.0,starlinv qace,,stafford heights,3155,nszw,19491023.0,29.0,07 10140628,3499428
+1233.0,hayley,tannebring,52.0,starling place,eillou,stafford heights,3155,nsw,19491023.0,29.0,07 10140628,3499842,hayley,tannebring,2.0,olace sjarling,,stafford heights,3155,ns,19491023.0,,07 10140628,3499842
+1237.0,sebastian,mackay,41.0,elwick place,,raceview,3337,wa,19620604.0,29.0,04 23302347,2907891,,mackwyl,41.0,elwick place,,raceview,3734,wa,19620604.0,44.0,04 23302347,2907891
+1237.0,sebastian,mackay,41.0,elwick place,,raceview,3337,wa,19620604.0,29.0,04 23302347,2907891,sebastsan,mavky,418.0,elwick place,,raceview,3337,wa,19620704.0,29.0,04 23302347,2907891
+1237.0,sebastian,mackay,41.0,elwick place,,raceview,3337,wa,19620604.0,29.0,04 23302347,2907891,seg,mackay,41.0,elwicki olace,,raceview,3633,wa,19620604.0,39.0,04 23302347,2907851
+1237.0,sebastian,mackay,41.0,elwick place,,raceview,3337,wa,19620604.0,29.0,04 23302347,2907891,sebastian,macot,41.0,elwick place,aunt gracie south,raceview,3337,wa,19770118.0,29.0,04 23302347,2907811
+1238.0,tommi-lee,nguyen,20.0,taylor street,caravan park,narrogin,3057,act,19880724.0,34.0,08 25409739,5412082,mackay,sebastian,41.0,elwick place,,racevoew,3337,wa,19301231.0,29.0,04 23302347,2907819
+1238.0,tommi-lee,nguyen,20.0,taylor street,caravan park,narrogin,3057,act,19880724.0,34.0,08 25409739,5412082,sebstitn,mackay,41.0,elwick pace,,raceview,3337,wa,19627040.0,29.0,08 93472673,2907891
+1238.0,tommi-lee,nguyen,20.0,taylor street,caravan park,narrogin,3057,act,19880724.0,34.0,08 25409739,5412082,sebatian,mackpay,41.0,elwick cplsce,,raceview,3337,,19620604.0,23.0,07 91297907,2907891
+1238.0,tommi-lee,nguyen,20.0,taylor street,caravan park,narrogin,3057,act,19880724.0,34.0,08 25409739,5412082,sebastian,mackay,42.0,elwick poace,,raceiw,3337,wa,19260654.0,29.0,04 23302347,2557856
+1240.0,micah,yip,110.0,collyburl crescent,flt 5,lindisfarne,4510,qld,19340520.0,22.0,04 86659177,2394359,micah,,160.0,collyburlccrescent,,lindisfarne,4518,qld,19345020.0,22.0,04 86659177,2394359
+1240.0,micah,yip,110.0,collyburl crescent,flt 5,lindisfarne,4510,qld,19340520.0,22.0,04 86659177,2394359,yip,micar,110.0,collyburl crescent,flt 5,lindisfarne,4510,qld,19340520.0,22.0,02 76011081,2977729
+1240.0,micah,yip,110.0,collyburl crescent,flt 5,lindisfarne,4510,qld,19340520.0,22.0,04 86659177,2394359,miya,,115.0,collyburln crescent,flt 5,lindisfarne,4531,qle,19340520.0,22.0,04 86659177,2394359
+1240.0,micah,yip,110.0,collyburl crescent,flt 5,lindisfarne,4510,qld,19340520.0,22.0,04 86659177,2394359,micah,yio,61.0,collyburl crescent,flt 5,lindisarne,4510,qlz,19340510.0,22.0,04 86659177,2394359
+1240.0,micah,yip,110.0,collyburl crescent,flt 5,lindisfarne,4510,qld,19340520.0,22.0,04 86659177,2394359,micah,yipo,110.0,collyburljcrtscent,flt 5,lindsfarne,4501,vic,19340520.0,22.0,04 86659177,2394359
+1241.0,april,bowshall,126.0,kernot street,,lenah valley,2234,vic,,,04 30539361,2135321,micah,yim,110.0,collyburlocrescent,flt 5,lindizdarkne,4150,qlc,19436520.0,22.0,04 86659177,2394359
+1241.0,april,bowshall,126.0,kernot street,,lenah valley,2234,vic,,,04 30539361,2135321,micah,yip,19.0,crescent dolkyburl,,lindisfarne,4159,qld,19349520.0,22.0,04 86659177,2394539
+1241.0,april,bowshall,126.0,kernot street,,lenah valley,2234,vic,,,04 30539361,2135321,micah,yip,1709.0,collyburl crescent,,451,lindifsrnae,qls,19340520.0,22.0,04 86659177,2394359
+1244.0,caitlin,morris,25.0,wolff crescent,locn 2522 jilakin flat,cooma,4870,vic,19630408.0,22.0,04 69230275,1408075,caitlin,moeris,25.0,wolff crescent,,colma,4870,vim,19634408.0,22.0,04 69203275,1408075
+1244.0,caitlin,morris,25.0,wolff crescent,locn 2522 jilakin flat,cooma,4870,vic,19630408.0,22.0,04 69230275,1408075,caitlin,morrizzls,25.0,wolff cyescent,,cooma,4870,vis,19634098.0,22.0,04 69230275,1408075
+1244.0,caitlin,morris,25.0,wolff crescent,locn 2522 jilakin flat,cooma,4870,vic,19630408.0,22.0,04 69230275,1408075,caitlin,morejis,25.0,wolff cxlescent,locn 2522 jilakin flat,cooma,4870,vic,19630908.0,26.0,04 69230275,1408075
+1244.0,caitlin,morris,25.0,wolff crescent,locn 2522 jilakin flat,cooma,4870,vic,19630408.0,22.0,04 69230275,1408075,,morris,25.0,wolff crescent,el hacienda,cooma,4889,vid,19630408.0,22.0,04 50250873,1408075
+1244.0,caitlin,morris,25.0,wolff crescent,locn 2522 jilakin flat,cooma,4870,vic,19630408.0,22.0,04 69230275,1408075,caitlin,morros,25.0,wolff crescent,locn 2522 jkioakin flat,cooka,4870,vof,19639408.0,22.0,04 69230275,1408075
+1245.0,kelsey,gonzales,64.0,telopea park,,hope island,4305,vic,19180618.0,,08 25374788,7745988,caitlin,morhai,2.0,wolff credcent,locn 2522 jilakin flat,cooma,4870,vir,19637408.0,22.0,04 69230275,1408075
+1249.0,talia,evans,11.0,willis street,,gosnells,3111,nsw,19770213.0,40.0,02 89983204,3328937,talia,evzns,15.0,,,gosnwlrs,3111,nsw,19770213.0,40.0,02 89983204,3328937
+1249.0,talia,evans,11.0,willis street,,gosnells,3111,nsw,19770213.0,40.0,02 89983204,3328937,talia,evak,1.0,willis street,,gosnoells,3111,nsw,19770213.0,40.0,02 89983204,3328397
+1249.0,talia,evans,11.0,willis street,,gosnells,3111,nsw,19770213.0,40.0,02 89983204,3328937,talia,evaqmx,1.0,willis street,,gosnells,3111,nsw,19773013.0,40.0,04 20261753,3328937
+1249.0,talia,evans,11.0,willis street,,gosnells,3111,nsw,19770213.0,40.0,02 89983204,3328937,evans,talia,11.0,willistfeet,,gosneaols,3111,nsw,19770213.0,40.0,,3328937
+1250.0,phoebe,piegza,131.0,giles street,glenrock,grafton,4077,qld,19310928.0,32.0,07 79631420,3670338,talia,eans,6.0,willis dtreet,,gosnls,3111,nsde,19770213.0,40.0,02 89983204,3328937
+1250.0,phoebe,piegza,131.0,giles street,glenrock,grafton,4077,qld,19310928.0,32.0,07 79631420,3670338,talia,evans,9.0,willissygeet,,gosnells,3121,nsw,19773013.0,40.0,02 89983204,8405181
+1250.0,phoebe,piegza,131.0,giles street,glenrock,grafton,4077,qld,19310928.0,32.0,07 79631420,3670338,evans,tali,11.0,willis street,,gosnells,3111,,,40.0,02 89983204,3329837
+1251.0,molly,monola,276.0,grounds crescent,warrill view,sunnybank hills,2770,,19620805.0,28.0,04 76877186,1348581,molly,mobols,276.0,grounds crescent,,sunnybankohills,2770,,19620805.0,28.0,04 76871886,1348581
+1251.0,molly,monola,276.0,grounds crescent,warrill view,sunnybank hills,2770,,19620805.0,28.0,04 76877186,1348581,molly,monpoa,276.0,grounds crescent,warrill view,,2277,,19620805.0,82.0,04 76877186,4175319
+1251.0,molly,monola,276.0,grounds crescent,warrill view,sunnybank hills,2770,,19620805.0,28.0,04 76877186,1348581,molly,monvka,276.0,cfescent hrounds,warrill view,sunnybank hills,2770,,19602850.0,20.0,04 76877186,1348581
+1251.0,molly,monola,276.0,grounds crescent,warrill view,sunnybank hills,2770,,19620805.0,28.0,04 76877186,1348581,molly,monols,276.0,,warrill view,sunnybabk ills,2770,,19640417.0,28.0,04 76877186,1348581
+1252.0,riley,babidge,26.0,collings street,,lake munmorah,3032,nsw,19210216.0,,07 62849351,5435761,molly,moouia,276.0,crescent grounds,warrill vew,sunnybank hills,2770,nsw,19620805.0,28.0,04 76877186,1318181
+1252.0,riley,babidge,26.0,collings street,,lake munmorah,3032,nsw,19210216.0,,07 62849351,5435761,mol,,275.0,grounds crescent,,sunnybankm hills,2770,,19626805.0,28.0,04 76877186,1348581
+1252.0,riley,babidge,26.0,collings street,,lake munmorah,3032,nsw,19210216.0,,07 62849351,5435761,molly,monola,87.0,grounds crescent,,sunnybank hills,2770,sa,19621005.0,36.0,04 76787186,1348581
+1252.0,riley,babidge,26.0,collings street,,lake munmorah,3032,nsw,19210216.0,,07 62849351,5435761,moll,monola,27.0,,,sunnybank hills,2770,,19620895.0,28.0,04 76771786,1348581
+1266.0,archie,frahnert,38.0,schonell circuit,,bossley park,3085,,19540908.0,19.0,03 65847349,4652434,arie,frahnert,38.0,schonellwvcircuit,,bossley park,3083,,,19.0,03 65847349,4655234
+1266.0,archie,frahnert,38.0,schonell circuit,,bossley park,3085,,19540908.0,19.0,03 65847349,4652434,arhie,frahnert,38.0,schonelldcircuit,,bossleykahark,,,19549098.0,19.0,03 65847349,4652434
+1269.0,jessica,wright,4.0,blueberry street,jellinbah,ruabon,6123,nsw,19170420.0,33.0,03 52975152,5054767,jessica,wrbight,4.0,blueber ry mtreet,jellinbah,ruabpn,6123,hs,19175720.0,33.0,07 53013384,5054767
+1273.0,kye,jones,7.0,stockdale street,,albury,2258,sa,19300214.0,31.0,04 60227927,5003412,kyr,jonjbds,7.0,stockdaoesctreet,,alubury,2258,sa,19300214.0,91.0,,5003412
+1275.0,chelsea,muller,15.0,simmie place,norfolk garden,marsden,3037,qld,19250905.0,30.0,07 41682010,4219398,chelaea,,12.0,simmiexplace,norfolk garden,marsden,3037,qld,19205995.0,30.0,07 41680210,4219398
+1275.0,chelsea,muller,15.0,simmie place,norfolk garden,marsden,3037,qld,19250905.0,30.0,07 41682010,4219398,chloe,muller,13.0,simmie place,,marsden,3037,qld,19250905.0,20.0,07 41682010,4213965
+1276.0,lachlan,angove,20.0,guthridge crescent,villa 47,pakenham,3055,vic,19220803.0,33.0,08 53811769,1184729,lachlan,,20.0,guthridgeucescent,,pakenham,3055,vic,19220803.0,33.0,08 53811769,1187599
+1284.0,lauren,chard,8.0,fullagar crescent,gilderoy park rsd,enoggera,4680,vic,19360120.0,41.0,02 55394576,6948076,lauren,chsrd,8.0,fullagar rscent,gilderoy park rsd,enoggea,4680,vic,19360580.0,41.0,02 55395476,6948976
+1284.0,lauren,chard,8.0,fullagar crescent,gilderoy park rsd,enoggera,4680,vic,19360120.0,41.0,02 55394576,6948076,lauren,mulviill,2.0,fullagar crescent,,enoggjdra,4680,vic,19367120.0,41.0,02 55394576,6948076
+1284.0,lauren,chard,8.0,fullagar crescent,gilderoy park rsd,enoggera,4680,vic,19360120.0,41.0,02 55394576,6948076,lauteb,chaer,2.0,fullagar crescent,,enoggera,4680,aic,19360120.0,41.0,02 55394576,6948076
+1285.0,erin,schembri,12.0,harris street,,aberfoyle park,4869,nsw,19751218.0,35.0,04 06476255,5160111,erin,sche mbru,1122.0,harris vsreet,,aberfoyle park,4469,nsw,19751218.0,35.0,04 06476255,5161011
+1285.0,erin,schembri,12.0,harris street,,aberfoyle park,4869,nsw,19751218.0,35.0,04 06476255,5160111,erin,schembri,12.0,harris zreet,merri lim stud,aberfoyle park,4869,nsw,19752118.0,35.0,08 35358832,5160111
+1285.0,erin,schembri,12.0,harris street,,aberfoyle park,4869,nsw,19751218.0,35.0,04 06476255,5160111,re,schemgri,24.0,harris street,,aberfoyle park,4869,ndw,19751218.0,35.0,04 06476255,5160111
+1285.0,erin,schembri,12.0,harris street,,aberfoyle park,4869,nsw,19751218.0,35.0,04 06476255,5160111,r,schennri,155.0,harris fxreet,,aberfoyle park,4869,nsw,19751218.0,35.0,04 06476255,5160111
+1292.0,liam,morice,3.0,ranken place,,morley,4209,nsw,19510731.0,32.0,03 84960438,8939843,lihm,moritw,4.0,ranken pkace,,morley,4280,,19510731.0,32.0,03 84690438,8939843
+1292.0,liam,morice,3.0,ranken place,,morley,4209,nsw,19510731.0,32.0,03 84960438,8939843,liam,morkc,4.0,ranken place,,morle y,4202,nsw,19360301.0,32.0,03 84960438,8939843
+1292.0,liam,morice,3.0,ranken place,,morley,4209,nsw,19510731.0,32.0,03 84960438,8939843,liam,,3.0,ranken olace,,morlwt,9492,nsw,,27.0,03 84960438,8939843
+1292.0,liam,morice,3.0,ranken place,,morley,4209,nsw,19510731.0,32.0,03 84960438,8939843,liec,moruce,,rankentrkace,,morley,4209,,19510731.0,37.0,02 35548475,8939843
+1300.0,niamh,speranza,6.0,gatton street,,kingston,5259,nsw,19100529.0,31.0,08 95082913,4686645,nihh,spertanza,3.0,gattonsxteet,,kingston,5259,nsw,19100529.0,30.0,08 95082913,4686645
+1300.0,niamh,speranza,6.0,gatton street,,kingston,5259,nsw,19100529.0,31.0,08 95082913,4686645,niamh,speranza,8.0,gatton street,,kingston,5259,,19109529.0,,08 95992913,4686645
+1300.0,niamh,speranza,6.0,gatton street,,kingston,5259,nsw,19100529.0,31.0,08 95082913,4686645,niamh,speranza,0.0,gatton sfreet,,kingston,5259,nsw,19102229.0,31.0,08 95082913,4682554
+1300.0,niamh,speranza,6.0,gatton street,,kingston,5259,nsw,19100529.0,31.0,08 95082913,4686645,namd,speranza,6.0,,,kingston,5295,nws,19109529.0,,07 47635772,4686645
+1300.0,niamh,speranza,6.0,gatton street,,kingston,5259,nsw,19100529.0,31.0,08 95082913,4686645,niamh,sperazna,9.0,gatton agreet,,kingston,5295,nsw,19100329.0,31.0,08 75603329,4686645
+1301.0,arki,curchin,83.0,marou place,spike,millmerran,2145,nsw,19000605.0,33.0,04 47986591,1895067,niamh,speramzk,12.0,gatton street,,kingston,4818,nswi,19100529.0,31.0,08 95082913,3496076
+1301.0,arki,curchin,83.0,marou place,spike,millmerran,2145,nsw,19000605.0,33.0,04 47986591,1895067,speranza,niakh,61.0,gatton street,,kingston,5259,nsw,19106049.0,31.0,08 95082913,4686645
+1301.0,arki,curchin,83.0,marou place,spike,millmerran,2145,nsw,19000605.0,33.0,04 47986591,1895067,niamh,speranza,13.0,gatton street,,kingon,5259,nsw,,31.0,08 95082913,4684665
+1301.0,arki,curchin,83.0,marou place,spike,millmerran,2145,nsw,19000605.0,33.0,04 47986591,1895067,niaih,speanafza,4.0,gatton sreet,,kingston,5259,nsw,19100529.0,31.0,08 95082913,8101325
+1320.0,joshua,sotnik,5.0,crozier circuit,,warwick farm,4280,vic,19150915.0,23.0,02 15745828,1019334,joshua,sontoj,4.0,crozier circuit,,warwick farm,4280,vic,19195015.0,23.0,02 15745828,1019213
+1320.0,joshua,sotnik,5.0,crozier circuit,,warwick farm,4280,vic,19150915.0,23.0,02 15745828,1019334,joshdn,sotnkk,59.0,crozier u rcuit,,warwic kfrm,4280,vic,19159915.0,23.0,02 15745828,1019334
+1320.0,joshua,sotnik,5.0,crozier circuit,,warwick farm,4280,vic,19150915.0,23.0,02 15745828,1019334,josgha,sotnik,5.0,crozier circuit,,warwick farm,4280,vi,19150915.0,23.0,04 06585135,1014834
+1320.0,joshua,sotnik,5.0,crozier circuit,,warwick farm,4280,vic,19150915.0,23.0,02 15745828,1019334,joshiq,sotbki,59.0,crozier circuit,,warwick farm,4280,vic,19150915.0,23.0,02 11354828,1019334
+1320.0,joshua,sotnik,5.0,crozier circuit,,warwick farm,4280,vic,19150915.0,23.0,02 15745828,1019334,josh,,5.0,crozier circuit,,warickfaem,4280,vvn,19150915.0,23.0,02 15745828,1019154
+1321.0,alisa,walker,24.0,harbison crescent,,clayfield,4304,nsw,19751028.0,,03 85376365,9161188,jsna,sotik,8.0,croziercircuit,,warwick farm,4280,vic,19940914.0,23.0,02 15745828,1019934
+1321.0,alisa,walker,24.0,harbison crescent,,clayfield,4304,nsw,19751028.0,,03 85376365,9161188,joshua,champion,5.0,crozie rircuit,bellview lodge,,4280,vic,19109915.0,23.0,02 15745828,1091334
+1321.0,alisa,walker,24.0,harbison crescent,,clayfield,4304,nsw,19751028.0,,03 85376365,9161188,josh,sotni,5.0,crozier ircuit,,warwickpfarm,4280,,19519935.0,23.0,02 15745828,1019334
+1321.0,alisa,walker,24.0,harbison crescent,,clayfield,4304,nsw,19751028.0,,03 85376365,9161188,joshua,sotnik,58.0,crozier cnircuit,,4i80,warwick farm,vic,19150915.0,23.0,02 15775828,1019334
+1327.0,stirling,need,84.0,freda gibson circuit,,kingaroy,2720,vic,19410214.0,35.0,07 97429056,5634512,stirlcg,neer,82.0,freda gibsobdxircuit,,kingaroy,2720,vic,19410414.0,35.0,07 97429056,5634512
+1327.0,stirling,need,84.0,freda gibson circuit,,kingaroy,2720,vic,19410214.0,35.0,07 97429056,5634512,stirling,need,59.0,,,kingsoy,2720,vic,19410214.0,35.0,03 69455461,5634521
+1327.0,stirling,need,84.0,freda gibson circuit,,kingaroy,2720,vic,19410214.0,35.0,07 97429056,5634512,stirong,need,88.0,freda gibson circuit,,kingzrou,2720,vic,19840099.0,3.0,07 97429056,5634512
+1327.0,stirling,need,84.0,freda gibson circuit,,kingaroy,2720,vic,19410214.0,35.0,07 97429056,5634512,stirling,need,840.0,freda gibson circuit,,kingsron,2720,viec,19410214.0,33.0,07 97429056,2348009
+1330.0,stephanie,martin,12.0,mcwhae circuit,,sale,,qld,19690325.0,38.0,03 78664660,7164215,stephanie,martuh,12.0,mcwhae nrcbit,,sale,,qld,,38.0,03 78664660,7164215
+1330.0,stephanie,martin,12.0,mcwhae circuit,,sale,,qld,19690325.0,38.0,03 78664660,7164215,thomas,marjin,12.0,place mos,,ssle,,qld,19699325.0,38.0,03 78664660,9790561
+1330.0,stephanie,martin,12.0,mcwhae circuit,,sale,,qld,19690325.0,38.0,03 78664660,7164215,stephanie,marujcn,12.0,mcwhae zicuit,,sale,,qld,19690325.0,32.0,03 78664660,6080058
+1330.0,stephanie,martin,12.0,mcwhae circuit,,sale,,qld,19690325.0,38.0,03 78664660,7164215,stephanie,martdkan,12.0,mcwhaeuacurcuit,,sa le,,qld,19690325.0,38.0,03 78164660,7164116
+1330.0,stephanie,martin,12.0,mcwhae circuit,,sale,,qld,19690325.0,38.0,03 78664660,7164215,stephanie,martib,15.0,mcwhae urcuit,,sal,,qld,19690225.0,38.0,03 78664660,7164215
+1331.0,matteus,bryant,16.0,cavanaugh street,cammeray,fadden,5069,qld,19861030.0,21.0,04 98647606,2532120,stepwnhie,martin,12.0,,air force memorial est,sale,,qld,19609305.0,38.0,03 78565660,7164215
+1332.0,aidan,frearson,22.0,mathews place,,tyers,3029,vic,19941123.0,37.0,07 66247523,1179327,aiqn,,,mathewsplace,,tyers,3029,,19931123.0,37.0,04 24238728,1179327
+1332.0,aidan,frearson,22.0,mathews place,,tyers,3029,vic,19941123.0,37.0,07 66247523,1179327,aidan,frearwon,29.0,,,tyes,3098,vic,19310808.0,37.0,07 66247523,1179327
+1332.0,aidan,frearson,22.0,mathews place,,tyers,3029,vic,19941123.0,37.0,07 66247523,1179327,aidyn,frearson,22.0,mathewsuoglace,,tyers,3029,vic,19924123.0,24.0,07 66247523,1179327
+1332.0,aidan,frearson,22.0,mathews place,,tyers,3029,vic,19941123.0,37.0,07 66247523,1179327,aidan,fresrson,23.0,mathews place,,tyr,3097,vic,19941123.0,13.0,07 66247523,1179327
+1332.0,aidan,frearson,22.0,mathews place,,tyers,3029,vic,19941123.0,37.0,07 66247523,1179327,aidan,frearson,21.0,mathews place,,tyers,3049,vic,19961223.0,37.0,07 13004864,1179327
+1334.0,lydia,robinson,7.0,brodie place,,wahroonga,5052,qld,,29.0,,3290806,lydia,robinjo n,6.0,brodidplatce,,wahrl oga,5052,qld,,29.0,,3200806
+1334.0,lydia,robinson,7.0,brodie place,,wahroonga,5052,qld,,29.0,,3290806,lydyia,robion,7.0,brodie pyace,,,5052,qld,,18.0,,3290826
+1334.0,lydia,robinson,7.0,brodie place,,wahroonga,5052,qld,,29.0,,3290806,,robinposn,7.0,brodie place,,wahzooga,5052,ld,,33.0,,3290806
+1334.0,lydia,robinson,7.0,brodie place,,wahroonga,5052,qld,,29.0,,3290806,lyia,robinso,7.0,brodiwnnce,,wahrolnga,5042,qld,,92.0,,3290806
+1334.0,lydia,robinson,7.0,brodie place,,wahroonga,5052,qld,,29.0,,3290806,lydia,robisnon,4.0,brodie xoace,,wahronga,5052,qlf,,29.0,,3290806
+1335.0,courtney,crawford,57.0,laman place,omar,port macquarie,2217,vic,19980630.0,29.0,04 23264682,9933375,lydia,baxtfre,27.0,brodie place,,wahohnga,5052,qld,,22.0,,3290806
+1335.0,courtney,crawford,57.0,laman place,omar,port macquarie,2217,vic,19980630.0,29.0,04 23264682,9933375,lydia,robiian,792.0,brodie place,,warooonga,5052,qld,,29.0,,3290986
+1336.0,jye,antushka,19.0,winnecke street,,elizabeth bay,2428,nsw,19471220.0,,02 52869843,3164216,jyi,antushka,10.0,winnecke street,,24,elizabteh bay,nsw,,,02 52869843,3164216
+1336.0,jye,antushka,19.0,winnecke street,,elizabeth bay,2428,nsw,19471220.0,,02 52869843,3164216,jye,antsuhka,19.0,winnecke jstreet,stockyard gabindah,elizabeth bay,2428,nsw,19471220.0,,02 52869843,3164226
+1338.0,delaney,harris,10.0,gilruth street,hohenfels,wyong north,6056,tas,19450525.0,,04 42114084,8745278,delanety,harris,10.0,gilruth street,hohenfels,wyong north,6055,gic,19740901.0,,04 42114084,8746278
+1338.0,delaney,harris,10.0,gilruth street,hohenfels,wyong north,6056,tas,19450525.0,,04 42114084,8745278,delaney,hamis,10.0,gilruth stfeet,hohenels,wyong motrth,6056,tas,19450535.0,,,8745278
+1338.0,delaney,harris,10.0,gilruth street,hohenfels,wyong north,6056,tas,19450525.0,,04 42114084,8745278,delaney,vince,104.0,gilruth street,hohenfels,wyong north,6056,tas,19450525.0,,04 42114084,8741278
+1338.0,delaney,harris,10.0,gilruth street,hohenfels,wyong north,6056,tas,19450525.0,,04 42114084,8745278,haris,delaney,31.0,gilruth street,,wyong north,6056,tssf,19090523.0,,04 42114084,8745278
+1341.0,breeanne,vannucci,43.0,cosgrove street,king charlies mine,aspendale,4519,nsw,19480608.0,29.0,04 46758054,7504733,breeanne,vannucci,4.0,cosgrove street,king charlies mine,aspen dale,4519,nsw,,22.0,04 46758054,7507833
+1344.0,joshua,dabinett,20.0,florentine circuit,lynalan,bacchus marsh,2034,qld,19650810.0,25.0,,9841134,joshua,dabinett,96.0,florentsn e ircuit,,bacchus marsh,2304,qld,19650810.0,25.0,,9841134
+1344.0,joshua,dabinett,20.0,florentine circuit,lynalan,bacchus marsh,2034,qld,19650810.0,25.0,,9841134,joshua,dabihett,77.0,,lynalan,bacchus marsh,2034,qld,19650810.0,25.0,,9843114
+1344.0,joshua,dabinett,20.0,florentine circuit,lynalan,bacchus marsh,2034,qld,19650810.0,25.0,,9841134,joshua,dabniktt,23.0,florentine circuit,,bacchus nzmarsh,0324,qld,19650180.0,25.0,,9841134
+1344.0,joshua,dabinett,20.0,florentine circuit,lynalan,bacchus marsh,2034,qld,19650810.0,25.0,,9841134,,daibpett,204.0,florentineuvircuit,lynalan,holden hull,2034,qld,19650810.0,25.0,,9841134
+1344.0,joshua,dabinett,20.0,florentine circuit,lynalan,bacchus marsh,2034,qld,19650810.0,25.0,,9841134,joshua,dabinett,3.0,,,bacchus marsh,2034,qld,19650810.0,33.0,,9841134
+1349.0,amber,rolfe,59.0,narran street,,oak flats,3214,,19680622.0,24.0,02 11620579,5473751,,rolfe,59.0,narranstreet,,oak fltats,3214,,,24.0,02 11620579,5471175
+1349.0,amber,rolfe,59.0,narran street,,oak flats,3214,,19680622.0,24.0,02 11620579,5473751,amber,rolfr,59.0,narran street,,321m,oak flats,,,24.0,02 11620579,5477531
+1349.0,amber,rolfe,59.0,narran street,,oak flats,3214,,19680622.0,24.0,02 11620579,5473751,rolfe,amfer,59.0,narranstreet,,oak flwsts,3214,,19005224.0,24.0,02 11620579,5473751
+1349.0,amber,rolfe,59.0,narran street,,oak flats,3214,,19680622.0,24.0,02 11620579,5473751,ambwr,rolfe,59.0,narran street,,oak fts,3242,,19680622.0,29.0,02 11620579,5472351
+1350.0,tristan,goss,12.0,gungurra crescent,,cessnock,4670,sa,19091224.0,37.0,04 03581857,1000047,ambrr,rolf,59.0,,,oakswlat,3262,,19685622.0,24.0,02 11620579,5473751
+1350.0,tristan,goss,12.0,gungurra crescent,,cessnock,4670,sa,19091224.0,37.0,04 03581857,1000047,,rolfnk,59.0,narran street,,oak fkfts,3214,,19680622.0,42.0,02 11697579,5473751
+1350.0,tristan,goss,12.0,gungurra crescent,,cessnock,4670,sa,19091224.0,37.0,04 03581857,1000047,ambef,rolfe,59.0,,,oak fblat,3241,nsr,19686022.0,24.0,02 11620579,5473751
+1352.0,bella,rayner,21.0,wisdom street,,lang lang,6027,vic,,32.0,04 36370708,2307345,bekla,ra yne,25.0,wisdom street,,lang lang,6023,vif,,23.0,03 53836193,2307345
+1352.0,bella,rayner,21.0,wisdom street,,lang lang,6027,vic,,32.0,04 36370708,2307345,bella,ranf,21.0,wisdom street,,lang lang,6088,viu,,,04 36370708,2307345
+1352.0,bella,rayner,21.0,wisdom street,,lang lang,6027,vic,,32.0,04 36370708,2307345,belah,raynzer,3.0,wisdm street,,lang jang,6027,vin,,32.0,04 36370708,2307345
+1352.0,bella,rayner,21.0,wisdom street,,lang lang,6027,vic,,32.0,04 36370708,2307345,bells,rayner,2.0,wisdom street,,lan uang,6027,civ,,32.0,04 36370708,2307345
+1352.0,bella,rayner,21.0,wisdom street,,lang lang,6027,vic,,32.0,04 36370708,2307345,beola,rayner,1.0,wisdom street,,lang lthang,6027,vic,19899816.0,23.0,04 36370708,5313119
+1353.0,jean-claude,haulage,50.0,burkitt street,,conway,2460,tas,19070222.0,32.0,03 70168345,9015309,bell,rayner,22.0,petterd street,,lang lang,6027,vif,,36.0,04 35270708,1188834
+1366.0,emiily,,10.0,embley street,,atwell,4341,sa,19000601.0,27.0,07 14313822,1509146,emiily,,10.0,embley street,,atwreflo,4314,sm,,27.0,07 14313822,1509146
+1366.0,emiily,,10.0,embley street,,atwell,4341,sa,19000601.0,27.0,07 14313822,1509146,emiil,,19.0,embleyqstreet,,atw emll,4345,sa,19000401.0,27.0,07 14313822,1509146
+1366.0,emiily,,10.0,embley street,,atwell,4341,sa,19000601.0,27.0,07 14313822,1509146,emiik,,2.0,embleylsfreet,,atwell,4341,sa,19090691.0,27.0,07 14313822,1509146
+1375.0,jacob,bettison,74.0,nanda place,summerhill,lakemba,4807,vic,19200225.0,25.0,,2433928,jacb,bettion,849.0,nanda place,,lakemba,4807,vic,19200225.0,25.0,,2333928
+1375.0,jacob,bettison,74.0,nanda place,summerhill,lakemba,4807,vic,19200225.0,25.0,,2433928,jacoh,bettiwon,,nanda place,,lakenha,4807,vif,19200225.0,25.0,,2433928
+1375.0,jacob,bettison,74.0,nanda place,summerhill,lakemba,4807,vic,19200225.0,25.0,,2433928,jsclb,,85.0,nanda place,summerhill,lakemba,4827,vic,19202025.0,29.0,,2439328
+1375.0,jacob,bettison,74.0,nanda place,summerhill,lakemba,4807,vic,19200225.0,25.0,,2433928,jacob,,74.0,nanda place,summerhill,lakejba,8407,vic,19200252.0,,,2434982
+1376.0,serena,o'malley,57.0,mcmillan crescent,rodney park,ryde,2251,nsw,19090621.0,30.0,02 35672542,6319657,seren a,,57.0,mcmilla nrescent,rodney park,rydeield,2517,nsw,19090621.0,30.0,02 35672542,6319657
+1376.0,serena,o'malley,57.0,mcmillan crescent,rodney park,ryde,2251,nsw,19090621.0,30.0,02 35672542,6319657,kale,bettison,,,,lakmba,4807,vic,19202205.0,,,2433928
+1376.0,serena,o'malley,57.0,mcmillan crescent,rodney park,ryde,2251,nsw,19090621.0,30.0,02 35672542,6319657,jacob,bettison,74.0,nanda place,summerhill,millicent,2230,viw,19202025.0,28.0,,2433928
+1376.0,serena,o'malley,57.0,mcmillan crescent,rodney park,ryde,2251,nsw,19090621.0,30.0,02 35672542,6319657,seeena,,537.0,mcmillan crescent,,ryde,2251,,19790505.0,30.0,04 59409611,6319657
+1376.0,serena,o'malley,57.0,mcmillan crescent,rodney park,ryde,2251,nsw,19090621.0,30.0,02 35672542,6319657,serena,o'malley,56.0,mcmillan crescent,rodney park,ry,2251,nsw,19090621.0,31.0,02 35630542,6319967
+1381.0,william,gillman,124.0,simpson street,,miles end,3095,wa,19510313.0,24.0,08 95869134,1500029,william,gilman,124.0,simpson gfreet,,miles end,3095,wa,19513393.0,37.0,08 95869134,5373928
+1381.0,william,gillman,124.0,simpson street,,miles end,3095,wa,19510313.0,24.0,08 95869134,1500029,william,gilomam,126.0,simpson dtreet,,mile end,3095,wa,19510313.0,24.0,08 95869134,1500029
+1381.0,william,gillman,124.0,simpson street,,miles end,3095,wa,19510313.0,24.0,08 95869134,1500029,william,gillman,2.0,simpson street,,miles end,3095,wa,19513273.0,24.0,08 98561934,1500029
+1381.0,william,gillman,124.0,simpson street,,miles end,3095,wa,19510313.0,24.0,08 95869134,1500029,wilcism,gillman,124.0,simpson street,,mile dn,3095,wa,19510413.0,20.0,08 95869134,1500209
+1382.0,liam,miller,47.0,macdonnell street,,north ward,4507,vic,19701029.0,30.0,08 27519271,2307808,william,gilhan,124.0,simpson street,retire ptswrth vlg,milzsbend,3095,wa,19510233.0,24.0,08 95896134,1500629
+1408.0,megan,lowry,13.0,walker crescent,,moorooka,2261,wa,19430423.0,,03 92087466,6534103,megan,lowty,,walker ct dscent,,moorokkoa,2261,wa,19430423.0,,03 92087466,6534103
+1418.0,samuel,winderbaum,7.0,coobina place,,dynnyrne,6280,nsw,19080207.0,27.0,07 60117617,5490872,samual,windqrvapum,7.0,coobinm place,,dynnyrne,6280,nsw,19082017.0,27.0,07 60117617,5490872
+1418.0,samuel,winderbaum,7.0,coobina place,,dynnyrne,6280,nsw,19080207.0,27.0,07 60117617,5490872,samuel,windegfaum,9.0,,,dynnyne,6230,nsw,19082227.0,27.0,07 60117617,5490872
+1418.0,samuel,winderbaum,7.0,coobina place,,dynnyrne,6280,nsw,19080207.0,27.0,07 60117617,5490872,,samuel,,coobinaplzace,,dynnyrne,6280,nsw,19080607.0,27.0,07 60117617,5490372
+1418.0,samuel,winderbaum,7.0,coobina place,,dynnyrne,6280,nsw,19080207.0,27.0,07 60117617,5490872,winderbium,samue,7.0,coobinaxplace,,dynnyrne,6280,nsw,19080207.0,27.0,07 61607617,5490872
+1421.0,kimberley,oelkers,71.0,durville crescent,,paringa,4157,nsw,,33.0,07 54659152,8436554,kimbdrley,yandqjl,71.0,durville crescent,,paringa,4174,nsw,,33.0,07 54569152,8436554
+1421.0,kimberley,oelkers,71.0,durville crescent,,paringa,4157,nsw,,33.0,07 54659152,8436554,,oelkes,70.0,durville crescent,,paringya,4157,nsw,,39.0,07 54659152,8436554
+1421.0,kimberley,oelkers,71.0,durville crescent,,paringa,4157,nsw,,33.0,07 54659152,8436554,kimberley,oelkers,722.0,durville crescent,,parioga,4157,no,19870622.0,33.0,,8436554
+1423.0,jayden,cook,231.0,scrivener street,holm point,ocean reef,5163,vic,19231208.0,31.0,04 17500695,7208527,jatden,cook,12.0,scrivener street,holm point,ocean reef,5163,vic,19231108.0,53.0,04 17500695,7208527
+1447.0,rosa,de grees,15.0,,,warwick,4650,,19760519.0,,07 35330115,7693560,rosa,de grees,15.0,,,warwick,4650,,19760519.0,,07 35330515,7693452
+1447.0,rosa,de grees,15.0,,,warwick,4650,,19760519.0,,07 35330115,7693560,rmoz,de grgeds,15.0,,daisy vale jindalee,warwick,4650,,19760519.0,,03 10846694,7693560
+1447.0,rosa,de grees,15.0,,,warwick,4650,,19760519.0,,07 35330115,7693560,rosa,de grmees,7.0,,,warwtmc,4650,,19756019.0,,07 35330115,7693560
+1453.0,giuliana,radford,21.0,tarrant crescent,coroneagh park,boolarra,5038,sa,19030129.0,18.0,08 81519270,4657701,giuliana,radfozwd,26.0,tarrant chscent,coroneagh park,boolarra,5038,sa,19031029.0,18.0,08 81519270,1527531
+1453.0,giuliana,radford,21.0,tarrant crescent,coroneagh park,boolarra,5038,sa,19030129.0,18.0,08 81519270,4657701,giuliana,radford,36.0,tarrant nrdscent,,boolarra,5038,sa,19030129.0,29.0,08 81519270,4657701
+1456.0,domenique,schwarze,204.0,peppin place,,croydon,3028,wa,19271104.0,36.0,08 60636688,1359534,domenique,schwrze,355.0,peppin place,,croyon,6202,wa,19271104.0,36.0,08 60636688,1359534
+1456.0,domenique,schwarze,204.0,peppin place,,croydon,3028,wa,19271104.0,36.0,08 60636688,1359534,domenizue,schwarze,204.0,peppin place,,croyden,3082,wa,19216194.0,36.0,08 55225275,1359534
+1456.0,domenique,schwarze,204.0,peppin place,,croydon,3028,wa,19271104.0,36.0,08 60636688,1359534,domenique,schwarze,26.0,peppin place,,croydon,3028,w,,39.0,08 60636688,1359534
+1456.0,domenique,schwarze,204.0,peppin place,,croydon,3028,wa,19271104.0,36.0,08 60636688,1359534,domekqze,schwarze,407.0,peppinaplace,,croyodn,3028,wa,19271104.0,34.0,08 60636688,1359534
+1456.0,domenique,schwarze,204.0,peppin place,,croydon,3028,wa,19271104.0,36.0,08 60636688,1359534,domenique,schwarze,202.0,peppibtplace,,croydon,3028,wa,19217120.0,35.0,08 60666388,1359534
+1457.0,harriet,lindesay,9.0,hinkler street,,maroubra,3250,nsw,19681217.0,27.0,07 99521196,6034452,domenique,schwarze,219.0,peppinsplace,,croydon,3189,,19271104.0,36.0,08 60646688,1359534
+1457.0,harriet,lindesay,9.0,hinkler street,,maroubra,3250,nsw,19681217.0,27.0,07 99521196,6034452,domeliue,schwarze,2049.0,peppin place,,croyden,3028,wa,19271104.0,36.0,08 60062688,1359534
+1457.0,harriet,lindesay,9.0,hinkler street,,maroubra,3250,nsw,19681217.0,27.0,07 99521196,6034452,domenqiue,schwarze,204.0,peppinplolace,park farm,croydon,3820,wa,19274104.0,36.0,08 60636388,1359534
+1457.0,harriet,lindesay,9.0,hinkler street,,maroubra,3250,nsw,19681217.0,27.0,07 99521196,6034452,domenique,schwarze,204.0,peppix place,,croydon,3057,fa,19241104.0,29.0,04 14119532,1359534
+1466.0,taylor-saige,zerk,15.0,wongoola close,,mulgrave east,3016,nsw,19980204.0,,08 45976009,7614650,taylor-ksige,zerq,15.0,wongoola close,,mulgravei east,3016,nsw,19980204.0,,08 44980609,7614650
+1466.0,taylor-saige,zerk,15.0,wongoola close,,mulgrave east,3016,nsw,19980204.0,,08 45976009,7614650,taylor-saige,zre,15.0,wongoolb close,veterans retirement village,mulgrwveteast,3016,nje,19980204.0,,08 45976009,7614650
+1466.0,taylor-saige,zerk,15.0,wongoola close,,mulgrave east,3016,nsw,19980204.0,,08 45976009,7614650,taylor-saige,zerl,15.0,barringtonwcescent,,mulgrveest,3016,nsw,19980204.0,,08 45986009,7614250
+1466.0,taylor-saige,zerk,15.0,wongoola close,,mulgrave east,3016,nsw,19980204.0,,08 45976009,7614650,taylor-aige,zekek,15.0,wongoola close,,mulgra teast,3016,nsw,19980024.0,,08 45976009,7614650
+1476.0,jack,loo,53.0,,,cashmere,7315,vic,19140629.0,30.0,08 25116387,1759583,jack,loog,53.0,,,cashmrre,7315,vic,,,08 25116387,1771483
+1477.0,riley,rains,8.0,boehm close,keswick barracks,sebastopol,3079,nsw,19840423.0,27.0,08 88467373,2591934,riley,rains,82.0,boehm vclose,,sebastopol,3079,nsw,19849493.0,27.0,08 88468473,2591934
+1477.0,riley,rains,8.0,boehm close,keswick barracks,sebastopol,3079,nsw,19840423.0,27.0,08 88467373,2591934,riley,rains,8.0,boehm lcose,keswick bsrracks,sebasyopwol,3091,nsw,,26.0,08 88467373,2591939
+1477.0,riley,rains,8.0,boehm close,keswick barracks,sebastopol,3079,nsw,19840423.0,27.0,08 88467373,2591934,riley,ra ins,9.0,boehmycjose,keswick barracks,sebastopol,3079,nsw,,29.0,08 88462773,2591934
+1477.0,riley,rains,8.0,boehm close,keswick barracks,sebastopol,3079,nsw,19840423.0,27.0,08 88467373,2591934,riley,dowoinlg,2.0,boehmr lose,,sebastopol,3078,nsw,19840423.0,27.0,08 88467373,2591934
+1478.0,thomas,simon,13.0,dobell circuit,,port macquarie,2502,sa,19610401.0,28.0,07 15073430,9295678,riley,rains,8.0,boehm close,,sebastopol,3079,nsw,19840423.0,,08 88467373,2591543
+1493.0,tom,turner,6.0,curlew place,morangarell,temora,2469,nsw,19870126.0,37.0,04 77952997,1802286,tom,turner,6.0,curlewgouace,morangarell,temoa,2469,wa,19870126.0,37.0,04 77952997,1804226
+1493.0,tom,turner,6.0,curlew place,morangarell,temora,2469,nsw,19870126.0,37.0,04 77952997,1802286,om,,6.0,curlewqolsce,morangarell,teomrxm,2469,nsw,19870126.0,38.0,04 77952997,1802246
+1493.0,tom,turner,6.0,curlew place,morangarell,temora,2469,nsw,19870126.0,37.0,04 77952997,1802286,td,tuemer,4.0,curlewlplace,,temora,2469,nsw,19870126.0,27.0,04 77952997,1802286
