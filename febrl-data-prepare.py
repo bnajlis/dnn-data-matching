@@ -3,6 +3,7 @@ import numpy as np
 import argparse
 import math
 from sklearn.model_selection import train_test_split
+from sklearn.utils import shuffle
 
 
 DEBUG_MODE = False
@@ -82,7 +83,17 @@ odd_rows = odd_rows.rename(index=str, columns={
 # Join both sets on index (which should be equal by now)
 febrl_df = pd.merge(even_rows, odd_rows, on='rec_id').sort_values(by='rec_id')
 
-# TODO: Add new synthetic non-match records to create a more balanced dataset
+# Add is_duplicate field (always set to 'y')
+febrl_df['is_duplicate'] = 'y'
+
+# Add new synthetic non-match records to create a more balanced dataset
+new_odd_rows = odd_rows
+new_odd_rows['rec_id'] = new_odd_rows['rec_id'] + 1
+febrl_df_non_matches = pd.merge(even_rows, new_odd_rows, on='rec_id')
+febrl_df_non_matches['is_duplicate'] = 'n'
+
+# Merge duplicates and non-duplicates
+febrl_df = pd.concat([febrl_df, febrl_df_non_matches])
 
 # Replace all NA fields with empty strings
 febrl_df = febrl_df.fillna('')
@@ -101,8 +112,6 @@ elif fields == 'all':
     febrl_df['original'] = febrl_df.given_name + field_sep + febrl_df.surname + field_sep + febrl_df.street_number + field_sep + febrl_df.address_1 + field_sep + febrl_df.address_2 + field_sep + febrl_df.suburb + field_sep + febrl_df.postcode + field_sep + febrl_df.state + field_sep + febrl_df.date_of_birth + field_sep + febrl_df.age + field_sep + febrl_df.phone_number + field_sep + febrl_df.soc_sec_id
     febrl_df['duplicate'] = febrl_df.given_name_duplicate + field_sep + febrl_df.surname_duplicate + field_sep + febrl_df.street_number_duplicate + field_sep + febrl_df.address_1_duplicate + field_sep + febrl_df.address_2_duplicate + field_sep + febrl_df.suburb_duplicate + field_sep + febrl_df.postcode_duplicate + field_sep + febrl_df.state_duplicate + field_sep + febrl_df.date_of_birth_duplicate + field_sep + febrl_df.age_duplicate + field_sep + febrl_df.phone_number_duplicate + field_sep + febrl_df.soc_sec_id_duplicate
 
-# Add is_duplicate field (always set to 'y')
-febrl_df['is_duplicate'] = 'y'
 # Remove all other columns
 febrl_df = febrl_df.loc[:,febrl_df.columns.intersection(['original', 'duplicate', 'is_duplicate'])]
 
@@ -121,11 +130,13 @@ if split_dataset :
 
     # Need to manipulate the validation and training sets a bit more
     febrl_df_val['is_duplicate'] = febrl_df_val['is_duplicate'].str.replace('y', '1')
+    febrl_df_val['is_duplicate'] = febrl_df_val['is_duplicate'].str.replace('n', '0')
     febrl_df_val = febrl_df_val[['is_duplicate', 'original', 'duplicate']]
     febrl_df_val.to_csv(output_filename + '.validation', index=False, header=include_header,sep=sep)
     print('Written {} rows to {}'.format(febrl_df_val.shape[0], output_filename + '.validation'))
 
     febrl_df_test['is_duplicate'] = febrl_df_test['is_duplicate'].str.replace('y', '1')
+    febrl_df_test['is_duplicate'] = febrl_df_test['is_duplicate'].str.replace('n', '0')
     febrl_df_test = febrl_df_test[['is_duplicate', 'original', 'duplicate']]
     febrl_df_test.to_csv(output_filename + '.test', index=False, header=include_header,sep=sep)
     print('Written {} rows to {}'.format(febrl_df_test.shape[0], output_filename + '.test'))
