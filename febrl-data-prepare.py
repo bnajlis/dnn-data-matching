@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import argparse
 import math
+from sklearn.model_selection import train_test_split
+
 
 DEBUG_MODE = False
 
@@ -22,12 +24,15 @@ else:
         help='True/False to include column names in first row')
     parser.add_argument('--fields', dest='fields',
         help='\'name\', \'name_address\', \'all\'')
+    parser.add_argument('--tvt_split', dest='split',
+   	help='True/False to split into Training. Validation and Test sets (70%, 10%, 20%)')
 
     args = parser.parse_args()
 
     input_filename = args.input_filename
     output_filename = args.output_filename
     include_header = (args.header == "True")
+    split_dataset = (args.split == "True")
     file_format = args.file_format
     fields = args.fields
    
@@ -77,6 +82,8 @@ odd_rows = odd_rows.rename(index=str, columns={
 # Join both sets on index (which should be equal by now)
 febrl_df = pd.merge(even_rows, odd_rows, on='rec_id').sort_values(by='rec_id')
 
+# TODO: Add new synthetic non-match records to create a more balanced dataset
+
 # Replace all NA fields with empty strings
 febrl_df = febrl_df.fillna('')
 
@@ -99,14 +106,31 @@ febrl_df['is_duplicate'] = 'y'
 # Remove all other columns
 febrl_df = febrl_df.loc[:,febrl_df.columns.intersection(['original', 'duplicate', 'is_duplicate'])]
 
-
-# Output new dataset
+# Prepare formatting to output new dataset(s)
 if file_format == 'CSV':
+
     sep = ','
 else:
     sep = '\t'
-febrl_df.to_csv(output_filename, index=False, header=include_header,sep=sep)
 
-print('Written {} rows to {}'.format(febrl_df.shape[0], output_filename))
+if split_dataset :
+    febrl_df_train, febrl_df_valtest = train_test_split(febrl_df, test_size=0.3)
+    febrl_df_val, febrl_df_test = train_test_split(febrl_df_valtest, test_size=2/3)
+    febrl_df_train.to_csv(output_filename + '.train', index=False, header=include_header,sep=sep)
+    print('Written {} rows to {}'.format(febrl_df_train.shape[0], output_filename + '.train'))
+
+    # Need to manipulate the validation and training sets a bit more
+    febrl_df_val['is_duplicate'] = febrl_df_val['is_duplicate'].str.replace('y', '1')
+    febrl_df_val = febrl_df_val[['is_duplicate', 'original', 'duplicate']]
+    febrl_df_val.to_csv(output_filename + '.validation', index=False, header=include_header,sep=sep)
+    print('Written {} rows to {}'.format(febrl_df_val.shape[0], output_filename + '.validation'))
+
+    febrl_df_test['is_duplicate'] = febrl_df_test['is_duplicate'].str.replace('y', '1')
+    febrl_df_test = febrl_df_test[['is_duplicate', 'original', 'duplicate']]
+    febrl_df_test.to_csv(output_filename + '.test', index=False, header=include_header,sep=sep)
+    print('Written {} rows to {}'.format(febrl_df_test.shape[0], output_filename + '.test'))
+else:
+    febrl_df.to_csv(output_filename, index=False, header=include_header,sep=sep)
+    print('Written {} rows to {}'.format(febrl_df.shape[0], output_filename))
 
     
