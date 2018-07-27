@@ -87,9 +87,9 @@ febrl_df = pd.merge(even_rows, odd_rows, on='rec_id').sort_values(by='rec_id')
 febrl_df['is_duplicate'] = 'y'
 
 # Add new synthetic non-match records to create a more balanced dataset
-new_odd_rows = odd_rows
+new_odd_rows = odd_rows.head(1000)
 new_odd_rows['rec_id'] = new_odd_rows['rec_id'] + 1
-febrl_df_non_matches = pd.merge(even_rows, new_odd_rows, on='rec_id')
+febrl_df_non_matches = pd.merge(even_rows.head(1000), new_odd_rows, on='rec_id')
 febrl_df_non_matches['is_duplicate'] = 'n'
 
 # Merge duplicates and non-duplicates
