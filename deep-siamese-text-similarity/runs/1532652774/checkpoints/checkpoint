@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532652774/checkpoints/model-8000"
+all_model_checkpoint_paths: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532652774/checkpoints/model-1000"
+all_model_checkpoint_paths: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532652774/checkpoints/model-2000"
+all_model_checkpoint_paths: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532652774/checkpoints/model-3000"
+all_model_checkpoint_paths: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532652774/checkpoints/model-8000"
