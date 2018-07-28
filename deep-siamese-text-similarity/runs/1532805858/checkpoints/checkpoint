@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532805858/checkpoints/model-5000"
+all_model_checkpoint_paths: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532805858/checkpoints/model-1000"
+all_model_checkpoint_paths: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532805858/checkpoints/model-4000"
+all_model_checkpoint_paths: "/home/b52_net/MRP/reference-projects/deep-siamese-text-similarity/runs/1532805858/checkpoints/model-5000"
