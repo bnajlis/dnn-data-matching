@@ -1,0 +1,5 @@
+DeepSiameseTextSimilarity
+numpy==1.11.0
+tensorflow==1.2.1
+gensim==1.0.1
+nltk==3.2.2
